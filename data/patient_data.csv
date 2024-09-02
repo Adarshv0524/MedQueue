@@ -1,0 +1,2001 @@
+Patient ID,Age,Gender,Blood Pressure,Heart Rate,Temperature,Respiratory Rate,Symptoms,Medical History,Diagnosis,Admission Date
+P0001,61,Other,129/86,74,37.4,18,"cough, fever, headache",diabetes,Hypertension,2024-05-09
+P0002,5,Other,134/78,87,36.1,13,"sore throat, nausea","none, diabetes",Diabetes,2020-09-08
+P0003,38,Male,104/76,88,36.9,19,"headache, cough",diabetes,Hypertension,2023-06-02
+P0004,96,Other,108/78,75,36.0,15,"sore throat, nausea, cough","diabetes, none",Cold,2022-08-07
+P0005,81,Other,106/80,66,36.6,14,"fever, cough","hypertension, diabetes",Cold,2021-05-31
+P0006,63,Other,105/69,97,37.6,13,"fatigue, cough",diabetes,Diabetes,2024-05-25
+P0007,78,Female,120/64,93,38.7,20,"sore throat, fever","none, hypertension",Flu,2021-04-29
+P0008,30,Other,97/67,61,37.6,12,"nausea, headache",hypertension,Diabetes,2023-09-07
+P0009,24,Other,98/86,95,37.3,12,"nausea, fever, sore throat","asthma, diabetes",Cold,2022-11-29
+P0010,96,Other,99/80,75,38.2,19,"fever, cough, nausea",asthma,COVID-19,2020-01-31
+P0011,91,Female,103/74,86,37.9,19,"cough, fever",asthma,COVID-19,2023-04-03
+P0012,40,Female,91/87,77,37.5,13,headache,"diabetes, hypertension",Hypertension,2021-12-13
+P0013,88,Other,106/81,84,37.3,13,"nausea, fever","asthma, hypertension",COVID-19,2022-09-16
+P0014,2,Other,124/85,70,37.7,13,"fever, sore throat, nausea","diabetes, none",COVID-19,2022-03-23
+P0015,18,Female,97/89,77,37.7,12,"sore throat, nausea",hypertension,Hypertension,2022-03-25
+P0016,89,Male,91/66,64,36.1,20,sore throat,diabetes,Diabetes,2022-08-31
+P0017,40,Other,126/61,88,38.8,19,"sore throat, fever, cough",asthma,Flu,2020-05-27
+P0018,3,Other,119/69,63,38.9,12,"headache, fever","hypertension, asthma",Flu,2023-10-07
+P0019,65,Male,119/84,73,36.4,13,"fever, fatigue",none,Cold,2020-03-16
+P0020,27,Other,128/78,74,38.1,20,"nausea, fatigue","asthma, diabetes",Flu,2021-10-23
+P0021,87,Male,134/60,72,38.8,13,"cough, fatigue",none,Hypertension,2023-01-19
+P0022,30,Other,130/89,85,37.0,19,cough,hypertension,Flu,2021-07-26
+P0023,61,Female,97/87,84,37.7,17,cough,asthma,Diabetes,2020-01-13
+P0024,52,Other,92/67,91,36.1,20,"sore throat, headache, nausea",none,Flu,2022-12-23
+P0025,6,Female,116/65,84,36.7,18,fever,diabetes,Diabetes,2021-03-25
+P0026,54,Other,120/61,88,36.3,20,cough,none,COVID-19,2023-12-27
+P0027,76,Other,139/78,83,37.3,17,"fever, fatigue",diabetes,Hypertension,2023-02-23
+P0028,8,Male,118/85,81,36.7,15,"sore throat, nausea, fatigue",hypertension,Diabetes,2024-06-24
+P0029,61,Female,97/86,96,36.8,19,"cough, nausea","diabetes, hypertension",Flu,2021-01-19
+P0030,44,Other,102/75,73,38.5,14,"fever, sore throat, cough","hypertension, diabetes",Diabetes,2024-01-08
+P0031,65,Male,111/82,86,36.7,15,cough,"hypertension, asthma",Hypertension,2024-04-21
+P0032,5,Female,120/71,88,36.6,12,fever,diabetes,Cold,2021-11-24
+P0033,97,Other,115/79,76,37.4,18,"headache, cough",asthma,Cold,2024-01-19
+P0034,61,Female,114/60,100,37.8,14,"cough, sore throat, fever","diabetes, asthma",Cold,2020-12-19
+P0035,81,Male,118/83,85,36.7,18,headache,"hypertension, none",Cold,2021-07-30
+P0036,31,Other,95/69,60,38.9,14,nausea,"hypertension, diabetes",Diabetes,2024-06-06
+P0037,47,Male,129/70,86,36.4,20,"nausea, cough",hypertension,Cold,2023-07-25
+P0038,60,Male,120/73,92,37.8,19,"fatigue, headache",hypertension,COVID-19,2021-05-31
+P0039,88,Other,92/90,90,38.1,17,fatigue,hypertension,Hypertension,2024-01-31
+P0040,94,Male,136/70,98,36.7,16,"fever, nausea, cough","asthma, hypertension",Hypertension,2022-05-04
+P0041,66,Female,95/68,81,37.7,12,"sore throat, fever",none,Diabetes,2022-08-02
+P0042,33,Male,135/75,95,36.3,15,headache,"diabetes, none",Cold,2023-01-25
+P0043,17,Other,115/60,99,36.4,20,"fatigue, cough, headache","diabetes, asthma",Cold,2023-04-01
+P0044,49,Female,99/64,93,37.6,17,"nausea, cough","asthma, none",COVID-19,2022-07-15
+P0045,37,Female,122/70,85,37.7,18,"fever, cough","asthma, diabetes",Flu,2023-10-18
+P0046,55,Other,120/63,96,38.3,19,"fatigue, sore throat","none, diabetes",Flu,2022-07-04
+P0047,91,Female,94/74,77,38.6,14,"sore throat, fever, nausea",hypertension,Hypertension,2022-01-31
+P0048,60,Female,92/66,74,38.7,19,"headache, cough, sore throat",none,Cold,2023-02-24
+P0049,52,Male,136/86,62,36.9,14,sore throat,asthma,COVID-19,2023-08-26
+P0050,50,Other,121/77,77,38.4,12,"sore throat, fatigue, fever",diabetes,COVID-19,2023-09-26
+P0051,98,Male,132/61,77,37.2,20,"sore throat, fever, headache",hypertension,COVID-19,2024-08-25
+P0052,100,Male,140/67,61,37.8,17,fever,diabetes,Hypertension,2020-08-06
+P0053,75,Other,97/69,100,37.4,18,"headache, cough, nausea",asthma,Diabetes,2024-08-02
+P0054,72,Female,106/81,94,37.8,18,"nausea, headache",none,Flu,2022-04-02
+P0055,52,Female,134/60,74,37.4,19,"cough, fatigue, nausea",none,Cold,2020-02-02
+P0056,23,Other,139/88,70,37.9,12,sore throat,asthma,Cold,2024-08-06
+P0057,60,Female,130/84,75,36.3,14,fatigue,asthma,Diabetes,2023-10-12
+P0058,58,Other,135/82,65,38.4,12,"nausea, cough",asthma,Hypertension,2021-07-26
+P0059,26,Other,116/80,66,38.3,12,"cough, nausea","hypertension, asthma",Hypertension,2023-12-18
+P0060,59,Other,119/76,66,38.1,14,"nausea, fatigue","none, diabetes",Cold,2022-09-22
+P0061,64,Other,111/76,89,38.0,13,"sore throat, nausea","none, diabetes",Diabetes,2023-02-21
+P0062,56,Other,132/65,77,37.4,19,"headache, fever, cough",diabetes,Diabetes,2023-07-11
+P0063,37,Female,138/84,66,36.2,18,"nausea, fatigue","none, hypertension",Flu,2021-12-22
+P0064,14,Female,103/72,69,36.2,15,"fatigue, fever","asthma, none",Diabetes,2021-08-15
+P0065,53,Male,94/86,60,38.9,20,"fatigue, sore throat, headache","hypertension, diabetes",Diabetes,2020-12-05
+P0066,7,Other,102/71,80,38.4,17,"nausea, fatigue, sore throat",diabetes,Diabetes,2022-03-07
+P0067,99,Female,130/90,66,37.0,13,"cough, fever",diabetes,COVID-19,2023-10-21
+P0068,27,Female,111/82,97,36.3,15,"fatigue, cough, fever","none, asthma",Cold,2021-12-28
+P0069,28,Female,130/81,68,37.6,17,"fever, headache",none,Diabetes,2021-04-07
+P0070,6,Male,117/87,90,37.0,14,"fever, nausea",asthma,Hypertension,2021-12-11
+P0071,36,Other,104/90,92,37.7,18,"nausea, fatigue, cough","hypertension, asthma",Hypertension,2020-03-06
+P0072,1,Male,129/83,86,36.4,20,cough,none,Flu,2021-12-11
+P0073,51,Other,136/69,98,38.3,19,nausea,"asthma, diabetes",Cold,2021-03-04
+P0074,44,Female,108/69,65,38.8,15,"cough, headache",hypertension,Cold,2021-07-29
+P0075,50,Female,125/80,84,36.5,18,"headache, nausea",diabetes,Flu,2021-06-05
+P0076,35,Male,113/71,72,37.2,20,"fever, fatigue",hypertension,Flu,2023-02-19
+P0077,17,Male,139/61,76,38.0,15,"fever, fatigue, headache","none, asthma",Diabetes,2024-01-02
+P0078,30,Male,119/73,75,38.1,20,sore throat,hypertension,Flu,2024-07-21
+P0079,16,Female,92/68,93,37.7,12,"sore throat, cough, nausea","diabetes, asthma",COVID-19,2022-09-30
+P0080,15,Female,96/82,84,36.6,20,"headache, sore throat","asthma, none",Diabetes,2021-03-14
+P0081,52,Male,120/63,74,38.5,15,"sore throat, fatigue",diabetes,Diabetes,2020-07-05
+P0082,55,Male,126/79,83,37.3,17,fatigue,"diabetes, asthma",Diabetes,2023-02-18
+P0083,36,Male,105/76,64,37.2,16,"fatigue, sore throat",none,Diabetes,2022-03-05
+P0084,74,Male,140/63,62,39.0,16,"sore throat, nausea, headache",diabetes,Hypertension,2023-02-02
+P0085,74,Other,119/79,94,36.2,13,"sore throat, nausea",diabetes,Flu,2020-02-06
+P0086,41,Female,100/67,75,37.4,18,fever,hypertension,Diabetes,2024-08-30
+P0087,83,Male,125/87,87,38.6,15,"headache, cough, fever",none,COVID-19,2023-07-05
+P0088,74,Other,115/61,98,36.4,19,"nausea, cough",hypertension,Flu,2020-09-21
+P0089,63,Female,92/86,96,37.5,16,"cough, fever",diabetes,COVID-19,2020-03-24
+P0090,32,Male,107/74,81,36.3,17,"nausea, fever","none, asthma",Cold,2024-09-01
+P0091,66,Other,108/76,79,38.1,12,"cough, fatigue, fever","hypertension, diabetes",Flu,2023-02-28
+P0092,62,Female,124/90,86,37.2,12,"nausea, fatigue, headache",diabetes,Flu,2020-01-29
+P0093,61,Female,100/69,92,36.9,15,"fever, fatigue",asthma,Flu,2021-09-21
+P0094,97,Other,117/66,69,38.2,20,"cough, fever",asthma,Cold,2020-01-25
+P0095,98,Other,102/74,73,37.0,16,sore throat,"asthma, none",Flu,2024-08-22
+P0096,84,Male,131/83,73,37.2,19,"cough, fever","asthma, none",Diabetes,2020-04-23
+P0097,19,Female,117/63,96,38.4,20,"fever, headache",diabetes,Flu,2021-12-27
+P0098,44,Female,131/64,69,37.3,18,fatigue,none,Hypertension,2020-01-02
+P0099,2,Female,132/75,90,36.1,15,"sore throat, fever, nausea","asthma, hypertension",Hypertension,2021-07-03
+P0100,19,Male,109/74,92,38.6,18,fatigue,hypertension,COVID-19,2020-05-31
+P0101,59,Female,132/85,70,38.7,14,headache,asthma,COVID-19,2021-12-24
+P0102,15,Female,101/69,79,36.1,12,"fever, cough",hypertension,Flu,2023-04-30
+P0103,20,Male,137/66,83,38.6,16,"fever, cough, nausea","asthma, hypertension",COVID-19,2021-04-04
+P0104,58,Male,99/86,67,37.0,14,nausea,none,Flu,2020-09-26
+P0105,53,Other,96/63,60,38.3,18,headache,asthma,Flu,2023-05-07
+P0106,77,Female,100/89,67,36.7,15,"headache, fatigue, nausea",diabetes,Flu,2022-07-01
+P0107,36,Other,121/88,61,38.9,13,"fatigue, sore throat",hypertension,Flu,2023-04-03
+P0108,30,Female,111/64,66,39.0,20,"sore throat, fatigue","diabetes, hypertension",Cold,2024-02-20
+P0109,17,Other,92/65,84,38.5,16,fever,"none, hypertension",Flu,2022-11-10
+P0110,24,Other,94/63,95,37.6,19,"cough, fever, nausea",diabetes,Flu,2022-09-03
+P0111,76,Female,140/75,89,37.6,20,"nausea, headache, fatigue",diabetes,COVID-19,2020-01-08
+P0112,25,Other,98/87,67,36.8,19,cough,hypertension,Cold,2022-12-24
+P0113,9,Other,116/63,82,37.8,19,"sore throat, cough, headache","hypertension, diabetes",Hypertension,2021-03-25
+P0114,84,Other,117/85,100,38.9,13,headache,"asthma, hypertension",Diabetes,2020-06-30
+P0115,21,Male,139/69,77,36.6,13,"nausea, fever, sore throat",asthma,COVID-19,2022-09-19
+P0116,70,Other,125/88,65,37.0,12,"cough, nausea","none, asthma",Diabetes,2024-06-26
+P0117,54,Male,133/84,72,36.5,15,fever,"asthma, hypertension",Diabetes,2023-10-10
+P0118,14,Other,134/83,89,38.1,16,"fever, headache","hypertension, diabetes",Diabetes,2022-06-24
+P0119,66,Female,121/63,85,37.2,13,"headache, nausea, fatigue","none, diabetes",Hypertension,2022-08-20
+P0120,33,Female,97/60,84,36.2,16,"nausea, cough, fever","hypertension, none",Cold,2020-01-24
+P0121,32,Female,93/88,64,36.1,19,fever,"asthma, hypertension",Diabetes,2022-09-16
+P0122,81,Other,109/60,92,38.5,15,"fatigue, cough, nausea","hypertension, diabetes",Diabetes,2020-05-01
+P0123,9,Male,111/67,66,38.5,17,"headache, fever",diabetes,Hypertension,2021-08-12
+P0124,85,Other,139/63,73,38.0,18,"fever, headache","asthma, hypertension",COVID-19,2024-03-18
+P0125,85,Other,118/74,62,37.6,17,"cough, sore throat, headache",none,Flu,2024-07-30
+P0126,34,Female,91/65,77,36.1,17,"headache, fatigue",diabetes,Cold,2020-09-29
+P0127,53,Other,102/68,62,37.4,18,fatigue,"asthma, diabetes",Diabetes,2024-02-09
+P0128,42,Other,118/71,96,38.1,12,"headache, sore throat, cough","diabetes, none",Cold,2020-11-06
+P0129,95,Female,97/61,78,36.3,17,"cough, headache",hypertension,Diabetes,2024-01-09
+P0130,74,Female,122/60,79,36.9,14,"nausea, sore throat, headache",asthma,Diabetes,2022-09-11
+P0131,46,Male,121/73,73,36.2,16,headache,"diabetes, none",Cold,2020-05-27
+P0132,1,Male,107/80,89,36.2,17,headache,"hypertension, none",Cold,2023-08-02
+P0133,75,Female,116/64,79,38.1,18,"cough, fever, nausea","asthma, none",Hypertension,2024-04-14
+P0134,42,Female,107/81,95,38.7,16,"headache, sore throat",diabetes,Hypertension,2024-02-03
+P0135,62,Female,140/81,87,36.4,15,nausea,"diabetes, none",Cold,2022-03-28
+P0136,1,Other,108/79,60,36.0,19,nausea,"none, asthma",COVID-19,2020-06-30
+P0137,91,Male,112/64,92,37.6,14,"nausea, fever","diabetes, asthma",Diabetes,2020-07-04
+P0138,53,Male,126/68,87,36.6,20,"fatigue, fever","none, asthma",Hypertension,2021-11-07
+P0139,9,Other,114/68,71,37.3,19,fatigue,"diabetes, asthma",Diabetes,2023-07-10
+P0140,62,Female,138/74,77,37.5,13,"headache, fever, fatigue",none,Flu,2023-06-02
+P0141,33,Male,102/81,78,38.1,15,headache,none,COVID-19,2023-09-04
+P0142,85,Other,108/60,65,36.3,16,"sore throat, fatigue, headache","diabetes, hypertension",COVID-19,2023-02-19
+P0143,22,Male,121/66,84,36.1,17,headache,diabetes,COVID-19,2024-04-28
+P0144,40,Female,137/90,81,36.9,13,"cough, nausea",hypertension,Diabetes,2021-03-03
+P0145,50,Other,124/81,83,37.1,13,"fatigue, fever",none,Cold,2023-10-09
+P0146,52,Male,109/70,71,36.8,20,"sore throat, fever","none, hypertension",Diabetes,2023-03-03
+P0147,65,Male,121/65,68,37.5,14,fatigue,diabetes,Flu,2022-02-26
+P0148,12,Female,140/81,64,37.6,16,nausea,diabetes,Flu,2023-10-02
+P0149,27,Male,130/75,99,38.1,14,"nausea, headache",diabetes,Hypertension,2022-04-29
+P0150,21,Female,113/63,93,38.5,13,fatigue,diabetes,Diabetes,2020-03-16
+P0151,78,Other,124/87,75,37.4,12,"nausea, fever, sore throat",hypertension,Hypertension,2023-10-01
+P0152,8,Other,93/60,68,36.2,14,"fatigue, nausea, headache","none, hypertension",Cold,2023-12-03
+P0153,84,Male,121/70,87,38.1,13,"headache, fatigue","diabetes, hypertension",Flu,2020-06-23
+P0154,96,Other,115/89,61,37.9,12,"cough, headache",hypertension,COVID-19,2022-07-19
+P0155,98,Other,95/68,87,36.1,16,"fever, sore throat, fatigue",none,Flu,2021-12-21
+P0156,70,Female,91/64,68,36.9,19,"fever, cough, nausea",hypertension,Cold,2021-01-29
+P0157,68,Male,130/67,95,37.1,20,"headache, cough",hypertension,Diabetes,2022-01-26
+P0158,78,Male,97/86,90,38.2,15,fatigue,none,Flu,2022-01-19
+P0159,73,Other,96/85,66,36.7,16,"cough, fever, sore throat",diabetes,Flu,2023-04-01
+P0160,87,Female,106/72,82,37.9,12,sore throat,"none, asthma",Flu,2020-01-11
+P0161,39,Female,126/82,74,36.9,18,"fever, sore throat, headache",none,Cold,2021-08-31
+P0162,89,Female,106/81,87,38.7,14,headache,none,COVID-19,2024-02-24
+P0163,62,Male,120/87,85,37.1,20,"cough, nausea, sore throat",none,COVID-19,2023-07-19
+P0164,51,Male,109/86,89,37.7,13,"fatigue, cough, headache",hypertension,Diabetes,2024-04-08
+P0165,64,Male,111/66,87,38.0,20,"fever, headache, nausea",none,Hypertension,2021-04-24
+P0166,61,Female,122/90,69,36.6,14,cough,asthma,Diabetes,2024-06-01
+P0167,92,Female,130/81,62,36.8,15,"cough, fatigue","hypertension, none",Hypertension,2023-02-28
+P0168,36,Male,96/75,87,38.4,19,headache,"hypertension, none",Cold,2022-04-06
+P0169,5,Female,96/82,64,36.5,16,"fever, fatigue, cough","diabetes, hypertension",Hypertension,2024-05-16
+P0170,76,Male,113/63,83,36.2,16,nausea,"hypertension, diabetes",Flu,2022-11-25
+P0171,92,Male,96/88,70,37.6,19,"sore throat, nausea, fatigue",diabetes,COVID-19,2020-11-19
+P0172,78,Other,124/73,75,38.1,19,"sore throat, fatigue, headache","none, asthma",Flu,2020-10-24
+P0173,82,Female,97/83,96,36.9,14,sore throat,diabetes,Hypertension,2022-08-23
+P0174,68,Female,130/69,85,36.3,20,"fever, cough, headache",asthma,Diabetes,2024-06-28
+P0175,87,Female,102/68,83,38.5,15,"fatigue, cough, nausea",none,Hypertension,2023-03-26
+P0176,36,Female,93/82,96,37.7,20,"sore throat, fatigue","diabetes, none",Cold,2023-06-06
+P0177,18,Other,108/87,96,38.7,16,"cough, nausea, headache","diabetes, none",COVID-19,2023-03-27
+P0178,13,Male,101/78,85,37.9,17,"headache, fever",none,Flu,2020-07-19
+P0179,12,Other,112/63,62,37.0,12,"fever, nausea","none, asthma",Flu,2022-02-28
+P0180,83,Other,134/87,89,37.5,17,"headache, fever, nausea","diabetes, asthma",Cold,2022-05-31
+P0181,57,Female,132/84,85,37.6,17,"fatigue, headache, fever",hypertension,Diabetes,2022-09-19
+P0182,97,Female,127/79,76,38.3,20,"sore throat, fatigue, nausea","hypertension, none",COVID-19,2024-07-01
+P0183,82,Female,124/64,64,36.5,20,"nausea, sore throat, cough","asthma, hypertension",Flu,2024-03-03
+P0184,25,Male,117/75,89,37.9,17,"sore throat, fatigue, nausea","diabetes, hypertension",Diabetes,2020-09-22
+P0185,99,Male,105/90,69,38.5,12,"fever, nausea, fatigue","asthma, none",Diabetes,2023-12-03
+P0186,16,Female,93/89,98,37.4,14,fever,"hypertension, asthma",Diabetes,2023-09-16
+P0187,81,Male,121/60,71,36.6,12,"fever, nausea, fatigue",diabetes,Hypertension,2023-09-21
+P0188,48,Male,107/88,83,38.8,14,"headache, fever, nausea",none,COVID-19,2021-05-17
+P0189,35,Other,136/64,79,37.0,18,"headache, fever","diabetes, none",Cold,2023-01-02
+P0190,22,Female,109/75,75,36.1,12,"headache, nausea","asthma, diabetes",Hypertension,2022-02-20
+P0191,97,Female,108/63,96,38.9,17,"nausea, headache, fever","hypertension, diabetes",Cold,2023-04-08
+P0192,27,Other,133/71,80,37.8,13,"fatigue, nausea, fever","diabetes, hypertension",Flu,2022-05-29
+P0193,6,Other,112/63,97,37.7,12,"nausea, sore throat","hypertension, diabetes",Diabetes,2020-07-29
+P0194,17,Other,112/71,74,36.9,14,"nausea, headache",asthma,Diabetes,2023-11-25
+P0195,75,Other,104/72,69,36.6,13,"sore throat, nausea","none, hypertension",Cold,2024-07-07
+P0196,18,Female,139/88,98,37.1,20,"sore throat, cough","none, diabetes",COVID-19,2022-01-08
+P0197,48,Other,106/64,88,37.7,19,"fever, sore throat, fatigue",asthma,Hypertension,2021-11-16
+P0198,53,Other,116/67,68,36.1,15,"cough, sore throat, nausea",diabetes,Diabetes,2020-08-08
+P0199,32,Other,115/89,60,38.2,18,"fever, fatigue","asthma, diabetes",Hypertension,2023-08-06
+P0200,45,Male,119/65,71,38.9,13,"fever, sore throat, cough",diabetes,Cold,2022-03-23
+P0201,72,Other,111/67,86,38.4,15,"fever, sore throat, nausea",none,Flu,2023-07-14
+P0202,88,Male,128/75,74,38.2,16,sore throat,"diabetes, hypertension",Diabetes,2023-12-12
+P0203,26,Other,133/78,64,36.7,16,fever,"hypertension, diabetes",Cold,2024-05-28
+P0204,80,Female,91/75,87,36.4,19,"fever, nausea, sore throat","hypertension, none",Hypertension,2022-10-11
+P0205,75,Female,119/79,85,38.0,16,"nausea, headache, fever","diabetes, none",Flu,2020-11-28
+P0206,13,Male,135/79,71,38.1,12,"fever, fatigue","hypertension, asthma",Hypertension,2022-05-15
+P0207,20,Other,104/87,96,38.7,14,"nausea, headache",diabetes,COVID-19,2020-12-04
+P0208,74,Female,122/73,62,37.4,17,"fatigue, sore throat",none,Diabetes,2023-07-19
+P0209,92,Female,110/90,93,36.3,18,"nausea, fever, cough","diabetes, asthma",COVID-19,2020-12-26
+P0210,15,Other,117/60,74,38.3,20,sore throat,"hypertension, asthma",Flu,2023-01-21
+P0211,31,Male,107/90,74,37.9,20,fever,none,Flu,2020-04-20
+P0212,33,Other,101/87,69,38.9,14,fever,"asthma, hypertension",Diabetes,2023-06-02
+P0213,42,Female,129/73,87,36.0,13,cough,hypertension,Hypertension,2020-03-01
+P0214,84,Male,134/60,98,36.9,16,sore throat,diabetes,Hypertension,2023-06-22
+P0215,14,Male,96/77,66,36.3,17,"nausea, headache",diabetes,COVID-19,2021-12-24
+P0216,76,Other,119/63,69,36.9,13,"nausea, fever","none, diabetes",Hypertension,2023-12-05
+P0217,7,Other,106/82,92,38.1,14,"nausea, cough, headache","none, asthma",COVID-19,2021-10-07
+P0218,51,Male,99/71,77,38.6,14,nausea,"none, diabetes",Flu,2023-02-22
+P0219,61,Other,105/71,78,36.9,20,"cough, nausea",asthma,Cold,2023-07-26
+P0220,52,Male,113/66,91,37.3,16,"cough, nausea, fever",asthma,Flu,2020-05-23
+P0221,88,Other,127/61,61,36.8,17,nausea,"asthma, hypertension",Cold,2020-07-20
+P0222,74,Male,99/76,62,36.9,13,"nausea, fatigue, cough","none, hypertension",COVID-19,2021-08-04
+P0223,83,Female,95/90,60,38.9,18,"fever, sore throat",hypertension,Cold,2024-08-11
+P0224,60,Female,97/73,87,38.7,16,"headache, sore throat, fatigue",none,Cold,2022-12-23
+P0225,69,Other,132/74,90,38.6,12,"cough, sore throat, fever","asthma, diabetes",Hypertension,2023-03-03
+P0226,30,Female,99/77,83,36.5,15,fever,asthma,Hypertension,2024-01-01
+P0227,16,Female,112/73,70,38.9,17,"nausea, cough","none, asthma",Flu,2021-12-09
+P0228,34,Female,90/73,71,37.7,16,cough,"diabetes, hypertension",Diabetes,2021-02-16
+P0229,79,Other,124/67,98,38.4,18,"headache, sore throat",asthma,COVID-19,2021-03-19
+P0230,32,Female,106/89,80,36.1,18,"nausea, fatigue",diabetes,Flu,2021-11-20
+P0231,13,Other,125/78,89,37.5,20,"fatigue, cough, nausea","asthma, hypertension",Hypertension,2023-11-17
+P0232,81,Other,115/79,67,37.0,18,"fatigue, headache, cough","hypertension, none",Diabetes,2022-10-10
+P0233,10,Male,102/69,75,38.5,20,"fatigue, sore throat, nausea","hypertension, diabetes",Flu,2022-05-15
+P0234,51,Female,118/64,92,38.5,14,"sore throat, fatigue, fever",hypertension,Cold,2021-12-02
+P0235,62,Female,100/68,86,36.4,14,"sore throat, fatigue, cough","hypertension, asthma",Flu,2021-11-01
+P0236,89,Male,115/89,94,36.2,17,"nausea, fatigue, sore throat",diabetes,Diabetes,2022-10-13
+P0237,81,Male,102/75,74,38.4,18,fever,asthma,COVID-19,2022-01-09
+P0238,39,Female,111/79,75,37.2,18,"nausea, fatigue, cough","asthma, hypertension",COVID-19,2023-10-07
+P0239,90,Other,138/70,91,36.9,18,fever,"none, diabetes",Hypertension,2023-09-08
+P0240,57,Male,138/72,92,38.1,17,"nausea, fever, fatigue",hypertension,Hypertension,2023-08-29
+P0241,79,Female,135/65,99,38.2,15,"nausea, cough",hypertension,Cold,2023-12-23
+P0242,14,Male,107/83,68,37.8,14,"cough, fever, sore throat","diabetes, asthma",COVID-19,2021-01-01
+P0243,67,Female,109/70,98,38.5,16,"headache, nausea",none,Flu,2022-09-16
+P0244,39,Male,133/86,67,37.2,17,fever,hypertension,Cold,2023-11-14
+P0245,51,Male,140/66,91,38.1,13,nausea,hypertension,Hypertension,2022-04-29
+P0246,7,Other,115/84,80,37.0,14,"fatigue, cough, headache",diabetes,COVID-19,2021-08-11
+P0247,100,Male,116/69,60,37.3,12,"fatigue, cough, fever",asthma,Diabetes,2024-04-10
+P0248,79,Female,139/70,61,37.8,16,"nausea, headache, sore throat","diabetes, none",Diabetes,2024-06-27
+P0249,12,Other,128/71,60,37.5,14,"cough, headache, fatigue",hypertension,COVID-19,2020-12-23
+P0250,54,Other,129/71,62,38.5,18,headache,"none, asthma",Flu,2024-01-12
+P0251,4,Male,96/80,61,37.2,14,cough,none,Cold,2020-12-01
+P0252,81,Female,123/73,81,36.7,19,"cough, headache","asthma, none",Flu,2021-08-12
+P0253,75,Female,123/61,99,36.4,14,"sore throat, headache, nausea",hypertension,Diabetes,2024-05-29
+P0254,20,Other,123/84,87,38.4,18,"fatigue, nausea",diabetes,Hypertension,2020-12-16
+P0255,32,Female,107/64,64,36.4,18,fatigue,"asthma, diabetes",Diabetes,2022-05-13
+P0256,20,Other,140/90,97,37.7,14,"cough, nausea, fever","diabetes, asthma",Hypertension,2022-11-14
+P0257,73,Other,120/82,77,36.8,16,sore throat,asthma,COVID-19,2021-07-18
+P0258,32,Female,107/85,97,38.9,19,"fever, nausea",none,Hypertension,2023-06-15
+P0259,70,Other,104/62,85,37.3,13,"nausea, fatigue, cough","hypertension, asthma",Diabetes,2022-08-11
+P0260,94,Female,124/78,89,36.9,12,"nausea, cough, fatigue",none,Cold,2020-03-10
+P0261,84,Other,117/84,72,38.3,14,fatigue,none,Flu,2021-10-28
+P0262,9,Female,131/66,99,37.9,18,headache,"hypertension, asthma",Hypertension,2021-07-14
+P0263,65,Female,111/77,83,38.6,13,fever,"asthma, diabetes",Hypertension,2020-02-18
+P0264,55,Other,94/73,84,38.5,12,"nausea, headache, fatigue",diabetes,Hypertension,2022-06-05
+P0265,71,Female,95/73,95,36.7,16,"fever, cough, nausea",diabetes,Cold,2021-08-16
+P0266,90,Female,105/87,97,38.4,16,"cough, fatigue",diabetes,COVID-19,2022-08-15
+P0267,7,Female,136/73,97,37.6,16,"cough, sore throat, fatigue","diabetes, hypertension",Hypertension,2021-08-09
+P0268,22,Female,101/85,69,38.2,20,cough,"none, diabetes",COVID-19,2020-05-19
+P0269,57,Male,109/61,100,38.9,17,"headache, sore throat","none, hypertension",Diabetes,2022-03-19
+P0270,21,Male,112/61,87,36.5,13,"cough, sore throat","hypertension, diabetes",Cold,2020-09-08
+P0271,61,Female,90/67,83,36.7,13,headache,"hypertension, asthma",Hypertension,2023-12-25
+P0272,30,Male,125/67,69,38.9,19,cough,asthma,Flu,2021-10-06
+P0273,1,Female,124/63,71,36.6,15,headache,asthma,Diabetes,2022-09-25
+P0274,43,Male,101/70,84,37.4,16,"fatigue, sore throat","hypertension, none",Hypertension,2020-12-16
+P0275,52,Male,130/89,67,38.2,13,sore throat,hypertension,Cold,2022-10-16
+P0276,81,Other,112/83,91,38.9,17,"sore throat, headache",asthma,COVID-19,2023-03-29
+P0277,68,Female,131/90,88,38.5,13,fatigue,"none, diabetes",Hypertension,2024-02-02
+P0278,91,Female,116/62,61,37.9,20,"sore throat, fever, headache","none, hypertension",Diabetes,2022-08-01
+P0279,50,Female,120/71,77,39.0,13,"nausea, fatigue, cough","diabetes, hypertension",Diabetes,2023-07-09
+P0280,64,Other,135/63,86,39.0,17,headache,none,Hypertension,2020-07-13
+P0281,19,Male,91/80,63,38.8,14,"sore throat, fever, cough",hypertension,Cold,2022-09-05
+P0282,94,Male,138/82,85,37.5,12,"fever, sore throat",diabetes,Cold,2022-06-24
+P0283,56,Other,92/89,64,38.0,13,"nausea, cough","diabetes, hypertension",COVID-19,2023-06-11
+P0284,47,Other,100/65,86,36.0,15,"sore throat, cough","none, hypertension",COVID-19,2021-01-20
+P0285,75,Other,115/84,61,36.9,14,cough,"diabetes, none",Diabetes,2023-03-24
+P0286,98,Male,90/90,89,36.1,13,nausea,asthma,COVID-19,2024-07-24
+P0287,87,Female,136/86,77,36.2,19,"nausea, headache, fever",none,Flu,2024-03-30
+P0288,17,Female,117/82,76,37.3,18,"cough, fatigue, fever",diabetes,Cold,2020-12-16
+P0289,89,Other,117/65,85,37.1,17,nausea,"diabetes, none",Cold,2022-10-29
+P0290,67,Female,132/62,69,38.3,14,"fever, cough, headache",asthma,Cold,2020-11-09
+P0291,99,Female,124/69,91,37.1,16,"headache, cough, sore throat",asthma,COVID-19,2020-05-02
+P0292,71,Male,109/76,90,37.4,16,"nausea, cough",hypertension,Hypertension,2023-02-03
+P0293,44,Male,99/80,75,38.9,20,cough,asthma,Diabetes,2022-04-14
+P0294,42,Female,132/79,98,37.3,19,"fatigue, sore throat, headache","none, hypertension",Flu,2022-11-06
+P0295,91,Other,133/75,89,37.9,17,"fever, nausea, fatigue",diabetes,COVID-19,2023-05-15
+P0296,23,Other,103/71,87,37.6,13,"sore throat, cough",hypertension,Cold,2020-05-08
+P0297,51,Male,102/87,79,36.6,13,"cough, sore throat","none, asthma",Hypertension,2021-10-21
+P0298,30,Female,114/78,82,36.0,13,"nausea, sore throat, fatigue","diabetes, asthma",Flu,2021-09-01
+P0299,12,Other,136/64,84,36.7,13,"headache, sore throat, cough",asthma,Flu,2020-11-27
+P0300,40,Male,138/67,63,36.6,16,"nausea, cough","asthma, diabetes",Diabetes,2020-02-19
+P0301,69,Male,119/87,77,37.2,16,cough,diabetes,Diabetes,2020-03-31
+P0302,80,Male,107/88,73,38.9,15,"cough, fatigue, nausea",asthma,Hypertension,2024-08-09
+P0303,34,Male,119/68,97,37.4,20,"headache, fatigue, nausea","hypertension, none",COVID-19,2020-02-28
+P0304,47,Female,103/71,64,38.9,13,nausea,"hypertension, asthma",Diabetes,2020-09-11
+P0305,3,Other,91/87,72,38.9,12,"fever, sore throat, nausea",none,COVID-19,2023-09-18
+P0306,24,Male,96/81,67,38.6,19,fatigue,hypertension,Hypertension,2020-05-24
+P0307,4,Female,109/70,74,37.0,12,"cough, headache","diabetes, hypertension",Hypertension,2021-11-07
+P0308,19,Other,136/81,62,37.2,14,"headache, fatigue","none, hypertension",Diabetes,2021-11-24
+P0309,66,Male,105/64,72,37.4,16,"cough, fever",asthma,Cold,2024-06-28
+P0310,59,Other,115/74,100,36.4,15,"fatigue, nausea, sore throat","hypertension, none",Flu,2024-01-12
+P0311,36,Male,100/79,75,38.0,14,headache,"asthma, none",Flu,2020-10-19
+P0312,93,Female,92/71,65,37.0,17,"cough, fatigue","asthma, diabetes",Cold,2020-08-22
+P0313,71,Female,96/65,79,36.9,14,"cough, sore throat",hypertension,COVID-19,2022-02-28
+P0314,37,Other,100/71,84,38.7,13,"fever, nausea","none, hypertension",Hypertension,2022-10-19
+P0315,88,Female,97/86,85,38.4,19,"fatigue, fever","hypertension, diabetes",Flu,2021-11-20
+P0316,66,Male,104/76,62,36.3,12,fatigue,none,Cold,2023-10-01
+P0317,83,Female,102/82,94,36.3,16,sore throat,"diabetes, asthma",COVID-19,2020-08-29
+P0318,20,Other,134/62,68,36.4,15,"fatigue, sore throat, cough","asthma, hypertension",Cold,2020-06-19
+P0319,41,Male,118/60,60,37.6,13,cough,asthma,Cold,2020-09-21
+P0320,78,Female,120/69,67,38.0,16,"sore throat, fever",none,Diabetes,2022-07-16
+P0321,50,Other,119/61,66,37.3,15,"fever, cough",asthma,Hypertension,2020-11-14
+P0322,60,Other,132/61,69,36.2,14,"nausea, fever","asthma, hypertension",Cold,2022-03-15
+P0323,61,Male,131/88,79,36.6,14,cough,hypertension,Cold,2021-03-21
+P0324,65,Male,97/78,61,36.7,12,"fever, sore throat, cough",diabetes,COVID-19,2023-10-14
+P0325,29,Male,132/80,86,36.7,13,"headache, cough",asthma,Diabetes,2020-12-18
+P0326,91,Other,131/80,100,36.5,17,"headache, fever, sore throat","hypertension, asthma",Hypertension,2022-06-28
+P0327,63,Male,116/67,93,38.7,12,sore throat,"hypertension, diabetes",Hypertension,2020-08-24
+P0328,96,Other,117/83,77,37.5,12,"nausea, cough","asthma, hypertension",Diabetes,2021-09-10
+P0329,67,Female,120/74,73,36.9,19,"headache, cough, fever",hypertension,COVID-19,2020-10-18
+P0330,78,Female,102/66,90,36.4,16,"headache, nausea","diabetes, asthma",Cold,2023-06-26
+P0331,12,Female,131/70,66,36.0,14,"headache, cough, nausea",diabetes,Diabetes,2024-06-12
+P0332,76,Female,105/62,81,38.7,13,"fever, headache, cough",none,Hypertension,2020-08-12
+P0333,67,Female,107/87,99,38.3,16,"headache, sore throat","asthma, diabetes",Flu,2021-06-06
+P0334,62,Male,95/83,74,37.0,16,"sore throat, fever, nausea",asthma,COVID-19,2024-05-01
+P0335,75,Male,105/61,73,36.9,15,"fatigue, headache, cough","hypertension, none",Diabetes,2022-10-28
+P0336,39,Male,115/71,97,38.2,20,headache,none,Flu,2020-10-30
+P0337,45,Other,107/89,100,38.8,17,sore throat,"none, hypertension",Hypertension,2020-07-06
+P0338,78,Other,120/78,92,37.5,17,fatigue,asthma,Hypertension,2020-05-19
+P0339,20,Female,123/68,80,38.2,16,headache,none,Hypertension,2021-08-14
+P0340,2,Female,140/66,70,38.9,14,"fatigue, nausea, sore throat","asthma, diabetes",Diabetes,2022-12-08
+P0341,77,Female,110/78,64,38.7,17,sore throat,hypertension,Diabetes,2022-02-24
+P0342,41,Male,112/81,98,38.6,17,"fatigue, headache","hypertension, asthma",Flu,2020-12-24
+P0343,41,Male,90/85,76,37.5,15,fatigue,"hypertension, none",Cold,2020-10-29
+P0344,93,Other,119/68,76,38.5,15,"cough, headache","hypertension, none",Flu,2020-10-06
+P0345,69,Other,123/89,100,37.3,16,nausea,"hypertension, none",Diabetes,2020-01-05
+P0346,38,Other,96/84,71,36.6,13,"cough, fever","diabetes, none",Flu,2021-10-27
+P0347,88,Female,120/77,96,37.0,19,"cough, headache",asthma,Flu,2020-05-04
+P0348,81,Other,91/84,86,36.5,18,sore throat,"diabetes, none",Cold,2020-02-07
+P0349,28,Male,112/82,97,38.2,14,"fatigue, headache, fever",diabetes,COVID-19,2024-01-09
+P0350,87,Other,93/65,93,36.7,12,"headache, cough, fatigue","asthma, hypertension",COVID-19,2023-11-29
+P0351,2,Female,133/65,74,37.1,16,"nausea, fatigue, headache","diabetes, none",COVID-19,2022-10-20
+P0352,53,Female,109/63,68,36.4,16,fever,"hypertension, diabetes",COVID-19,2021-12-21
+P0353,94,Other,103/84,83,38.1,19,fever,"none, diabetes",Cold,2024-02-19
+P0354,85,Other,104/75,99,39.0,17,"nausea, headache, fatigue","none, asthma",Hypertension,2020-12-10
+P0355,36,Female,92/79,88,37.0,17,fever,"diabetes, none",Cold,2021-12-12
+P0356,46,Female,109/67,60,37.3,12,fatigue,"none, hypertension",Cold,2020-01-14
+P0357,26,Male,101/61,80,37.4,20,"fatigue, nausea",hypertension,COVID-19,2024-05-09
+P0358,41,Male,102/70,63,37.1,14,"nausea, sore throat, fever",asthma,Hypertension,2023-05-02
+P0359,56,Female,127/89,91,38.7,14,"cough, fatigue","hypertension, none",COVID-19,2024-04-23
+P0360,40,Male,138/62,81,37.1,18,cough,hypertension,Diabetes,2021-07-17
+P0361,73,Other,99/79,72,37.0,16,"cough, fever","diabetes, hypertension",COVID-19,2020-06-01
+P0362,87,Female,111/86,67,36.2,19,headache,"diabetes, asthma",Flu,2024-07-28
+P0363,83,Female,99/85,76,36.4,20,fever,asthma,Flu,2020-07-30
+P0364,51,Other,117/71,74,37.3,14,fever,hypertension,COVID-19,2024-05-21
+P0365,84,Other,128/76,79,37.9,20,"sore throat, headache, fever","asthma, hypertension",COVID-19,2020-06-26
+P0366,78,Female,106/80,75,36.8,20,"headache, cough, nausea","none, diabetes",Cold,2021-05-08
+P0367,57,Male,137/85,80,37.1,15,"sore throat, nausea, fever","diabetes, asthma",COVID-19,2020-05-12
+P0368,50,Female,112/73,65,39.0,15,"cough, fatigue, sore throat",asthma,Cold,2024-06-06
+P0369,39,Male,92/86,95,36.6,12,fever,hypertension,Flu,2023-10-16
+P0370,93,Other,111/68,65,38.5,14,fatigue,hypertension,Hypertension,2020-12-24
+P0371,100,Female,119/87,64,38.1,16,nausea,"hypertension, asthma",Cold,2020-11-11
+P0372,51,Other,116/73,77,37.4,20,fatigue,"asthma, none",Hypertension,2024-08-30
+P0373,42,Male,140/88,71,36.8,13,"cough, headache, sore throat",asthma,Diabetes,2022-05-26
+P0374,14,Other,132/79,90,37.3,18,"fatigue, fever, sore throat",diabetes,Cold,2023-06-09
+P0375,77,Female,138/84,83,37.3,20,"nausea, fatigue","asthma, none",Cold,2023-05-04
+P0376,2,Female,101/77,92,36.2,20,"nausea, fever",asthma,Cold,2021-08-21
+P0377,96,Female,131/66,68,36.5,16,"fever, fatigue",none,Cold,2021-08-08
+P0378,51,Female,124/86,79,38.6,13,"sore throat, fever, headache",asthma,Hypertension,2022-04-30
+P0379,27,Male,112/86,62,37.8,20,sore throat,"hypertension, diabetes",Cold,2020-01-13
+P0380,31,Other,96/79,67,37.2,14,fatigue,diabetes,Hypertension,2020-09-08
+P0381,48,Female,101/63,100,38.8,13,fever,"hypertension, asthma",Hypertension,2020-07-30
+P0382,81,Female,103/70,69,38.3,16,"fever, sore throat",hypertension,Hypertension,2024-04-25
+P0383,98,Female,91/74,67,36.4,20,"fatigue, cough, headache",hypertension,COVID-19,2020-10-06
+P0384,36,Other,131/66,97,36.2,19,"cough, fatigue",diabetes,COVID-19,2020-09-24
+P0385,57,Male,103/62,92,36.7,15,"sore throat, fatigue, cough","diabetes, hypertension",COVID-19,2022-12-22
+P0386,44,Other,108/89,69,37.9,13,"nausea, cough","diabetes, asthma",Diabetes,2020-07-06
+P0387,37,Other,122/85,78,37.1,15,"cough, nausea, fever","diabetes, none",COVID-19,2020-03-16
+P0388,44,Other,100/87,90,37.7,12,sore throat,asthma,Cold,2022-03-29
+P0389,12,Male,122/90,98,38.6,18,nausea,asthma,Hypertension,2020-09-25
+P0390,44,Other,128/60,87,36.3,19,"fever, fatigue",asthma,Diabetes,2021-02-18
+P0391,44,Male,116/90,85,37.7,14,"headache, fever","diabetes, hypertension",Flu,2024-02-11
+P0392,91,Male,104/76,64,37.9,18,"fever, nausea, sore throat",diabetes,Hypertension,2024-06-09
+P0393,30,Male,108/63,97,36.9,17,"sore throat, headache, nausea","none, hypertension",Hypertension,2022-03-12
+P0394,19,Female,127/68,71,38.6,12,"headache, fatigue",hypertension,Diabetes,2024-03-24
+P0395,3,Female,113/78,83,37.2,14,fatigue,"hypertension, none",Hypertension,2023-01-05
+P0396,32,Other,103/89,72,37.7,20,"fatigue, nausea",hypertension,COVID-19,2021-01-04
+P0397,100,Other,109/88,73,36.3,20,"fever, headache","none, asthma",Cold,2020-02-09
+P0398,62,Other,107/86,98,37.9,16,fatigue,hypertension,Flu,2023-10-08
+P0399,59,Male,93/82,97,37.3,19,"sore throat, cough",asthma,Flu,2023-10-30
+P0400,18,Female,116/71,77,38.4,14,"fatigue, sore throat, cough","hypertension, none",Diabetes,2023-08-08
+P0401,65,Other,125/64,63,36.4,14,"headache, sore throat","asthma, diabetes",Diabetes,2021-04-01
+P0402,94,Other,115/79,99,37.4,16,headache,"diabetes, none",Hypertension,2023-12-01
+P0403,7,Male,90/83,63,37.6,19,"headache, sore throat","hypertension, none",COVID-19,2023-11-29
+P0404,85,Other,118/82,64,36.1,19,"fever, fatigue, cough","hypertension, none",Hypertension,2020-03-29
+P0405,41,Male,138/68,68,38.0,18,"nausea, sore throat","asthma, diabetes",Cold,2023-03-12
+P0406,36,Other,95/83,75,36.5,12,cough,"diabetes, none",Hypertension,2023-08-04
+P0407,90,Male,110/88,89,36.8,13,fatigue,asthma,Flu,2022-07-08
+P0408,46,Male,101/74,98,36.8,14,"nausea, cough, sore throat","none, diabetes",Flu,2021-04-03
+P0409,20,Female,109/69,69,38.7,17,"sore throat, fever, headache",hypertension,Cold,2022-03-26
+P0410,2,Male,138/69,70,36.6,13,fever,hypertension,Diabetes,2023-10-31
+P0411,99,Female,132/62,93,37.8,20,cough,none,Diabetes,2023-09-13
+P0412,14,Other,106/69,77,36.2,16,"sore throat, cough","none, hypertension",Hypertension,2023-01-25
+P0413,77,Other,92/76,78,38.6,15,cough,"diabetes, hypertension",Flu,2021-09-02
+P0414,67,Other,108/77,73,38.6,15,"nausea, headache, cough",none,Diabetes,2024-01-18
+P0415,12,Female,114/74,62,36.6,19,"fatigue, fever",asthma,Hypertension,2024-06-22
+P0416,41,Other,104/85,99,39.0,14,"nausea, fever","asthma, diabetes",Hypertension,2022-09-27
+P0417,64,Male,121/71,93,37.6,15,sore throat,asthma,Flu,2022-03-28
+P0418,9,Other,105/89,63,37.9,12,"headache, sore throat",diabetes,Hypertension,2020-08-13
+P0419,13,Other,95/74,71,38.0,15,"fatigue, cough",asthma,Diabetes,2020-09-10
+P0420,35,Male,106/80,82,36.9,17,fever,"none, hypertension",Diabetes,2023-10-26
+P0421,30,Female,139/80,89,36.7,15,"cough, headache",asthma,COVID-19,2023-01-21
+P0422,39,Male,108/70,62,37.7,14,"headache, nausea",none,COVID-19,2020-05-16
+P0423,6,Female,115/61,91,38.8,12,"nausea, headache, cough",asthma,Hypertension,2021-09-05
+P0424,13,Other,114/84,93,38.2,12,"sore throat, fever, fatigue",asthma,Flu,2022-07-08
+P0425,27,Female,92/65,77,38.5,17,"fatigue, fever",diabetes,Hypertension,2023-06-16
+P0426,53,Other,133/68,81,36.4,15,"headache, fever",asthma,Diabetes,2020-12-09
+P0427,6,Other,137/61,92,38.0,19,sore throat,"asthma, diabetes",Flu,2021-10-25
+P0428,82,Female,102/66,64,36.5,20,headache,asthma,Hypertension,2021-08-16
+P0429,60,Other,103/81,92,36.5,13,"fatigue, sore throat",none,Diabetes,2021-04-12
+P0430,92,Male,99/78,88,36.8,13,"fever, cough",asthma,COVID-19,2023-12-19
+P0431,88,Male,139/61,93,36.5,17,"headache, fatigue, sore throat",none,Flu,2023-02-21
+P0432,47,Male,94/71,100,36.0,12,"sore throat, fatigue, fever","asthma, hypertension",Diabetes,2021-11-14
+P0433,67,Other,90/68,90,36.2,18,"nausea, fever, sore throat","none, diabetes",Cold,2022-08-23
+P0434,58,Other,120/63,83,36.9,12,"fever, fatigue","asthma, none",Diabetes,2022-02-01
+P0435,58,Female,124/85,96,37.5,13,"fever, fatigue, nausea",hypertension,COVID-19,2020-09-02
+P0436,11,Female,110/67,94,36.8,19,"fever, sore throat","diabetes, hypertension",Diabetes,2024-05-12
+P0437,44,Other,106/80,84,36.3,15,cough,"asthma, none",Diabetes,2022-04-05
+P0438,76,Other,127/87,99,37.8,15,nausea,none,Flu,2020-12-11
+P0439,14,Female,136/70,81,36.2,14,"sore throat, cough, fatigue",asthma,Flu,2022-12-12
+P0440,87,Female,114/60,75,37.1,14,"sore throat, cough",diabetes,Flu,2020-07-22
+P0441,98,Male,138/86,63,38.0,16,"headache, cough, fever","diabetes, none",Diabetes,2023-10-20
+P0442,67,Male,95/71,63,36.7,16,cough,"none, hypertension",Flu,2024-06-16
+P0443,53,Male,98/79,92,38.7,15,"cough, headache","diabetes, hypertension",COVID-19,2022-03-09
+P0444,57,Female,95/71,74,36.3,16,sore throat,none,Diabetes,2021-06-24
+P0445,66,Male,131/79,80,38.5,18,"headache, nausea",hypertension,Diabetes,2020-05-10
+P0446,53,Male,105/86,94,36.3,16,"fever, cough",asthma,Flu,2020-12-18
+P0447,42,Female,102/87,99,36.2,19,"fatigue, headache","asthma, hypertension",COVID-19,2023-08-26
+P0448,100,Female,90/77,90,36.5,14,"nausea, fever",asthma,Cold,2024-03-25
+P0449,51,Male,117/79,67,37.3,19,"headache, sore throat","asthma, hypertension",Flu,2023-05-10
+P0450,58,Female,122/73,71,38.2,13,fever,"hypertension, diabetes",Diabetes,2023-04-07
+P0451,24,Female,133/75,78,36.3,15,cough,asthma,Hypertension,2020-09-22
+P0452,62,Male,100/76,90,36.5,17,"nausea, fatigue, sore throat","asthma, hypertension",Hypertension,2020-03-30
+P0453,25,Other,126/76,84,38.0,18,"sore throat, headache, fatigue",diabetes,Diabetes,2024-06-25
+P0454,43,Female,109/65,75,38.3,13,"cough, sore throat, headache","none, hypertension",COVID-19,2020-02-25
+P0455,34,Male,102/75,100,38.7,19,"fever, fatigue","hypertension, asthma",Hypertension,2022-07-13
+P0456,15,Female,94/77,80,36.7,15,fatigue,hypertension,Cold,2022-06-14
+P0457,55,Other,102/60,76,37.0,16,cough,asthma,COVID-19,2023-01-11
+P0458,38,Female,103/89,78,36.9,18,"fever, sore throat",none,Hypertension,2023-09-21
+P0459,55,Male,92/60,90,36.0,20,headache,hypertension,Diabetes,2024-07-08
+P0460,25,Other,112/80,79,37.6,16,"fatigue, fever, cough","diabetes, asthma",Diabetes,2020-07-10
+P0461,37,Male,139/71,60,37.6,16,"nausea, cough, headache","asthma, none",COVID-19,2020-10-02
+P0462,26,Female,129/89,78,37.2,18,"fever, fatigue, cough","diabetes, none",Hypertension,2020-12-09
+P0463,91,Female,95/86,81,37.1,19,sore throat,"none, diabetes",Hypertension,2022-04-13
+P0464,20,Other,136/69,95,36.2,20,fever,"none, diabetes",Diabetes,2022-01-16
+P0465,75,Other,98/62,78,36.1,14,"sore throat, fatigue, cough","asthma, diabetes",COVID-19,2020-09-27
+P0466,95,Other,90/61,80,38.5,17,"fever, sore throat","none, diabetes",Flu,2022-05-03
+P0467,70,Female,139/63,61,36.9,14,fatigue,"diabetes, hypertension",Cold,2022-05-29
+P0468,24,Other,118/75,84,36.2,14,cough,none,Diabetes,2020-10-02
+P0469,60,Other,113/66,94,37.6,16,sore throat,"asthma, none",Cold,2021-07-13
+P0470,64,Other,135/88,75,38.1,17,nausea,diabetes,Hypertension,2021-04-07
+P0471,28,Female,110/89,90,36.6,13,"nausea, cough, headache","none, diabetes",Diabetes,2022-11-23
+P0472,1,Other,117/89,79,37.8,19,"nausea, fatigue",asthma,Hypertension,2022-01-11
+P0473,47,Other,138/85,90,36.6,20,"headache, fever, sore throat",diabetes,Flu,2022-01-07
+P0474,41,Female,125/67,60,36.9,19,"nausea, cough",hypertension,Diabetes,2020-06-09
+P0475,61,Male,125/86,77,37.8,16,cough,asthma,Cold,2023-08-28
+P0476,56,Other,120/66,77,36.2,12,fatigue,"none, asthma",Cold,2020-07-30
+P0477,84,Other,127/83,69,36.2,20,"nausea, sore throat",none,Flu,2024-03-18
+P0478,66,Other,102/80,62,38.9,20,"sore throat, nausea, headache","hypertension, none",Flu,2024-01-05
+P0479,53,Male,102/66,93,37.5,17,"cough, fatigue",hypertension,Flu,2022-03-01
+P0480,26,Female,115/70,92,36.9,12,headache,diabetes,Diabetes,2023-03-08
+P0481,4,Other,133/64,70,38.7,16,sore throat,"asthma, diabetes",Diabetes,2020-02-08
+P0482,3,Other,93/86,90,38.2,12,"headache, fever","diabetes, hypertension",Hypertension,2020-05-04
+P0483,88,Other,138/78,97,37.2,17,sore throat,"hypertension, asthma",Hypertension,2021-04-06
+P0484,95,Other,124/65,87,36.3,20,"headache, fever",none,Flu,2020-04-12
+P0485,67,Male,129/61,68,36.1,18,"headache, nausea",hypertension,Diabetes,2022-01-26
+P0486,79,Male,132/68,69,36.5,15,"headache, fatigue","hypertension, none",Cold,2022-07-10
+P0487,49,Male,111/72,79,36.1,15,"fever, sore throat","none, hypertension",COVID-19,2020-01-20
+P0488,9,Other,96/68,64,38.9,14,fatigue,hypertension,Cold,2021-09-25
+P0489,53,Male,124/64,87,36.2,20,nausea,diabetes,Cold,2023-03-14
+P0490,83,Male,101/61,83,38.9,17,"fatigue, nausea, cough","hypertension, asthma",Diabetes,2024-01-17
+P0491,9,Male,135/70,82,38.9,14,"sore throat, cough",diabetes,Flu,2021-01-07
+P0492,24,Other,104/68,88,36.7,16,cough,none,Cold,2023-10-01
+P0493,71,Female,97/65,73,37.1,18,"cough, fatigue","none, diabetes",Hypertension,2020-04-23
+P0494,59,Female,109/64,82,36.0,18,"sore throat, headache, cough",asthma,Diabetes,2022-04-15
+P0495,66,Female,138/82,62,37.3,16,"headache, fever, cough","diabetes, asthma",COVID-19,2020-10-27
+P0496,98,Male,134/65,78,38.2,19,"cough, nausea",hypertension,Hypertension,2023-04-16
+P0497,4,Other,120/65,93,37.7,14,"fatigue, cough, sore throat",diabetes,Flu,2020-10-25
+P0498,87,Other,110/88,74,37.2,16,"sore throat, cough","asthma, none",COVID-19,2020-03-19
+P0499,35,Other,94/78,61,36.7,20,nausea,"none, asthma",Diabetes,2023-04-23
+P0500,20,Male,118/86,85,37.8,16,"fatigue, cough, fever","diabetes, asthma",COVID-19,2023-05-18
+P0501,20,Female,96/74,67,38.9,15,"fever, headache","none, asthma",Flu,2024-06-21
+P0502,61,Male,116/69,95,37.8,16,"nausea, headache, fever",none,Cold,2022-05-11
+P0503,93,Male,101/76,97,37.4,19,cough,asthma,Cold,2022-09-09
+P0504,48,Male,93/70,62,37.3,18,"sore throat, cough",none,COVID-19,2023-11-22
+P0505,58,Female,115/73,99,37.9,14,"headache, nausea, fever","none, asthma",Cold,2023-03-17
+P0506,88,Male,138/74,89,36.1,12,"sore throat, headache",none,Hypertension,2022-06-20
+P0507,41,Male,105/65,98,36.4,20,"fever, cough, nausea","diabetes, asthma",Flu,2023-03-25
+P0508,27,Other,123/85,77,36.6,20,"fever, headache","asthma, diabetes",Flu,2021-02-26
+P0509,45,Female,101/87,76,37.4,15,"cough, fatigue",none,Flu,2024-01-16
+P0510,56,Other,131/61,89,37.2,12,"nausea, fatigue, headache",diabetes,Diabetes,2021-01-15
+P0511,73,Female,124/81,94,37.9,15,nausea,none,Hypertension,2024-01-09
+P0512,42,Female,111/77,81,36.8,17,"fatigue, fever",diabetes,Cold,2021-08-09
+P0513,91,Female,134/88,81,36.2,12,headache,"asthma, diabetes",COVID-19,2022-12-16
+P0514,17,Other,115/89,60,37.6,16,"nausea, headache, sore throat",none,Diabetes,2022-03-25
+P0515,74,Other,103/63,66,37.2,14,sore throat,asthma,Diabetes,2023-01-05
+P0516,19,Female,140/60,95,38.9,19,sore throat,diabetes,Cold,2021-09-27
+P0517,87,Other,99/73,62,38.3,16,"fatigue, fever, cough",none,Hypertension,2024-03-11
+P0518,87,Female,129/69,64,37.3,20,fatigue,hypertension,Cold,2022-06-09
+P0519,15,Female,100/80,94,36.5,15,fatigue,diabetes,Diabetes,2023-09-11
+P0520,32,Other,102/71,62,36.3,14,"fatigue, headache, fever",hypertension,Hypertension,2021-02-17
+P0521,51,Male,127/70,80,37.8,19,headache,asthma,COVID-19,2022-05-25
+P0522,82,Male,90/66,86,37.2,18,"sore throat, nausea, fever","asthma, diabetes",Diabetes,2023-10-07
+P0523,61,Other,101/85,76,38.2,12,"nausea, cough, fever",hypertension,Diabetes,2020-10-14
+P0524,66,Male,122/89,91,36.9,13,cough,hypertension,Flu,2022-01-16
+P0525,91,Male,98/73,86,36.7,17,"sore throat, headache, fever",diabetes,Diabetes,2021-08-09
+P0526,16,Male,111/81,85,36.1,16,"nausea, cough, fever","diabetes, none",Hypertension,2022-05-28
+P0527,72,Other,105/90,71,36.1,13,"headache, nausea, sore throat",asthma,Diabetes,2022-04-15
+P0528,70,Female,134/70,62,38.6,14,"sore throat, fatigue, headache",asthma,Flu,2024-06-11
+P0529,12,Male,91/87,89,36.8,14,"headache, nausea, fatigue","asthma, diabetes",COVID-19,2021-09-10
+P0530,67,Male,112/90,93,38.6,13,fever,"none, asthma",Flu,2022-01-21
+P0531,69,Female,123/83,93,37.9,19,sore throat,"none, hypertension",Hypertension,2023-12-27
+P0532,95,Female,117/80,82,37.5,19,fatigue,hypertension,Diabetes,2020-08-04
+P0533,52,Male,111/80,77,37.4,15,fatigue,"hypertension, asthma",Cold,2023-11-30
+P0534,52,Male,99/63,91,38.9,16,"nausea, cough, sore throat","none, asthma",Diabetes,2023-04-04
+P0535,52,Female,105/80,82,36.8,17,"headache, fever","asthma, diabetes",Hypertension,2020-12-21
+P0536,51,Other,106/67,94,37.1,18,"sore throat, nausea","hypertension, none",Cold,2021-05-14
+P0537,41,Female,131/60,83,38.2,16,"cough, fatigue","none, hypertension",Cold,2022-02-16
+P0538,75,Male,115/72,80,37.7,15,"nausea, cough, headache","hypertension, none",Hypertension,2021-09-22
+P0539,35,Female,130/76,65,36.3,16,fatigue,"none, diabetes",Diabetes,2022-11-26
+P0540,17,Other,129/73,84,37.4,15,"nausea, fever",none,Hypertension,2021-05-01
+P0541,45,Other,102/75,91,37.7,20,"cough, headache","asthma, none",Flu,2023-05-24
+P0542,84,Female,93/64,97,36.3,16,nausea,"hypertension, asthma",COVID-19,2022-06-04
+P0543,6,Female,129/85,91,36.1,20,fever,"diabetes, none",Diabetes,2024-03-02
+P0544,41,Other,133/72,67,38.7,13,"sore throat, nausea, headache","hypertension, asthma",COVID-19,2023-06-19
+P0545,37,Other,105/89,68,36.1,14,sore throat,asthma,COVID-19,2020-08-29
+P0546,45,Female,126/68,85,38.0,15,cough,asthma,Diabetes,2022-04-25
+P0547,67,Female,122/70,66,36.7,18,nausea,"hypertension, asthma",COVID-19,2023-07-27
+P0548,25,Male,110/90,76,37.7,12,"fatigue, sore throat, fever","diabetes, hypertension",Cold,2024-04-03
+P0549,73,Other,97/62,67,37.7,18,"cough, sore throat, fever","hypertension, none",Hypertension,2022-06-27
+P0550,75,Other,102/81,79,36.0,19,"sore throat, nausea, fatigue","diabetes, asthma",Flu,2021-03-23
+P0551,3,Female,94/77,98,38.7,17,"cough, headache, fever",asthma,Flu,2023-06-12
+P0552,7,Other,132/86,94,38.3,12,"fever, nausea",asthma,COVID-19,2022-06-01
+P0553,13,Other,93/80,79,38.6,15,"fatigue, cough, headache",asthma,Cold,2022-11-28
+P0554,99,Male,133/62,98,37.7,12,"sore throat, headache","diabetes, hypertension",Diabetes,2020-12-19
+P0555,17,Male,122/89,82,37.3,19,"sore throat, fever",hypertension,Flu,2023-04-01
+P0556,58,Male,110/84,93,36.7,17,"headache, cough","asthma, hypertension",Diabetes,2021-03-12
+P0557,47,Other,140/77,76,37.4,18,fatigue,"asthma, hypertension",Hypertension,2020-02-18
+P0558,67,Other,90/81,92,38.8,19,"fatigue, cough","diabetes, hypertension",Diabetes,2022-09-14
+P0559,65,Female,120/70,84,38.6,18,cough,"none, hypertension",Hypertension,2022-12-14
+P0560,1,Other,106/73,60,37.3,19,"sore throat, nausea, fever",none,Diabetes,2022-09-12
+P0561,60,Male,103/73,86,38.3,12,"nausea, headache, cough",diabetes,Hypertension,2021-07-04
+P0562,80,Other,119/74,64,38.3,13,cough,asthma,Flu,2020-07-12
+P0563,55,Female,115/72,68,36.7,20,headache,asthma,Diabetes,2024-06-18
+P0564,88,Male,94/78,84,36.3,16,"cough, headache","diabetes, hypertension",Cold,2020-06-13
+P0565,21,Male,119/71,93,36.2,18,"fatigue, nausea","asthma, hypertension",Diabetes,2023-07-30
+P0566,11,Male,121/90,83,38.9,14,"fatigue, fever, nausea","none, hypertension",Flu,2021-02-23
+P0567,50,Female,126/76,68,38.3,19,fatigue,"hypertension, asthma",Diabetes,2024-06-07
+P0568,57,Male,99/83,88,37.5,18,"cough, nausea, fatigue",diabetes,Hypertension,2020-03-21
+P0569,55,Other,118/82,72,36.2,18,cough,"asthma, diabetes",Cold,2023-07-29
+P0570,18,Other,126/88,70,37.0,15,fatigue,diabetes,Flu,2024-05-18
+P0571,54,Female,103/71,86,36.6,15,"headache, nausea, sore throat",none,COVID-19,2024-07-02
+P0572,61,Other,102/71,70,38.5,13,cough,hypertension,Cold,2024-08-05
+P0573,99,Other,123/77,67,38.4,18,"nausea, cough",asthma,COVID-19,2021-07-18
+P0574,62,Other,91/70,80,36.3,12,fever,asthma,Hypertension,2020-01-14
+P0575,79,Female,127/75,66,37.5,18,cough,none,Cold,2024-08-24
+P0576,9,Male,127/90,60,36.2,19,cough,hypertension,COVID-19,2022-08-12
+P0577,84,Female,90/86,96,37.3,19,"fatigue, cough","hypertension, none",Diabetes,2024-06-19
+P0578,68,Female,127/60,87,38.9,15,"fever, fatigue","diabetes, hypertension",Hypertension,2022-01-13
+P0579,99,Male,93/90,98,36.8,18,cough,"asthma, hypertension",Diabetes,2021-07-14
+P0580,52,Female,138/81,100,36.2,19,"cough, sore throat",none,Cold,2022-06-21
+P0581,38,Female,139/65,91,37.9,20,"fever, headache",diabetes,Hypertension,2022-08-03
+P0582,63,Male,103/61,66,36.9,12,"fatigue, nausea",hypertension,Hypertension,2024-03-14
+P0583,53,Other,110/70,71,37.8,15,"fatigue, fever, headache",hypertension,Hypertension,2024-01-20
+P0584,99,Other,114/88,81,37.4,19,"headache, nausea, cough","asthma, none",Diabetes,2021-08-28
+P0585,84,Male,140/83,72,36.3,13,"nausea, cough, headache","asthma, none",Flu,2021-06-03
+P0586,40,Male,116/72,72,37.6,12,"nausea, headache, sore throat",asthma,Hypertension,2020-11-18
+P0587,12,Female,130/73,98,38.9,14,"sore throat, fatigue, headache","diabetes, asthma",COVID-19,2021-07-08
+P0588,47,Other,128/67,61,39.0,13,"cough, headache","hypertension, none",Diabetes,2021-05-24
+P0589,40,Other,91/67,92,36.2,15,fatigue,"asthma, diabetes",COVID-19,2021-04-23
+P0590,98,Other,101/67,89,37.1,16,"fatigue, headache, nausea","hypertension, none",Flu,2020-09-16
+P0591,80,Male,133/70,68,38.8,12,headache,"diabetes, none",Diabetes,2022-12-23
+P0592,5,Female,123/90,81,36.8,18,"nausea, headache, sore throat","hypertension, none",Flu,2022-05-24
+P0593,89,Male,120/85,70,38.3,19,"nausea, fatigue, headache",asthma,Hypertension,2022-09-01
+P0594,29,Other,109/60,72,36.5,14,fever,"none, diabetes",Diabetes,2021-07-23
+P0595,97,Male,111/89,88,36.8,19,cough,none,COVID-19,2024-02-02
+P0596,34,Female,91/76,93,38.3,19,"sore throat, cough","hypertension, none",Flu,2021-11-28
+P0597,42,Female,96/84,76,37.8,12,headache,"hypertension, asthma",Flu,2022-08-24
+P0598,55,Other,112/76,81,38.5,13,"nausea, headache",hypertension,Diabetes,2021-12-27
+P0599,31,Other,103/73,63,36.1,19,"headache, cough","diabetes, hypertension",Diabetes,2021-06-12
+P0600,2,Female,123/82,69,38.4,17,"cough, fever",diabetes,COVID-19,2021-03-17
+P0601,52,Other,113/74,88,36.9,20,cough,"asthma, none",Hypertension,2021-09-28
+P0602,63,Male,98/83,87,37.7,13,"fatigue, headache","none, diabetes",Diabetes,2021-03-19
+P0603,94,Male,109/85,75,36.5,14,"cough, sore throat",asthma,COVID-19,2023-04-07
+P0604,35,Male,114/73,65,37.2,20,"nausea, headache",none,COVID-19,2022-04-29
+P0605,29,Male,132/67,91,38.3,19,headache,"none, asthma",Cold,2022-10-26
+P0606,97,Female,98/88,88,37.0,20,fatigue,none,Hypertension,2020-02-09
+P0607,4,Male,109/80,91,37.5,17,"sore throat, headache",hypertension,Diabetes,2022-07-08
+P0608,68,Other,140/61,73,36.6,15,"fatigue, nausea",asthma,Cold,2023-03-05
+P0609,33,Female,95/86,76,38.2,15,fatigue,"none, hypertension",Flu,2022-08-13
+P0610,35,Other,114/82,63,36.6,18,"cough, fatigue",none,Cold,2020-04-17
+P0611,55,Male,111/84,99,36.6,20,"cough, headache",hypertension,Hypertension,2020-09-11
+P0612,91,Female,104/69,77,37.8,14,"headache, sore throat",asthma,COVID-19,2022-06-18
+P0613,85,Female,102/69,98,37.6,14,"nausea, cough, headache",asthma,Flu,2021-01-09
+P0614,51,Female,123/81,94,38.3,18,"nausea, fever","none, asthma",Diabetes,2022-09-07
+P0615,38,Female,139/86,78,37.2,16,cough,asthma,Cold,2024-01-19
+P0616,75,Male,113/60,74,37.8,18,fever,diabetes,Cold,2023-05-16
+P0617,22,Male,97/76,92,37.3,12,fever,asthma,COVID-19,2023-02-26
+P0618,92,Other,102/66,64,37.8,17,"cough, fever, sore throat","none, asthma",Flu,2020-06-26
+P0619,73,Male,104/61,90,37.9,12,"nausea, headache, fatigue",none,Flu,2024-03-07
+P0620,33,Other,120/79,68,38.7,18,fatigue,diabetes,COVID-19,2023-12-03
+P0621,59,Male,115/80,78,37.7,20,"nausea, fatigue","none, asthma",Diabetes,2021-07-31
+P0622,93,Other,107/89,65,37.4,18,fever,"none, asthma",Flu,2021-03-04
+P0623,97,Male,129/79,95,38.4,17,"sore throat, fever, cough",hypertension,Diabetes,2024-03-19
+P0624,98,Other,104/89,69,38.5,16,"nausea, fatigue, sore throat","diabetes, asthma",Diabetes,2023-01-26
+P0625,78,Other,111/67,67,36.8,14,fatigue,"hypertension, asthma",Flu,2023-08-10
+P0626,43,Female,134/78,86,38.9,15,cough,"hypertension, none",Flu,2023-07-25
+P0627,56,Male,108/89,82,38.4,13,sore throat,"asthma, none",Diabetes,2020-05-11
+P0628,96,Other,138/62,60,36.2,12,"fever, sore throat, cough","hypertension, diabetes",COVID-19,2024-03-24
+P0629,43,Female,104/89,87,36.5,20,"headache, fever",asthma,COVID-19,2022-03-29
+P0630,5,Female,120/65,70,38.2,16,"fever, sore throat, cough","asthma, hypertension",Diabetes,2020-08-04
+P0631,81,Other,106/68,62,38.6,19,headache,diabetes,Cold,2022-11-15
+P0632,46,Male,140/85,71,37.6,17,"headache, sore throat",hypertension,Diabetes,2022-05-15
+P0633,85,Other,140/68,91,37.6,18,"nausea, cough, sore throat",hypertension,Diabetes,2022-12-28
+P0634,22,Female,122/67,72,38.5,14,cough,diabetes,Flu,2023-07-06
+P0635,48,Other,112/82,62,38.0,19,"nausea, fever","none, asthma",Cold,2022-05-17
+P0636,98,Other,120/85,62,37.5,15,"cough, headache, fever",diabetes,Cold,2020-10-28
+P0637,57,Male,137/68,90,36.0,14,fever,"hypertension, none",Diabetes,2023-07-01
+P0638,46,Female,133/66,70,36.5,14,cough,asthma,Cold,2020-01-08
+P0639,71,Other,92/65,61,36.1,15,cough,none,COVID-19,2023-04-20
+P0640,65,Male,95/76,82,36.9,13,"cough, fever","diabetes, asthma",Hypertension,2021-12-12
+P0641,53,Male,99/82,99,38.2,15,"fatigue, headache, sore throat",asthma,COVID-19,2023-12-02
+P0642,100,Female,108/61,89,37.3,15,"nausea, fatigue",asthma,Flu,2023-07-22
+P0643,94,Female,127/61,81,38.0,14,"headache, fatigue",asthma,Diabetes,2020-10-17
+P0644,10,Other,103/89,88,37.2,20,fever,"hypertension, none",Flu,2020-07-05
+P0645,8,Male,102/72,87,37.5,19,"nausea, fever, fatigue",none,Flu,2024-01-02
+P0646,57,Male,124/60,84,37.8,20,"headache, fever","asthma, diabetes",Hypertension,2020-04-08
+P0647,1,Other,100/60,61,36.3,18,cough,hypertension,COVID-19,2023-05-10
+P0648,1,Male,111/71,66,38.3,17,"nausea, cough","asthma, diabetes",Diabetes,2022-02-02
+P0649,95,Male,117/64,100,37.9,12,"fatigue, sore throat, fever","none, asthma",Flu,2024-06-08
+P0650,48,Female,93/65,79,38.5,14,"fatigue, nausea, cough","diabetes, none",Flu,2021-11-25
+P0651,89,Other,118/68,93,38.6,17,"cough, fever",asthma,Cold,2023-07-10
+P0652,12,Female,129/81,99,38.6,19,"fever, fatigue","asthma, hypertension",Cold,2023-10-26
+P0653,80,Other,105/90,91,38.0,16,"sore throat, fatigue",diabetes,COVID-19,2020-02-10
+P0654,29,Female,102/61,76,37.9,18,"headache, fever, fatigue","asthma, none",Diabetes,2022-11-03
+P0655,60,Female,125/73,94,36.2,14,"headache, sore throat, fever",asthma,COVID-19,2024-07-15
+P0656,29,Other,104/81,79,37.4,20,nausea,hypertension,Cold,2020-03-09
+P0657,36,Other,126/83,100,38.8,13,"cough, nausea",asthma,Flu,2021-11-10
+P0658,6,Other,90/88,81,37.6,12,"fever, fatigue",hypertension,COVID-19,2020-03-13
+P0659,48,Male,114/88,67,38.9,13,"nausea, headache, fever","diabetes, hypertension",Flu,2023-10-01
+P0660,71,Female,111/71,98,38.7,12,"fever, fatigue, headache",hypertension,COVID-19,2023-12-06
+P0661,84,Female,140/89,85,37.8,16,fatigue,"asthma, none",COVID-19,2022-03-10
+P0662,69,Female,135/61,96,37.4,16,"headache, fatigue","hypertension, asthma",Cold,2021-10-15
+P0663,40,Other,110/74,84,36.6,19,"fatigue, sore throat",diabetes,Diabetes,2022-09-13
+P0664,99,Female,107/67,61,37.1,16,"nausea, fatigue","asthma, none",COVID-19,2020-08-29
+P0665,5,Female,117/61,79,38.4,13,"cough, fever",none,Diabetes,2022-08-12
+P0666,9,Other,126/77,98,37.0,13,"sore throat, fever",asthma,Flu,2021-07-26
+P0667,36,Female,130/78,66,36.3,16,"fever, headache","hypertension, diabetes",Hypertension,2020-03-16
+P0668,17,Male,115/70,83,37.5,15,"sore throat, fever, nausea",diabetes,Hypertension,2024-08-15
+P0669,13,Female,101/86,91,37.6,15,fever,none,Hypertension,2022-05-06
+P0670,1,Other,135/72,69,37.3,18,cough,"asthma, none",Cold,2023-02-13
+P0671,65,Male,97/79,77,36.9,19,"nausea, fever","none, diabetes",Diabetes,2020-05-19
+P0672,15,Male,118/76,60,38.8,20,nausea,"hypertension, none",Diabetes,2022-12-11
+P0673,46,Other,117/67,77,38.4,20,"sore throat, fatigue, cough",none,Hypertension,2020-03-24
+P0674,95,Female,100/74,71,37.1,14,"cough, fever","none, diabetes",Hypertension,2023-11-19
+P0675,94,Female,100/81,92,36.7,18,"headache, fatigue, fever",asthma,Flu,2022-06-12
+P0676,37,Male,103/78,87,37.5,20,cough,"diabetes, hypertension",COVID-19,2022-01-20
+P0677,74,Female,101/73,63,37.4,13,"headache, nausea","diabetes, asthma",Hypertension,2020-05-23
+P0678,93,Other,131/78,98,38.4,15,"nausea, cough, fever","asthma, hypertension",Flu,2022-02-19
+P0679,87,Other,96/78,72,38.5,15,fatigue,"diabetes, none",COVID-19,2022-06-09
+P0680,44,Male,138/86,93,38.5,15,headache,"asthma, none",COVID-19,2020-08-06
+P0681,73,Male,121/84,61,36.7,17,"headache, fever, cough",asthma,COVID-19,2020-12-18
+P0682,25,Female,103/66,93,38.7,15,"fatigue, headache","hypertension, none",Diabetes,2023-05-15
+P0683,49,Male,137/80,61,39.0,17,"sore throat, fatigue","diabetes, hypertension",Cold,2020-01-21
+P0684,27,Other,128/70,90,36.9,18,headache,"none, hypertension",Hypertension,2022-04-02
+P0685,99,Female,121/88,98,37.5,20,"cough, nausea, headache",diabetes,Flu,2024-05-22
+P0686,71,Male,107/87,63,38.4,19,"fever, fatigue, sore throat",hypertension,Flu,2021-10-29
+P0687,27,Male,129/73,60,36.1,17,"fever, cough",asthma,COVID-19,2023-06-01
+P0688,26,Other,129/66,83,36.3,14,"cough, fatigue",hypertension,Hypertension,2021-09-24
+P0689,20,Other,132/89,86,36.6,17,"fever, cough, fatigue","asthma, diabetes",Flu,2023-07-17
+P0690,91,Female,133/71,97,37.7,18,fatigue,asthma,COVID-19,2022-09-29
+P0691,64,Male,131/85,93,38.2,15,"fever, sore throat, cough","asthma, hypertension",Flu,2022-03-11
+P0692,95,Female,105/89,61,38.4,16,"headache, sore throat",diabetes,COVID-19,2021-03-09
+P0693,62,Female,109/78,82,36.8,16,fever,asthma,Cold,2023-06-20
+P0694,77,Female,116/79,75,37.6,20,"headache, sore throat, cough",diabetes,Cold,2021-09-07
+P0695,72,Male,117/75,80,37.6,12,sore throat,diabetes,Cold,2023-04-23
+P0696,95,Other,119/79,94,36.1,12,"headache, fatigue, cough",diabetes,Cold,2021-04-19
+P0697,94,Other,91/82,97,37.9,18,nausea,"none, hypertension",Cold,2021-12-02
+P0698,26,Female,130/72,61,36.1,13,"fatigue, nausea, headache",asthma,Diabetes,2023-01-23
+P0699,21,Other,138/61,88,36.7,17,"nausea, headache, sore throat","diabetes, none",Hypertension,2022-06-20
+P0700,96,Male,116/90,81,36.8,17,sore throat,"hypertension, asthma",Flu,2024-08-08
+P0701,54,Other,95/74,67,38.1,17,"sore throat, headache",asthma,Hypertension,2020-12-10
+P0702,79,Other,131/89,84,38.1,13,"nausea, cough, fever",asthma,Hypertension,2021-04-16
+P0703,37,Other,114/67,80,36.2,14,"headache, fatigue, fever","asthma, hypertension",COVID-19,2022-08-13
+P0704,74,Other,107/67,82,38.5,15,headache,"diabetes, none",Diabetes,2022-02-19
+P0705,27,Male,127/75,87,36.4,18,headache,"diabetes, hypertension",COVID-19,2024-05-15
+P0706,81,Female,133/84,94,38.2,15,"fatigue, nausea",none,Flu,2021-09-19
+P0707,31,Female,127/82,83,37.2,16,"cough, fever",diabetes,Hypertension,2023-02-03
+P0708,88,Other,111/81,65,38.2,15,fever,"asthma, diabetes",Hypertension,2024-06-14
+P0709,69,Female,101/84,66,38.8,15,headache,none,Flu,2020-07-01
+P0710,99,Other,114/76,95,38.9,17,"cough, fatigue",asthma,COVID-19,2020-10-30
+P0711,99,Female,102/60,77,38.8,17,"nausea, sore throat, fatigue","asthma, hypertension",Hypertension,2021-01-23
+P0712,61,Male,126/74,67,36.2,14,"cough, fever",hypertension,COVID-19,2020-03-31
+P0713,70,Other,115/79,68,38.5,18,headache,diabetes,COVID-19,2022-11-26
+P0714,93,Other,124/62,66,38.0,15,"sore throat, fever",asthma,Diabetes,2023-05-22
+P0715,33,Other,109/63,65,36.3,19,"nausea, headache, cough",none,COVID-19,2022-05-05
+P0716,82,Other,109/85,61,36.8,17,"fatigue, cough, fever",asthma,Cold,2023-01-16
+P0717,9,Other,126/72,76,38.8,12,"nausea, cough",asthma,Cold,2021-12-24
+P0718,56,Female,112/86,89,37.9,16,"sore throat, headache, cough","hypertension, diabetes",Cold,2024-07-01
+P0719,20,Male,95/80,74,36.9,18,"nausea, fever, fatigue","diabetes, asthma",Cold,2022-05-16
+P0720,10,Female,131/73,78,37.6,16,"cough, headache",asthma,Diabetes,2022-12-02
+P0721,42,Male,107/88,82,36.1,14,headache,"hypertension, diabetes",Hypertension,2023-06-26
+P0722,10,Male,95/90,96,38.8,19,"sore throat, nausea, fatigue","none, asthma",COVID-19,2022-09-15
+P0723,32,Female,124/75,64,37.9,15,nausea,asthma,COVID-19,2020-08-31
+P0724,32,Other,126/82,88,37.8,15,nausea,asthma,Cold,2023-05-30
+P0725,85,Male,100/80,62,37.1,20,"headache, fatigue","none, asthma",COVID-19,2023-01-30
+P0726,61,Female,114/74,60,37.5,17,cough,asthma,COVID-19,2021-09-30
+P0727,67,Male,92/68,80,36.7,17,cough,asthma,Hypertension,2021-02-02
+P0728,1,Male,140/65,73,36.1,15,"fever, nausea, sore throat",diabetes,COVID-19,2020-01-09
+P0729,72,Other,102/65,66,37.1,15,"fatigue, nausea","hypertension, none",Hypertension,2022-02-09
+P0730,10,Female,115/63,68,38.7,18,"cough, nausea, sore throat",hypertension,Diabetes,2020-09-26
+P0731,5,Other,90/78,80,36.4,20,cough,none,Cold,2024-03-26
+P0732,49,Male,90/64,91,37.2,13,"fever, nausea","diabetes, hypertension",Diabetes,2024-08-12
+P0733,1,Male,119/88,83,36.1,13,"fever, sore throat",none,Hypertension,2020-06-08
+P0734,23,Male,120/77,68,37.7,20,"fatigue, nausea, headache",hypertension,Diabetes,2021-07-14
+P0735,72,Other,110/74,100,37.5,12,"fatigue, fever",hypertension,COVID-19,2020-07-25
+P0736,49,Female,103/64,98,37.4,12,"headache, cough",none,Hypertension,2020-09-01
+P0737,46,Other,138/81,97,38.4,17,"fatigue, nausea",hypertension,Diabetes,2024-06-19
+P0738,51,Male,133/62,81,39.0,15,"headache, cough, sore throat",none,Cold,2023-07-22
+P0739,79,Female,131/72,85,37.2,13,"fever, fatigue",diabetes,Flu,2023-09-22
+P0740,25,Female,98/74,65,38.9,19,headache,none,Hypertension,2024-02-04
+P0741,82,Other,113/84,99,37.6,19,fatigue,diabetes,Cold,2023-10-28
+P0742,66,Male,97/84,60,37.8,14,headache,"diabetes, asthma",Cold,2020-01-07
+P0743,94,Other,123/60,74,37.6,15,"sore throat, headache, fever","asthma, none",Hypertension,2022-02-20
+P0744,59,Male,134/74,82,39.0,17,"fatigue, fever",diabetes,Hypertension,2022-06-10
+P0745,76,Other,100/69,100,38.7,18,"fatigue, cough","diabetes, none",COVID-19,2023-04-17
+P0746,39,Male,121/76,84,36.7,13,"headache, cough, fever","diabetes, asthma",COVID-19,2021-02-03
+P0747,21,Male,99/80,68,36.2,16,"fatigue, headache","hypertension, diabetes",COVID-19,2020-09-11
+P0748,70,Male,96/64,87,38.1,15,"nausea, headache, fatigue","diabetes, asthma",Cold,2024-04-16
+P0749,18,Female,93/67,94,38.3,19,headache,"diabetes, asthma",Diabetes,2020-05-06
+P0750,71,Male,125/87,89,36.5,18,"cough, sore throat",asthma,Cold,2020-12-08
+P0751,8,Female,106/79,62,37.8,14,"nausea, cough",hypertension,Flu,2022-04-25
+P0752,83,Female,110/63,60,38.8,14,nausea,none,Flu,2022-11-20
+P0753,75,Male,136/90,79,37.9,15,"fever, headache","asthma, hypertension",COVID-19,2024-03-16
+P0754,70,Other,133/74,82,38.5,12,headache,hypertension,COVID-19,2023-05-23
+P0755,95,Female,113/69,78,37.6,16,"sore throat, nausea",asthma,Hypertension,2022-04-03
+P0756,22,Male,105/64,96,37.1,15,sore throat,none,Hypertension,2024-06-27
+P0757,73,Other,109/84,82,38.9,13,"headache, cough, fever","asthma, none",COVID-19,2020-12-15
+P0758,35,Other,127/78,75,36.3,13,"headache, cough, fatigue",none,COVID-19,2022-09-24
+P0759,92,Other,133/77,78,37.8,17,"fatigue, nausea","hypertension, none",Flu,2022-01-10
+P0760,13,Male,97/78,71,38.7,15,fatigue,none,COVID-19,2020-04-11
+P0761,41,Male,123/88,100,36.6,12,fatigue,diabetes,Hypertension,2022-08-21
+P0762,2,Male,139/64,89,36.7,13,"fever, headache","hypertension, asthma",COVID-19,2020-06-15
+P0763,44,Male,139/60,93,37.9,12,"fever, nausea, fatigue",none,COVID-19,2021-11-05
+P0764,14,Other,108/83,81,36.7,12,cough,asthma,Flu,2023-01-13
+P0765,74,Female,110/74,96,36.8,17,"headache, sore throat","hypertension, none",COVID-19,2023-03-27
+P0766,83,Other,135/76,97,37.9,12,"fever, headache, cough",asthma,Cold,2020-08-22
+P0767,97,Other,128/66,81,38.7,15,nausea,"none, hypertension",Hypertension,2021-09-14
+P0768,67,Female,90/69,62,38.2,18,"sore throat, nausea",none,Cold,2021-08-11
+P0769,25,Female,99/67,69,37.9,18,"cough, fatigue",none,Diabetes,2022-04-22
+P0770,89,Female,130/63,64,37.2,18,"headache, cough, fatigue","hypertension, diabetes",COVID-19,2020-08-12
+P0771,75,Male,128/71,99,38.6,12,"fatigue, sore throat",none,Diabetes,2020-08-13
+P0772,35,Male,129/65,78,37.3,15,"cough, nausea, fever",diabetes,Cold,2020-06-11
+P0773,37,Other,140/78,64,37.5,17,"sore throat, headache",diabetes,Diabetes,2022-06-21
+P0774,2,Male,130/88,76,37.4,18,"nausea, fatigue, cough","asthma, diabetes",Cold,2022-03-04
+P0775,35,Female,98/82,73,36.6,13,"cough, nausea, sore throat",none,Diabetes,2021-05-26
+P0776,18,Other,111/69,97,36.0,17,"fever, fatigue, sore throat","hypertension, none",Cold,2021-04-06
+P0777,100,Female,118/64,62,36.9,16,"headache, fever, cough",asthma,Hypertension,2023-04-08
+P0778,21,Other,98/75,89,36.8,18,"cough, headache, sore throat",diabetes,Cold,2022-03-15
+P0779,74,Other,108/63,99,36.6,16,"cough, headache","hypertension, none",Diabetes,2020-01-13
+P0780,85,Other,108/88,99,37.5,16,cough,"asthma, none",COVID-19,2021-09-04
+P0781,75,Female,131/64,71,38.6,12,nausea,"none, diabetes",Diabetes,2021-12-26
+P0782,69,Male,99/73,95,36.2,18,nausea,none,COVID-19,2020-06-14
+P0783,41,Other,103/76,85,37.2,18,nausea,hypertension,Cold,2021-03-03
+P0784,19,Other,92/65,64,36.9,18,"cough, fever","hypertension, asthma",COVID-19,2022-12-23
+P0785,4,Other,140/82,93,36.7,13,"sore throat, cough",hypertension,Hypertension,2020-03-07
+P0786,95,Other,135/82,65,36.4,19,"fever, cough, fatigue","asthma, none",Flu,2020-11-19
+P0787,30,Male,94/88,71,38.1,13,"fatigue, sore throat, fever",none,COVID-19,2022-06-01
+P0788,92,Female,100/69,82,38.3,13,"sore throat, fever",none,Hypertension,2023-03-04
+P0789,37,Other,134/75,86,37.0,16,"sore throat, fatigue","diabetes, asthma",COVID-19,2023-12-05
+P0790,60,Other,94/90,73,38.7,18,sore throat,"diabetes, asthma",COVID-19,2020-03-27
+P0791,35,Other,97/74,76,38.8,14,"nausea, headache, fatigue","none, asthma",Flu,2020-01-11
+P0792,35,Other,118/70,74,36.3,16,"sore throat, fever",hypertension,Hypertension,2021-07-07
+P0793,80,Male,121/61,76,38.9,20,nausea,none,Flu,2022-06-03
+P0794,89,Other,128/85,61,36.8,17,"nausea, sore throat, headache","asthma, none",COVID-19,2023-05-15
+P0795,23,Male,107/83,86,36.2,14,"headache, fever","asthma, hypertension",Diabetes,2023-06-10
+P0796,57,Other,125/66,64,37.7,16,"headache, sore throat","hypertension, asthma",Flu,2020-01-08
+P0797,65,Male,103/63,82,38.2,14,nausea,"asthma, hypertension",Cold,2021-01-31
+P0798,84,Other,133/76,85,38.3,13,"sore throat, nausea","none, asthma",Diabetes,2022-11-26
+P0799,36,Other,93/82,93,38.3,19,"sore throat, headache",diabetes,Diabetes,2024-06-04
+P0800,13,Female,127/80,62,38.6,14,"headache, sore throat, fatigue","none, asthma",Flu,2023-06-14
+P0801,25,Female,114/63,90,37.7,14,fatigue,asthma,Cold,2023-02-10
+P0802,51,Other,114/83,85,36.4,15,"cough, sore throat, fatigue","diabetes, none",COVID-19,2021-04-23
+P0803,34,Other,106/88,73,37.6,13,"cough, headache",hypertension,Flu,2022-05-02
+P0804,55,Other,106/60,85,36.0,20,"nausea, cough, headache","diabetes, asthma",Hypertension,2023-12-24
+P0805,41,Male,106/61,68,38.0,15,"headache, sore throat",diabetes,Diabetes,2022-12-27
+P0806,20,Female,105/90,89,36.6,15,"cough, sore throat, nausea","asthma, hypertension",Diabetes,2022-01-24
+P0807,62,Female,123/61,72,38.1,13,"headache, fatigue, nausea","diabetes, asthma",Cold,2021-01-02
+P0808,53,Female,127/72,63,37.7,13,nausea,diabetes,Flu,2023-12-30
+P0809,93,Other,99/75,84,36.5,17,"fever, cough, nausea","asthma, none",COVID-19,2020-09-20
+P0810,35,Other,92/79,63,38.8,20,"fatigue, cough, sore throat",hypertension,Flu,2020-02-20
+P0811,87,Other,113/86,98,37.0,19,headache,"diabetes, hypertension",Diabetes,2023-09-11
+P0812,57,Female,120/86,75,37.0,19,"fatigue, headache","diabetes, none",Cold,2022-07-14
+P0813,15,Other,96/64,62,36.8,17,"sore throat, fatigue","asthma, hypertension",Flu,2023-12-15
+P0814,61,Female,116/65,96,36.8,12,fever,asthma,Diabetes,2022-07-13
+P0815,77,Other,135/60,77,38.8,17,"cough, fever, fatigue","asthma, none",Cold,2021-11-26
+P0816,68,Other,110/66,79,38.0,14,"nausea, headache, cough",asthma,COVID-19,2022-03-27
+P0817,41,Male,96/86,74,37.4,13,"sore throat, fever, fatigue","hypertension, none",Hypertension,2022-11-28
+P0818,31,Female,104/65,81,37.0,15,fever,diabetes,Diabetes,2023-07-11
+P0819,5,Female,98/82,83,37.9,13,fever,diabetes,Hypertension,2020-07-03
+P0820,80,Female,132/70,82,36.3,17,"sore throat, fever, nausea",asthma,Flu,2020-10-03
+P0821,55,Other,106/62,84,36.1,18,sore throat,"none, asthma",Hypertension,2022-09-26
+P0822,17,Male,103/68,89,38.6,18,fatigue,hypertension,Hypertension,2021-11-22
+P0823,97,Male,134/74,78,36.2,15,"nausea, cough, fatigue","diabetes, hypertension",Diabetes,2023-04-15
+P0824,39,Male,94/67,64,36.1,12,"fatigue, sore throat","none, asthma",Cold,2021-10-03
+P0825,100,Other,112/73,68,37.6,14,"sore throat, nausea",hypertension,COVID-19,2022-08-22
+P0826,54,Male,113/86,71,37.7,18,"nausea, cough",none,Diabetes,2023-08-28
+P0827,24,Female,106/72,71,36.6,15,"fever, cough, nausea","none, hypertension",COVID-19,2022-11-21
+P0828,46,Other,139/74,96,36.0,14,"headache, fatigue, cough",hypertension,Flu,2021-04-10
+P0829,82,Female,95/74,78,37.5,13,"fever, headache, sore throat",asthma,COVID-19,2023-08-01
+P0830,63,Male,113/72,68,38.5,18,"headache, nausea","asthma, none",Flu,2023-11-29
+P0831,48,Female,100/74,77,36.8,13,"cough, fatigue",none,COVID-19,2021-08-08
+P0832,31,Other,94/79,85,37.3,15,"cough, fatigue","hypertension, none",Diabetes,2023-12-14
+P0833,10,Female,117/66,62,37.7,19,"sore throat, fever, headache","asthma, none",COVID-19,2020-07-19
+P0834,82,Female,112/72,62,36.1,18,"headache, cough, fatigue",asthma,Flu,2021-11-10
+P0835,40,Other,101/85,85,36.8,12,"cough, headache, sore throat","none, hypertension",COVID-19,2022-06-08
+P0836,40,Male,97/68,88,36.7,12,sore throat,"hypertension, asthma",Cold,2022-10-06
+P0837,33,Male,128/84,76,36.2,17,"headache, fatigue",hypertension,Cold,2023-12-25
+P0838,61,Female,135/79,89,38.7,14,"headache, nausea, fatigue",diabetes,COVID-19,2023-11-02
+P0839,57,Male,122/60,69,36.7,15,"fatigue, headache, nausea",hypertension,Cold,2022-12-06
+P0840,99,Other,131/68,61,38.7,15,"cough, headache, nausea","none, hypertension",Flu,2021-06-07
+P0841,52,Other,107/63,77,38.9,15,fever,"asthma, hypertension",Diabetes,2020-08-25
+P0842,49,Female,135/77,97,36.8,20,"fatigue, fever, headache",none,Flu,2022-06-26
+P0843,86,Male,128/66,78,38.4,18,nausea,"none, hypertension",Hypertension,2020-12-14
+P0844,35,Female,131/63,87,36.2,14,"fatigue, nausea, sore throat","none, asthma",Flu,2023-12-28
+P0845,86,Female,138/81,85,37.5,12,"headache, sore throat, fatigue",hypertension,Cold,2021-01-04
+P0846,24,Male,124/71,92,37.8,16,headache,"none, hypertension",Hypertension,2021-03-30
+P0847,43,Other,113/90,77,38.2,19,"nausea, fatigue",hypertension,Flu,2021-11-11
+P0848,73,Other,125/77,61,38.8,16,"fever, fatigue","diabetes, asthma",COVID-19,2020-11-29
+P0849,68,Male,127/70,81,38.6,14,cough,none,Diabetes,2024-05-31
+P0850,84,Female,129/60,92,36.5,18,"fever, headache, sore throat",hypertension,Cold,2023-03-10
+P0851,85,Male,93/65,66,36.6,13,headache,"none, asthma",Cold,2020-10-20
+P0852,19,Female,103/62,72,36.5,14,"fatigue, headache","diabetes, hypertension",Hypertension,2023-10-01
+P0853,9,Male,104/78,63,38.8,15,"cough, sore throat, fatigue","asthma, none",COVID-19,2021-09-12
+P0854,53,Female,109/81,84,38.9,18,"sore throat, cough","hypertension, none",Diabetes,2022-03-12
+P0855,50,Male,98/84,80,37.8,12,"nausea, fever","hypertension, diabetes",Hypertension,2024-04-09
+P0856,72,Female,112/60,89,38.9,12,fatigue,hypertension,Cold,2022-10-14
+P0857,48,Male,122/79,93,38.3,15,"cough, headache, fever","none, hypertension",Flu,2021-09-22
+P0858,24,Other,138/73,62,37.5,12,nausea,none,Diabetes,2020-05-05
+P0859,33,Other,112/79,90,37.6,16,headache,asthma,Cold,2024-03-31
+P0860,98,Other,94/75,84,38.2,19,nausea,"diabetes, asthma",Cold,2020-10-07
+P0861,38,Male,98/78,60,37.1,12,"fatigue, headache, cough","hypertension, asthma",Cold,2021-10-14
+P0862,12,Other,105/87,65,38.6,19,cough,"asthma, hypertension",Hypertension,2021-01-08
+P0863,36,Other,97/80,90,38.7,16,"sore throat, fever",asthma,Diabetes,2020-01-01
+P0864,11,Other,95/85,64,36.3,14,headache,"hypertension, diabetes",COVID-19,2020-10-31
+P0865,66,Male,113/75,84,39.0,16,"fever, nausea","none, diabetes",Cold,2022-10-21
+P0866,54,Female,107/89,90,36.7,20,"fatigue, fever",none,Cold,2023-10-03
+P0867,20,Other,135/86,70,39.0,20,"nausea, fever, cough",none,COVID-19,2020-02-28
+P0868,62,Female,96/84,86,38.4,15,"headache, nausea","diabetes, none",Flu,2020-02-07
+P0869,69,Male,129/88,61,37.5,19,cough,asthma,Cold,2024-02-19
+P0870,74,Other,136/69,89,36.3,14,"sore throat, cough, fever",diabetes,Flu,2022-09-02
+P0871,96,Male,140/65,80,36.2,12,"sore throat, fatigue, nausea","hypertension, none",Hypertension,2021-04-20
+P0872,81,Female,101/64,63,37.0,12,"cough, nausea, fever",none,Cold,2023-08-14
+P0873,80,Male,118/83,89,37.9,13,"sore throat, headache, fever","none, asthma",Cold,2021-06-27
+P0874,84,Female,122/76,96,37.6,16,"headache, nausea, sore throat",asthma,Cold,2023-12-12
+P0875,45,Other,109/81,76,37.3,13,"nausea, sore throat, cough","asthma, diabetes",Diabetes,2020-11-01
+P0876,82,Other,131/68,94,37.4,14,"nausea, fatigue","asthma, diabetes",Hypertension,2020-01-09
+P0877,61,Male,136/67,79,37.8,20,"fever, headache",hypertension,Flu,2022-09-12
+P0878,28,Male,90/90,84,37.9,18,headache,"hypertension, diabetes",COVID-19,2024-02-23
+P0879,26,Female,131/62,76,37.1,17,sore throat,diabetes,Cold,2022-06-25
+P0880,77,Female,91/90,88,38.7,14,"nausea, cough, fever",none,Diabetes,2022-08-21
+P0881,35,Male,99/60,77,37.6,18,"headache, cough",none,Cold,2023-11-23
+P0882,66,Other,94/73,100,38.2,15,nausea,hypertension,COVID-19,2020-06-11
+P0883,59,Female,110/65,84,38.9,20,sore throat,diabetes,Diabetes,2022-11-04
+P0884,32,Female,95/87,72,37.9,20,"fatigue, cough, headache","hypertension, diabetes",COVID-19,2024-04-10
+P0885,20,Female,92/85,93,38.0,12,"cough, fatigue","diabetes, none",Flu,2024-05-20
+P0886,41,Other,97/78,75,38.3,13,"fever, cough, fatigue",diabetes,COVID-19,2023-08-30
+P0887,4,Other,99/90,79,36.4,14,"cough, nausea",none,Flu,2022-09-09
+P0888,96,Male,103/64,62,38.6,18,"fatigue, sore throat",none,Diabetes,2023-04-03
+P0889,82,Female,101/83,97,38.2,18,fatigue,diabetes,Cold,2024-04-15
+P0890,67,Other,90/63,88,37.9,17,"fever, fatigue","asthma, none",Cold,2022-10-21
+P0891,53,Other,106/70,81,36.3,12,fever,hypertension,Hypertension,2020-09-26
+P0892,15,Female,96/74,80,37.3,16,"fever, nausea","none, hypertension",Diabetes,2020-05-10
+P0893,30,Male,94/83,100,36.6,14,sore throat,"hypertension, asthma",Flu,2021-05-11
+P0894,58,Male,114/84,75,38.3,14,"cough, sore throat","none, asthma",Flu,2023-12-31
+P0895,35,Other,117/66,67,37.6,14,nausea,"diabetes, none",Hypertension,2020-02-19
+P0896,29,Other,131/74,73,38.7,18,"headache, cough",asthma,COVID-19,2020-09-24
+P0897,42,Female,109/86,82,36.4,16,"headache, fever","none, asthma",Hypertension,2021-02-06
+P0898,50,Male,98/60,64,37.9,14,"fatigue, nausea",diabetes,Flu,2020-09-15
+P0899,88,Other,127/65,86,36.5,17,"sore throat, headache","hypertension, asthma",Diabetes,2022-07-30
+P0900,7,Female,94/65,81,38.4,20,"cough, headache","diabetes, asthma",Flu,2024-02-13
+P0901,5,Other,128/71,87,38.0,12,fatigue,diabetes,COVID-19,2022-07-28
+P0902,42,Female,97/64,72,36.9,19,"fever, headache, cough","none, hypertension",COVID-19,2023-07-28
+P0903,47,Female,103/64,76,37.3,12,headache,asthma,Cold,2022-11-03
+P0904,52,Other,102/76,74,36.7,20,"fatigue, nausea","none, diabetes",Cold,2020-03-11
+P0905,76,Female,132/89,100,36.8,18,"sore throat, fatigue, nausea",asthma,Flu,2022-09-06
+P0906,29,Other,121/75,88,37.9,13,sore throat,hypertension,COVID-19,2020-05-29
+P0907,46,Male,136/60,69,37.8,15,"fever, cough",diabetes,Diabetes,2021-02-11
+P0908,15,Male,99/87,64,36.6,20,"nausea, cough","none, diabetes",Flu,2021-05-09
+P0909,59,Other,124/67,66,38.0,17,"cough, sore throat, fever","asthma, hypertension",Flu,2022-09-24
+P0910,3,Female,133/88,90,37.2,14,"nausea, cough",asthma,Flu,2022-08-06
+P0911,20,Male,113/74,92,37.9,14,"cough, fever, sore throat","diabetes, none",Hypertension,2024-05-19
+P0912,70,Male,100/69,67,38.7,17,"fatigue, fever, sore throat","diabetes, asthma",Hypertension,2023-07-11
+P0913,38,Female,125/84,90,36.9,13,"fatigue, cough, fever","hypertension, diabetes",Cold,2020-09-25
+P0914,11,Male,101/62,96,37.1,15,headache,asthma,Hypertension,2020-07-05
+P0915,75,Female,120/69,81,38.1,13,cough,asthma,Diabetes,2020-06-09
+P0916,55,Other,91/78,75,37.2,13,"fever, fatigue",diabetes,Hypertension,2021-06-26
+P0917,16,Other,123/61,64,36.4,18,"headache, cough, fever","hypertension, asthma",Hypertension,2024-07-18
+P0918,40,Male,98/68,61,37.7,14,sore throat,"asthma, none",Hypertension,2022-03-01
+P0919,62,Female,100/77,75,36.0,13,"headache, nausea, fatigue","asthma, none",Diabetes,2023-04-26
+P0920,91,Female,140/76,89,38.1,20,"fever, cough","hypertension, asthma",Flu,2021-06-07
+P0921,19,Male,103/85,90,38.2,19,"fever, nausea","hypertension, diabetes",Diabetes,2021-03-03
+P0922,59,Male,128/87,81,37.0,12,"headache, sore throat, fever","hypertension, asthma",Cold,2023-01-15
+P0923,98,Male,108/71,68,36.1,19,"fever, sore throat, headache","hypertension, asthma",Cold,2021-07-30
+P0924,90,Other,102/73,76,37.1,13,fatigue,"diabetes, none",COVID-19,2021-08-21
+P0925,76,Other,117/72,81,36.6,17,cough,"hypertension, asthma",COVID-19,2022-09-05
+P0926,55,Other,107/69,82,37.8,13,fatigue,"hypertension, none",Diabetes,2023-11-11
+P0927,70,Female,133/73,74,36.4,14,"nausea, headache, fever",diabetes,Hypertension,2021-04-28
+P0928,63,Male,102/75,84,36.8,16,"nausea, sore throat",asthma,Hypertension,2024-04-09
+P0929,94,Male,136/75,95,38.2,15,"fatigue, fever","diabetes, none",Cold,2020-08-15
+P0930,60,Other,123/68,69,37.5,18,"cough, fever",diabetes,Cold,2022-10-29
+P0931,45,Other,120/67,76,38.6,19,"sore throat, cough","asthma, diabetes",Diabetes,2021-01-20
+P0932,35,Other,102/67,95,36.0,20,"nausea, headache, fever","diabetes, none",Cold,2023-10-16
+P0933,20,Other,131/81,70,38.5,13,"sore throat, headache","diabetes, hypertension",Hypertension,2020-01-13
+P0934,51,Male,115/88,87,38.7,12,"cough, sore throat","diabetes, asthma",COVID-19,2022-05-31
+P0935,42,Other,126/88,81,38.9,13,cough,asthma,COVID-19,2022-04-04
+P0936,34,Other,105/63,85,36.6,19,nausea,"hypertension, none",Flu,2020-10-27
+P0937,90,Female,138/89,97,36.4,12,"headache, sore throat",hypertension,Cold,2023-07-28
+P0938,74,Female,140/61,71,36.5,16,"headache, cough, nausea","hypertension, diabetes",COVID-19,2024-03-11
+P0939,58,Other,114/85,65,37.1,19,"fever, sore throat, headache","diabetes, asthma",Flu,2020-10-14
+P0940,67,Male,97/83,62,37.3,20,"nausea, fever, fatigue",none,COVID-19,2020-08-04
+P0941,97,Male,134/86,86,37.2,19,nausea,"diabetes, asthma",Flu,2023-11-15
+P0942,27,Female,133/70,96,38.6,15,"nausea, fever","none, asthma",Hypertension,2022-01-22
+P0943,6,Female,131/84,69,37.8,20,"fatigue, fever",none,COVID-19,2023-08-24
+P0944,33,Other,96/71,74,38.9,19,fatigue,diabetes,Cold,2021-05-20
+P0945,75,Other,111/86,82,38.2,20,cough,"none, diabetes",Cold,2024-06-02
+P0946,23,Other,114/85,92,37.0,14,"nausea, sore throat",none,COVID-19,2022-06-09
+P0947,7,Other,126/73,69,36.3,16,"fatigue, headache, nausea","hypertension, diabetes",Diabetes,2022-04-03
+P0948,61,Female,134/63,75,37.7,15,"fatigue, fever, cough","diabetes, hypertension",COVID-19,2023-07-12
+P0949,62,Male,115/71,89,37.6,18,"cough, fatigue, fever","none, diabetes",Flu,2022-03-03
+P0950,8,Other,122/60,68,38.6,16,sore throat,asthma,Flu,2023-06-22
+P0951,72,Female,132/83,79,37.8,19,cough,"none, asthma",COVID-19,2020-12-26
+P0952,17,Other,122/65,83,38.5,20,fever,none,Diabetes,2021-10-16
+P0953,13,Female,140/78,71,37.8,15,"headache, cough",asthma,Flu,2022-04-06
+P0954,39,Female,102/60,60,36.9,12,headache,"diabetes, hypertension",Cold,2020-05-27
+P0955,74,Other,116/84,98,36.5,13,"fever, nausea, headache",diabetes,Flu,2023-08-22
+P0956,15,Female,114/64,92,36.5,19,"nausea, headache, fever","hypertension, none",Flu,2022-04-22
+P0957,13,Male,94/85,93,36.3,18,cough,none,Flu,2024-02-02
+P0958,92,Female,123/77,68,36.3,20,cough,diabetes,Flu,2023-09-18
+P0959,75,Female,97/60,95,38.1,19,"cough, fatigue, sore throat","hypertension, diabetes",Cold,2023-05-17
+P0960,60,Other,126/86,70,38.6,16,nausea,diabetes,COVID-19,2023-08-12
+P0961,67,Female,127/84,66,37.6,12,"fatigue, fever","asthma, none",Diabetes,2024-07-21
+P0962,47,Male,101/73,96,36.3,17,"cough, nausea, sore throat",none,Hypertension,2022-11-06
+P0963,90,Female,116/60,80,38.7,19,"headache, cough","none, hypertension",Hypertension,2020-08-17
+P0964,47,Male,96/88,66,38.0,18,"sore throat, fever","hypertension, diabetes",Flu,2023-08-30
+P0965,52,Female,128/74,68,36.4,13,fever,"diabetes, none",Cold,2023-11-20
+P0966,28,Male,95/84,81,37.0,14,"fatigue, fever","diabetes, asthma",Hypertension,2020-05-12
+P0967,29,Other,98/70,100,37.3,14,"fever, cough, nausea",asthma,Cold,2022-05-09
+P0968,90,Female,113/68,67,38.9,14,fatigue,"hypertension, diabetes",COVID-19,2024-01-26
+P0969,23,Female,118/70,81,38.0,12,"fever, nausea, headache",asthma,COVID-19,2021-05-03
+P0970,13,Other,115/84,78,36.3,16,"fatigue, nausea",hypertension,Flu,2020-08-21
+P0971,28,Other,109/83,61,37.7,15,"sore throat, cough, fatigue","diabetes, asthma",Hypertension,2021-07-15
+P0972,7,Other,93/70,66,36.9,13,"nausea, sore throat","asthma, none",COVID-19,2023-03-20
+P0973,17,Male,95/66,60,38.9,18,"cough, headache, fatigue",none,Flu,2021-12-07
+P0974,16,Female,95/70,85,37.2,17,fatigue,"hypertension, diabetes",Cold,2022-06-15
+P0975,75,Male,98/78,72,37.2,19,"nausea, headache, fatigue",hypertension,Diabetes,2021-07-19
+P0976,35,Male,96/73,87,37.4,17,"headache, nausea, fever",none,Diabetes,2022-10-10
+P0977,18,Male,100/88,67,37.4,18,"fever, cough",hypertension,COVID-19,2021-02-28
+P0978,9,Other,127/77,94,37.3,15,headache,"hypertension, asthma",Flu,2020-07-08
+P0979,69,Other,111/90,80,37.3,20,"fever, cough","hypertension, none",Flu,2022-01-14
+P0980,29,Male,120/61,69,37.6,15,headache,"none, asthma",Cold,2022-02-25
+P0981,88,Male,99/65,82,38.8,18,"fatigue, nausea, fever","hypertension, none",Diabetes,2020-02-28
+P0982,8,Male,132/68,78,38.9,19,"fatigue, nausea, sore throat",asthma,Flu,2022-02-20
+P0983,99,Other,112/80,87,36.6,14,cough,none,Cold,2022-09-07
+P0984,58,Other,125/80,81,38.3,19,"nausea, fever",diabetes,Diabetes,2020-06-24
+P0985,11,Other,136/83,84,37.9,18,cough,diabetes,Flu,2020-10-18
+P0986,74,Male,124/60,100,37.7,19,"cough, fatigue, nausea",hypertension,COVID-19,2024-04-07
+P0987,50,Other,94/86,79,36.8,17,"cough, sore throat",hypertension,Diabetes,2021-04-17
+P0988,76,Male,121/70,70,36.2,13,"headache, nausea",diabetes,Hypertension,2023-11-27
+P0989,7,Other,115/77,76,37.5,15,nausea,"hypertension, asthma",COVID-19,2024-02-23
+P0990,60,Other,140/82,79,38.3,19,"headache, fatigue, cough","none, hypertension",Diabetes,2022-10-19
+P0991,85,Female,93/76,75,36.9,15,"fatigue, cough, headache",none,Hypertension,2022-12-29
+P0992,16,Male,139/76,98,38.3,14,sore throat,none,Flu,2022-01-30
+P0993,73,Male,120/60,71,36.3,16,"sore throat, fatigue, fever",none,Diabetes,2021-07-01
+P0994,12,Male,135/64,75,38.3,19,sore throat,"hypertension, diabetes",Cold,2020-05-25
+P0995,89,Other,126/87,95,37.4,14,sore throat,"asthma, diabetes",Hypertension,2023-03-05
+P0996,3,Male,114/79,92,36.3,13,"nausea, fatigue",diabetes,Cold,2020-01-23
+P0997,54,Female,93/81,100,37.6,14,"cough, sore throat, fever","diabetes, hypertension",Flu,2022-01-20
+P0998,95,Male,111/77,96,36.7,20,"cough, sore throat, fatigue","diabetes, hypertension",Hypertension,2021-08-31
+P0999,74,Other,131/79,80,38.4,13,fatigue,none,Diabetes,2021-09-19
+P1000,60,Male,93/79,84,37.6,15,fatigue,"none, diabetes",Diabetes,2020-10-30
+P1001,85,Male,119/60,98,38.8,14,"fever, headache, cough",asthma,Diabetes,2020-12-30
+P1002,42,Female,114/88,71,36.6,17,headache,none,Hypertension,2020-06-09
+P1003,45,Male,95/66,70,36.8,17,"cough, nausea, fatigue",diabetes,Diabetes,2020-07-14
+P1004,68,Male,113/86,89,37.9,19,fatigue,asthma,Cold,2024-06-11
+P1005,77,Other,125/71,75,36.7,19,"headache, nausea",asthma,Cold,2020-04-20
+P1006,81,Female,139/76,88,36.9,14,"headache, cough, sore throat","hypertension, diabetes",Flu,2020-08-01
+P1007,6,Male,128/89,68,38.7,18,"fatigue, cough","hypertension, none",Flu,2022-05-28
+P1008,64,Female,108/75,96,36.5,19,nausea,diabetes,Hypertension,2024-04-07
+P1009,66,Other,118/88,89,37.1,15,headache,none,Hypertension,2024-05-26
+P1010,20,Other,103/90,83,38.2,16,"sore throat, cough, headache","diabetes, hypertension",Flu,2022-04-01
+P1011,81,Other,131/60,95,36.6,13,"headache, sore throat","asthma, none",Flu,2024-03-23
+P1012,75,Other,137/87,73,37.1,20,headache,"hypertension, diabetes",Diabetes,2024-08-08
+P1013,89,Other,99/78,83,36.1,18,"cough, sore throat, fever",none,Diabetes,2020-07-03
+P1014,96,Female,97/70,87,37.4,14,"fever, fatigue, headache","hypertension, diabetes",Flu,2023-01-01
+P1015,91,Male,116/81,90,37.8,13,"nausea, cough, fatigue","diabetes, asthma",Flu,2021-07-31
+P1016,37,Female,140/80,94,37.9,19,"nausea, headache, cough","hypertension, none",Diabetes,2023-09-26
+P1017,97,Other,131/66,82,36.2,18,"cough, sore throat","asthma, diabetes",Flu,2020-11-16
+P1018,61,Male,135/64,100,37.6,13,"fatigue, nausea, headache","asthma, none",Cold,2021-09-30
+P1019,29,Female,111/80,60,37.2,17,"cough, headache, nausea","diabetes, hypertension",Flu,2022-03-06
+P1020,11,Male,125/73,72,38.7,15,"fever, headache",asthma,Flu,2021-11-16
+P1021,6,Male,135/68,74,38.1,19,headache,"none, diabetes",Cold,2020-12-25
+P1022,31,Male,97/72,80,37.7,19,"sore throat, headache, cough",none,Diabetes,2024-06-20
+P1023,82,Other,123/89,76,38.9,17,"cough, sore throat","hypertension, asthma",Diabetes,2021-02-22
+P1024,25,Male,99/85,79,36.2,17,"nausea, cough, fever","hypertension, none",Diabetes,2023-08-12
+P1025,25,Female,117/77,74,36.6,18,"headache, nausea, fatigue",diabetes,Cold,2021-10-18
+P1026,4,Female,134/60,78,39.0,15,"sore throat, fatigue","asthma, none",Diabetes,2021-12-09
+P1027,37,Female,101/70,73,36.2,18,"sore throat, fever, fatigue",hypertension,Cold,2021-05-10
+P1028,16,Female,126/63,80,38.2,15,cough,hypertension,Flu,2023-07-02
+P1029,24,Other,99/82,74,36.3,15,"nausea, fever",diabetes,Cold,2021-06-26
+P1030,26,Male,140/67,88,38.3,15,"sore throat, headache","asthma, none",Cold,2022-10-22
+P1031,55,Female,114/72,75,38.8,13,"sore throat, headache, fever","none, diabetes",Flu,2022-05-27
+P1032,69,Male,125/88,77,37.6,14,fatigue,asthma,Diabetes,2021-11-26
+P1033,13,Other,91/85,85,38.1,14,"sore throat, cough",asthma,Cold,2022-07-23
+P1034,21,Male,124/62,100,36.1,20,sore throat,asthma,Cold,2024-07-02
+P1035,51,Female,118/72,98,38.3,17,"fever, sore throat","none, hypertension",COVID-19,2021-06-15
+P1036,93,Female,126/73,76,36.4,13,"fatigue, cough, nausea","asthma, diabetes",Cold,2021-06-06
+P1037,33,Other,137/82,62,38.6,13,"sore throat, fever, nausea","hypertension, none",Diabetes,2023-04-13
+P1038,62,Female,133/74,94,38.7,14,"cough, fatigue, headache","hypertension, asthma",Diabetes,2024-01-26
+P1039,50,Female,109/73,84,38.3,16,"fatigue, sore throat","hypertension, diabetes",Cold,2023-02-03
+P1040,31,Other,130/88,61,37.1,20,"fatigue, nausea, headache",hypertension,Hypertension,2023-11-18
+P1041,73,Other,109/88,94,36.0,13,"headache, cough",asthma,Cold,2023-10-27
+P1042,11,Female,140/61,77,38.2,14,"sore throat, fever, nausea",none,Hypertension,2023-12-03
+P1043,16,Female,90/79,79,36.7,15,"fever, nausea","none, hypertension",Cold,2023-07-20
+P1044,79,Other,127/63,95,38.5,12,fever,none,Flu,2021-12-26
+P1045,35,Male,105/63,86,37.1,15,"cough, fatigue, headache","none, asthma",Diabetes,2022-02-25
+P1046,13,Female,121/78,99,37.3,12,"fatigue, fever, headache",asthma,Diabetes,2023-02-18
+P1047,30,Other,103/69,69,38.7,18,"sore throat, nausea","asthma, diabetes",Hypertension,2024-01-27
+P1048,26,Male,113/61,94,39.0,14,"nausea, headache, sore throat",none,Hypertension,2021-04-11
+P1049,68,Other,130/79,65,36.5,12,"cough, sore throat","hypertension, none",Flu,2024-05-14
+P1050,76,Female,91/69,62,36.4,14,"sore throat, fatigue",asthma,Flu,2022-04-11
+P1051,17,Other,119/90,64,37.9,17,fatigue,asthma,Flu,2020-05-23
+P1052,74,Female,134/62,100,39.0,17,"fever, headache","none, hypertension",COVID-19,2023-05-10
+P1053,23,Female,138/83,61,37.8,18,"nausea, fever, sore throat",hypertension,Cold,2022-10-06
+P1054,16,Male,125/71,69,38.7,15,"nausea, fatigue, headache","hypertension, none",Hypertension,2024-07-24
+P1055,26,Female,96/78,72,36.9,18,"sore throat, cough, fever","diabetes, asthma",Cold,2022-04-30
+P1056,74,Female,134/62,62,38.1,16,"nausea, headache",none,Diabetes,2022-11-13
+P1057,60,Male,104/85,68,37.8,16,"sore throat, fever","diabetes, asthma",COVID-19,2023-02-26
+P1058,88,Other,106/68,85,37.7,14,sore throat,asthma,COVID-19,2023-08-09
+P1059,90,Female,115/82,68,36.6,14,"headache, fever, nausea","diabetes, none",COVID-19,2022-01-15
+P1060,3,Other,126/77,92,36.6,12,sore throat,"hypertension, asthma",Diabetes,2022-05-07
+P1061,23,Female,115/75,80,37.9,18,"sore throat, fatigue, cough","hypertension, diabetes",Cold,2021-07-01
+P1062,54,Other,113/78,81,37.6,16,"sore throat, fever, headache","none, asthma",COVID-19,2020-08-03
+P1063,37,Other,131/61,84,38.2,19,headache,asthma,Diabetes,2020-10-31
+P1064,36,Other,100/69,82,37.2,15,"sore throat, fatigue",hypertension,Cold,2020-01-21
+P1065,69,Female,98/90,97,37.6,17,"fever, sore throat, cough","none, diabetes",Flu,2024-02-14
+P1066,7,Male,92/89,76,38.5,17,"nausea, headache, fever",asthma,Flu,2021-10-09
+P1067,11,Male,126/85,100,38.7,17,"sore throat, fatigue",diabetes,COVID-19,2023-08-03
+P1068,55,Other,102/82,98,37.6,20,"cough, nausea","none, hypertension",COVID-19,2024-01-01
+P1069,8,Other,109/65,65,38.3,15,"sore throat, fever","asthma, hypertension",Diabetes,2020-05-17
+P1070,5,Other,121/73,75,36.8,14,"fatigue, sore throat","asthma, diabetes",COVID-19,2022-05-31
+P1071,2,Female,126/67,65,39.0,16,fatigue,"none, asthma",Cold,2022-09-18
+P1072,14,Other,133/67,96,36.9,18,"nausea, headache, sore throat",diabetes,COVID-19,2024-06-12
+P1073,79,Other,98/68,95,38.0,12,"sore throat, cough, nausea",hypertension,COVID-19,2022-03-29
+P1074,92,Other,93/60,97,38.2,17,"cough, sore throat","asthma, hypertension",Hypertension,2023-01-24
+P1075,94,Male,91/63,79,38.5,12,fatigue,"asthma, none",Flu,2020-11-15
+P1076,35,Female,116/66,64,37.7,17,"nausea, fatigue, headache","diabetes, none",Cold,2023-09-22
+P1077,84,Male,133/69,68,38.0,19,"headache, cough","diabetes, asthma",Cold,2024-04-14
+P1078,66,Male,127/70,64,37.3,19,fatigue,diabetes,Cold,2022-11-22
+P1079,43,Other,112/66,60,37.7,17,"nausea, headache, sore throat",asthma,Diabetes,2022-10-21
+P1080,44,Other,122/88,86,36.0,18,"fatigue, nausea, sore throat",diabetes,Diabetes,2023-06-15
+P1081,12,Female,98/82,94,36.3,15,fever,none,Flu,2020-09-17
+P1082,4,Female,98/72,100,36.8,19,cough,diabetes,Flu,2021-07-17
+P1083,59,Female,128/76,65,36.5,19,"sore throat, cough","asthma, diabetes",Hypertension,2020-02-20
+P1084,55,Male,121/69,66,38.0,20,"fever, nausea",asthma,Hypertension,2023-11-08
+P1085,5,Male,108/88,87,37.4,13,nausea,"asthma, none",Cold,2023-02-15
+P1086,93,Other,99/83,65,36.6,13,"fever, cough, sore throat","none, asthma",Flu,2021-11-16
+P1087,68,Other,139/66,61,36.6,19,nausea,"none, diabetes",Diabetes,2021-07-01
+P1088,82,Other,126/61,92,37.0,13,"cough, fatigue, sore throat","hypertension, diabetes",Hypertension,2020-04-14
+P1089,36,Male,118/70,86,36.6,20,"nausea, cough, headache",hypertension,Diabetes,2020-11-20
+P1090,27,Other,103/69,78,37.3,13,"sore throat, fever","asthma, hypertension",Diabetes,2020-04-09
+P1091,63,Male,116/64,70,37.9,18,"fatigue, sore throat",none,Flu,2022-05-02
+P1092,17,Other,106/89,89,36.4,16,"headache, cough","none, hypertension",Flu,2024-03-17
+P1093,98,Male,139/79,64,36.9,13,headache,hypertension,Hypertension,2023-01-16
+P1094,32,Female,107/88,96,36.7,14,"fever, headache, nausea","none, diabetes",Cold,2022-10-24
+P1095,18,Male,111/64,87,38.4,17,"headache, sore throat",diabetes,COVID-19,2024-01-05
+P1096,50,Female,133/83,68,37.3,13,"sore throat, nausea","asthma, diabetes",Hypertension,2020-05-06
+P1097,29,Other,135/72,99,37.3,13,"cough, nausea, sore throat",asthma,Cold,2022-06-27
+P1098,52,Female,109/70,64,38.1,12,sore throat,"diabetes, asthma",Cold,2024-04-13
+P1099,13,Female,130/64,72,37.2,16,"sore throat, nausea",diabetes,COVID-19,2020-08-23
+P1100,84,Male,101/73,93,36.2,16,"nausea, cough","asthma, diabetes",Cold,2021-11-25
+P1101,7,Female,138/77,64,36.9,12,"sore throat, fever",hypertension,Hypertension,2020-12-20
+P1102,98,Other,112/76,93,37.4,12,"nausea, fatigue, cough","asthma, hypertension",Flu,2021-12-27
+P1103,84,Other,138/74,74,37.5,16,"fatigue, sore throat",none,Hypertension,2021-12-13
+P1104,79,Male,133/82,100,36.4,19,"fever, headache",hypertension,COVID-19,2022-08-10
+P1105,1,Male,106/87,61,36.2,20,"nausea, fatigue",asthma,Hypertension,2021-08-25
+P1106,40,Female,101/65,83,37.7,19,"fever, cough, sore throat","none, diabetes",Flu,2020-09-07
+P1107,86,Female,109/88,72,38.5,16,"headache, fatigue, fever",none,Flu,2024-07-31
+P1108,3,Male,92/60,70,36.6,16,"fatigue, headache, nausea",diabetes,Diabetes,2021-02-16
+P1109,27,Other,126/73,87,36.7,20,"nausea, cough",hypertension,Flu,2023-03-20
+P1110,82,Male,109/90,90,36.7,17,fever,none,COVID-19,2021-01-11
+P1111,72,Other,103/68,64,36.6,13,"sore throat, fatigue","hypertension, diabetes",Flu,2020-03-22
+P1112,47,Female,137/74,96,37.0,17,"sore throat, cough, fatigue","none, hypertension",Cold,2023-08-30
+P1113,74,Female,135/89,99,36.6,14,nausea,diabetes,Flu,2022-08-07
+P1114,26,Other,98/82,91,37.7,17,fatigue,hypertension,Cold,2020-04-15
+P1115,97,Female,129/78,71,37.6,17,fatigue,none,COVID-19,2023-12-01
+P1116,58,Male,100/62,73,37.8,19,"fatigue, sore throat, nausea",hypertension,COVID-19,2023-05-26
+P1117,1,Male,103/82,69,36.3,15,"headache, nausea",hypertension,Hypertension,2023-12-08
+P1118,29,Male,110/75,98,38.7,20,"cough, sore throat","diabetes, hypertension",Cold,2021-01-21
+P1119,30,Male,138/90,81,38.9,16,"cough, fever","diabetes, none",Diabetes,2023-10-18
+P1120,48,Female,91/78,80,36.8,18,"nausea, cough",asthma,Hypertension,2023-03-24
+P1121,41,Other,106/70,85,36.7,14,headache,hypertension,Flu,2023-07-31
+P1122,79,Male,132/88,86,37.7,15,"headache, cough",asthma,Cold,2022-04-15
+P1123,40,Male,116/71,77,36.5,17,"fever, nausea",diabetes,Diabetes,2020-05-13
+P1124,60,Male,103/79,75,38.8,16,"nausea, sore throat",hypertension,Cold,2020-04-19
+P1125,78,Male,138/83,64,38.6,18,"cough, sore throat, nausea",hypertension,Cold,2020-10-11
+P1126,35,Female,121/73,99,36.4,17,"sore throat, cough, nausea",none,Hypertension,2023-11-13
+P1127,90,Other,120/83,91,36.4,12,cough,diabetes,Flu,2023-03-20
+P1128,17,Female,124/78,68,38.7,18,"cough, fever","diabetes, hypertension",Hypertension,2020-01-25
+P1129,76,Other,104/88,75,38.3,20,fever,hypertension,Diabetes,2022-08-15
+P1130,88,Other,103/86,86,37.7,14,cough,"hypertension, none",Diabetes,2023-09-02
+P1131,30,Other,93/82,61,38.6,20,fatigue,diabetes,Cold,2024-04-17
+P1132,10,Male,109/88,97,36.6,12,"headache, sore throat","none, diabetes",Cold,2023-02-02
+P1133,19,Female,103/61,79,36.7,16,"nausea, fever","diabetes, asthma",Hypertension,2022-03-18
+P1134,75,Male,114/64,84,36.9,19,cough,"hypertension, diabetes",COVID-19,2021-08-26
+P1135,26,Male,128/88,63,37.2,18,"cough, sore throat",none,Hypertension,2020-02-08
+P1136,91,Male,107/80,92,37.7,13,"fatigue, sore throat, nausea",none,Hypertension,2022-12-08
+P1137,79,Other,136/81,73,36.9,18,"sore throat, cough, fatigue","diabetes, hypertension",Cold,2022-12-26
+P1138,47,Female,98/78,80,36.8,16,"cough, fever","diabetes, none",Hypertension,2023-02-23
+P1139,45,Other,93/67,80,37.4,12,"nausea, fatigue",asthma,Diabetes,2021-08-05
+P1140,78,Male,135/69,100,37.1,17,fatigue,none,COVID-19,2020-07-30
+P1141,99,Other,134/86,76,38.4,16,"headache, sore throat","asthma, none",Diabetes,2023-01-12
+P1142,69,Male,91/89,94,36.2,20,"sore throat, nausea, fatigue","asthma, hypertension",Diabetes,2020-12-03
+P1143,59,Male,129/82,79,37.2,17,"sore throat, headache, cough",hypertension,Hypertension,2024-08-27
+P1144,32,Other,129/63,87,36.7,16,"fatigue, nausea",diabetes,Flu,2023-09-09
+P1145,39,Other,120/74,66,37.4,14,"fever, fatigue, headache","none, hypertension",Diabetes,2023-10-16
+P1146,57,Female,103/72,66,37.8,15,"cough, sore throat, fever","none, asthma",Cold,2020-09-10
+P1147,35,Male,122/85,75,36.8,14,fatigue,"diabetes, hypertension",Diabetes,2023-04-03
+P1148,92,Female,99/80,69,38.4,16,"fatigue, nausea, cough",none,Diabetes,2022-01-07
+P1149,100,Female,104/85,73,36.6,20,"sore throat, fever","diabetes, asthma",Hypertension,2023-01-19
+P1150,49,Other,132/79,68,38.8,19,fatigue,diabetes,COVID-19,2024-01-10
+P1151,91,Other,124/90,88,36.6,12,"fever, sore throat","none, hypertension",Cold,2023-09-18
+P1152,22,Male,122/82,64,38.4,16,cough,"none, hypertension",COVID-19,2023-08-12
+P1153,25,Male,130/78,95,37.2,13,"fever, nausea",asthma,Cold,2020-05-05
+P1154,82,Male,104/86,61,38.4,13,"headache, fever",asthma,Diabetes,2023-12-18
+P1155,71,Male,119/75,70,37.8,12,cough,asthma,Hypertension,2020-04-02
+P1156,69,Other,120/87,74,37.7,20,"nausea, cough","none, hypertension",Flu,2024-06-08
+P1157,57,Female,98/71,70,37.2,13,nausea,"none, diabetes",Diabetes,2021-11-13
+P1158,95,Female,112/72,84,37.5,15,"nausea, headache","hypertension, asthma",Hypertension,2020-06-14
+P1159,68,Male,114/86,73,37.2,14,headache,"none, diabetes",Cold,2021-07-05
+P1160,20,Other,98/86,69,36.7,15,cough,"none, hypertension",Flu,2024-04-30
+P1161,20,Female,92/85,61,37.1,15,fatigue,hypertension,Diabetes,2021-12-22
+P1162,43,Other,102/75,63,37.1,17,"sore throat, nausea",diabetes,Diabetes,2024-06-09
+P1163,43,Male,128/70,67,38.6,15,"sore throat, nausea, headache",asthma,Flu,2021-05-31
+P1164,96,Female,98/68,65,38.8,12,"fatigue, headache, nausea",hypertension,COVID-19,2020-06-30
+P1165,38,Female,131/89,79,38.6,17,"nausea, fatigue, fever","hypertension, none",Hypertension,2022-05-25
+P1166,60,Female,131/73,83,36.3,14,fatigue,"hypertension, diabetes",Flu,2021-06-26
+P1167,34,Female,133/63,67,38.1,16,"fatigue, headache, cough","hypertension, diabetes",Hypertension,2020-12-31
+P1168,60,Male,101/88,88,38.3,20,"sore throat, nausea, cough","none, diabetes",COVID-19,2020-05-18
+P1169,99,Male,127/69,67,36.5,19,"cough, nausea, sore throat","asthma, none",Hypertension,2023-01-19
+P1170,97,Male,134/71,83,38.7,16,"nausea, cough, fever","hypertension, diabetes",Hypertension,2020-04-18
+P1171,87,Male,97/82,68,36.5,12,"sore throat, cough","asthma, hypertension",COVID-19,2021-01-16
+P1172,79,Other,135/89,87,36.8,14,"fatigue, headache","none, asthma",Cold,2023-12-25
+P1173,91,Other,128/82,60,36.4,14,"nausea, sore throat, headache",hypertension,COVID-19,2023-03-07
+P1174,46,Male,91/72,76,37.8,12,fever,"hypertension, diabetes",Flu,2023-11-13
+P1175,25,Female,105/80,80,37.4,19,"headache, cough","asthma, hypertension",Hypertension,2020-01-14
+P1176,38,Female,133/64,95,37.7,13,"nausea, fever, headache","asthma, hypertension",Flu,2022-05-19
+P1177,75,Other,119/90,93,36.2,19,"cough, nausea, fever",none,COVID-19,2024-07-04
+P1178,31,Female,99/88,95,36.9,20,"fever, nausea","diabetes, hypertension",Diabetes,2024-06-27
+P1179,49,Male,128/81,65,37.5,12,headache,"diabetes, hypertension",Diabetes,2021-09-28
+P1180,80,Male,127/75,85,36.8,17,"fatigue, headache, nausea","diabetes, hypertension",Diabetes,2024-02-21
+P1181,43,Male,122/64,61,38.1,17,fatigue,"asthma, none",Diabetes,2021-09-09
+P1182,26,Other,112/69,66,38.6,12,nausea,"diabetes, asthma",COVID-19,2020-10-01
+P1183,98,Female,106/71,95,38.5,15,"sore throat, fever, fatigue","diabetes, hypertension",COVID-19,2021-12-29
+P1184,69,Other,119/62,73,37.3,13,"headache, fatigue",hypertension,Diabetes,2024-04-12
+P1185,16,Male,114/75,93,36.6,14,"sore throat, fever",asthma,COVID-19,2020-10-07
+P1186,15,Male,116/61,84,38.9,17,"fever, headache, cough","asthma, diabetes",Diabetes,2024-09-01
+P1187,39,Male,106/67,97,38.8,20,fever,diabetes,COVID-19,2023-07-02
+P1188,26,Female,121/90,73,38.9,12,"headache, cough","none, diabetes",Flu,2022-09-10
+P1189,92,Male,104/77,67,36.5,20,"fever, fatigue","asthma, none",Diabetes,2021-01-29
+P1190,78,Female,111/67,98,38.7,15,headache,"asthma, none",Flu,2021-01-30
+P1191,5,Other,110/62,60,37.3,12,fever,hypertension,COVID-19,2022-01-25
+P1192,81,Male,105/62,64,38.3,20,"fever, fatigue","diabetes, asthma",Flu,2023-12-12
+P1193,23,Other,106/90,97,36.2,20,cough,none,Hypertension,2021-03-18
+P1194,98,Male,101/60,95,36.9,17,nausea,"none, asthma",Flu,2022-03-18
+P1195,89,Male,104/89,71,38.5,20,fatigue,"hypertension, none",Hypertension,2020-12-21
+P1196,27,Other,140/77,98,38.7,15,"headache, cough",hypertension,COVID-19,2024-04-08
+P1197,87,Other,103/81,71,38.3,15,"nausea, fatigue","asthma, diabetes",Flu,2020-01-06
+P1198,69,Female,136/64,78,36.9,15,fever,diabetes,Hypertension,2022-01-11
+P1199,38,Female,108/77,65,37.4,18,"headache, nausea","asthma, diabetes",Hypertension,2020-01-20
+P1200,89,Male,93/60,99,38.8,14,"fatigue, headache",hypertension,Flu,2020-12-17
+P1201,14,Male,92/69,80,36.1,13,fever,"asthma, hypertension",Flu,2021-11-26
+P1202,29,Other,126/69,70,38.5,13,cough,"hypertension, diabetes",COVID-19,2021-12-27
+P1203,63,Other,105/77,85,37.8,13,"sore throat, headache, nausea","asthma, hypertension",Cold,2024-07-18
+P1204,76,Male,118/77,66,38.6,18,cough,none,Cold,2023-02-20
+P1205,64,Female,130/88,87,37.7,13,"nausea, cough","hypertension, diabetes",Diabetes,2024-02-02
+P1206,56,Male,115/88,71,38.9,12,"cough, fever",hypertension,Cold,2020-04-11
+P1207,48,Male,94/62,67,38.2,20,fever,"none, diabetes",Cold,2020-02-25
+P1208,64,Male,107/85,96,38.6,12,"fever, cough, nausea",asthma,Cold,2023-03-20
+P1209,68,Female,102/65,86,37.2,12,"sore throat, headache, cough",none,Cold,2024-08-05
+P1210,26,Other,110/76,97,38.8,20,"nausea, sore throat, fever","hypertension, asthma",Cold,2022-06-15
+P1211,26,Male,125/80,97,36.0,14,"fatigue, nausea","asthma, none",Diabetes,2023-11-30
+P1212,89,Other,102/78,75,37.0,15,"nausea, fatigue","hypertension, asthma",Flu,2020-11-07
+P1213,26,Male,101/81,87,38.0,19,cough,"none, diabetes",COVID-19,2020-11-24
+P1214,61,Female,137/87,86,38.0,20,"fever, cough",none,Hypertension,2023-08-26
+P1215,26,Male,126/65,84,38.5,13,"sore throat, cough, headache",none,Diabetes,2024-04-22
+P1216,32,Male,107/63,97,37.7,17,"nausea, sore throat","asthma, diabetes",Diabetes,2020-08-23
+P1217,16,Male,134/64,75,38.4,19,"headache, cough, fever","diabetes, none",Diabetes,2022-10-04
+P1218,23,Female,116/85,87,36.5,18,"fatigue, nausea, fever","none, hypertension",Cold,2021-03-12
+P1219,27,Other,107/90,76,36.0,18,"headache, sore throat, cough",none,Flu,2023-01-31
+P1220,39,Female,101/60,94,38.8,17,"fever, fatigue, sore throat",none,Flu,2023-11-27
+P1221,12,Female,107/73,96,36.5,14,"fatigue, sore throat, fever","diabetes, hypertension",Cold,2020-05-22
+P1222,21,Male,138/71,99,36.5,20,nausea,none,Flu,2022-03-21
+P1223,56,Male,113/64,81,38.6,13,"cough, sore throat, headache",diabetes,Hypertension,2020-07-04
+P1224,96,Other,125/87,92,37.2,16,"headache, cough",asthma,Flu,2021-01-31
+P1225,54,Female,140/73,78,36.6,19,"headache, sore throat, cough","asthma, hypertension",Diabetes,2023-06-19
+P1226,90,Male,119/75,63,38.2,20,"sore throat, nausea","asthma, diabetes",Flu,2023-09-19
+P1227,60,Other,108/63,95,37.1,14,"sore throat, fever",diabetes,Flu,2024-03-04
+P1228,90,Female,92/89,87,37.9,16,"sore throat, fatigue, headache","diabetes, none",Hypertension,2021-04-23
+P1229,53,Other,137/76,92,36.6,18,"fever, headache, cough",diabetes,Flu,2024-08-09
+P1230,76,Male,111/74,66,36.1,18,fever,asthma,COVID-19,2021-03-04
+P1231,50,Other,127/75,95,38.0,13,cough,"hypertension, asthma",COVID-19,2022-05-25
+P1232,8,Female,138/67,62,36.5,18,"cough, fever, headache",diabetes,Hypertension,2024-07-25
+P1233,35,Female,139/82,83,38.1,12,"fever, cough, fatigue",asthma,Hypertension,2023-08-20
+P1234,89,Other,134/74,77,36.7,15,fatigue,none,Hypertension,2024-05-19
+P1235,19,Other,132/62,88,37.8,20,"nausea, headache, fever",asthma,Diabetes,2020-03-11
+P1236,37,Female,137/62,76,38.9,18,"sore throat, nausea","hypertension, none",Cold,2020-02-15
+P1237,23,Other,118/62,89,38.1,20,"sore throat, headache",hypertension,Flu,2020-09-23
+P1238,3,Male,101/74,97,37.7,20,"fever, cough","diabetes, none",Flu,2021-08-10
+P1239,16,Other,135/87,73,36.5,20,"sore throat, cough","diabetes, none",COVID-19,2022-02-05
+P1240,38,Male,126/75,100,36.3,15,nausea,"diabetes, hypertension",Hypertension,2023-10-26
+P1241,43,Female,137/90,80,37.2,19,fever,"none, diabetes",Cold,2023-08-24
+P1242,59,Female,120/73,81,36.1,15,"nausea, fatigue, cough",asthma,Cold,2023-06-17
+P1243,3,Female,112/71,76,38.9,19,"fever, fatigue",none,COVID-19,2021-08-26
+P1244,91,Male,138/85,67,37.5,17,fatigue,asthma,COVID-19,2020-02-17
+P1245,46,Female,115/66,98,37.1,18,fatigue,"none, diabetes",Diabetes,2023-09-10
+P1246,75,Female,110/85,61,37.7,17,"headache, fever, cough","hypertension, none",COVID-19,2021-03-28
+P1247,35,Female,122/81,91,38.6,15,"headache, cough, sore throat",none,Cold,2021-11-01
+P1248,14,Other,128/77,85,37.5,13,"nausea, headache",asthma,Diabetes,2024-01-15
+P1249,94,Other,119/79,84,38.0,13,"sore throat, fatigue",hypertension,Hypertension,2024-04-16
+P1250,88,Other,106/76,90,38.0,15,"sore throat, headache","asthma, hypertension",Flu,2023-07-23
+P1251,57,Other,117/62,73,38.4,16,"headache, fever, fatigue",asthma,Hypertension,2020-12-24
+P1252,74,Male,132/65,78,37.0,16,"nausea, fatigue, sore throat",asthma,Hypertension,2021-07-05
+P1253,84,Female,134/83,70,38.0,19,nausea,asthma,Cold,2021-01-11
+P1254,65,Other,111/90,62,37.8,14,cough,diabetes,COVID-19,2023-12-15
+P1255,56,Female,99/67,81,37.3,16,"cough, nausea","none, diabetes",COVID-19,2020-10-21
+P1256,39,Female,111/81,72,37.1,18,"nausea, fever, sore throat","asthma, diabetes",Diabetes,2022-01-21
+P1257,19,Male,129/85,75,37.7,20,"nausea, sore throat, fatigue",diabetes,Flu,2020-04-05
+P1258,25,Male,130/65,80,37.6,19,"fever, sore throat","hypertension, asthma",COVID-19,2024-06-29
+P1259,49,Other,127/82,84,36.1,16,"headache, sore throat, fever","none, hypertension",Cold,2022-06-08
+P1260,25,Male,113/84,79,38.3,18,"fever, nausea, cough",diabetes,COVID-19,2022-09-27
+P1261,86,Other,114/69,85,38.0,12,"nausea, cough, headache",none,Cold,2022-10-06
+P1262,61,Other,96/81,77,37.0,19,"nausea, cough, fever",hypertension,Flu,2023-12-18
+P1263,26,Other,124/89,75,36.9,20,"headache, fever, nausea",hypertension,Cold,2021-05-31
+P1264,61,Male,95/71,76,37.6,19,"nausea, headache",none,Hypertension,2023-07-20
+P1265,99,Male,118/78,61,38.7,18,"headache, nausea, cough","hypertension, none",COVID-19,2024-07-29
+P1266,89,Male,95/67,91,38.5,17,"fever, cough","asthma, none",Flu,2023-06-12
+P1267,79,Female,102/87,76,37.4,15,fatigue,"diabetes, hypertension",Flu,2020-04-20
+P1268,89,Female,98/63,76,37.2,15,"cough, fatigue, fever",none,Hypertension,2020-05-04
+P1269,21,Male,108/68,83,38.9,12,"nausea, sore throat","hypertension, none",Diabetes,2020-06-12
+P1270,79,Other,90/71,91,37.3,18,"headache, fever","none, hypertension",Cold,2021-05-06
+P1271,96,Other,119/78,81,36.1,14,"headache, nausea",none,Hypertension,2021-02-12
+P1272,38,Female,109/77,62,38.1,14,headache,asthma,Cold,2023-08-04
+P1273,44,Other,138/82,73,36.9,13,"fatigue, nausea, sore throat","none, diabetes",Diabetes,2023-11-12
+P1274,2,Other,118/65,63,37.8,12,"headache, fever",diabetes,Diabetes,2023-05-23
+P1275,55,Other,107/84,70,36.6,18,"sore throat, fever",hypertension,COVID-19,2023-06-02
+P1276,35,Other,135/71,68,36.4,14,"fatigue, cough, fever",none,Diabetes,2020-08-18
+P1277,66,Other,124/87,64,38.9,13,headache,diabetes,Diabetes,2022-06-04
+P1278,53,Other,104/84,95,37.3,15,sore throat,diabetes,COVID-19,2020-07-02
+P1279,25,Other,112/62,96,37.2,20,"fever, nausea, headache",diabetes,Cold,2023-07-21
+P1280,6,Male,116/64,70,36.2,16,cough,"asthma, hypertension",Diabetes,2022-01-06
+P1281,86,Other,121/63,85,37.0,14,"fatigue, headache","diabetes, none",Cold,2022-05-08
+P1282,41,Male,140/69,82,36.9,15,"cough, headache, fatigue","hypertension, diabetes",Flu,2021-12-08
+P1283,1,Female,119/71,76,37.5,16,"cough, sore throat, fever",diabetes,Diabetes,2023-10-20
+P1284,90,Other,130/67,74,38.8,18,"fatigue, headache","asthma, hypertension",Cold,2020-05-07
+P1285,99,Other,110/64,79,37.9,13,cough,asthma,Flu,2024-07-04
+P1286,93,Male,138/78,86,36.6,16,nausea,asthma,Diabetes,2023-01-21
+P1287,8,Other,139/84,83,38.1,18,headache,diabetes,Diabetes,2024-06-13
+P1288,22,Other,93/60,78,38.6,18,"fatigue, cough, sore throat",none,Cold,2022-11-10
+P1289,5,Other,102/89,92,38.1,16,"nausea, headache, fever",diabetes,Flu,2020-12-21
+P1290,13,Female,122/71,71,36.1,14,headache,"asthma, diabetes",Diabetes,2023-06-15
+P1291,35,Other,127/77,64,37.7,20,"headache, fatigue, sore throat","hypertension, asthma",Hypertension,2020-07-01
+P1292,9,Other,134/70,88,36.6,15,sore throat,"none, hypertension",Cold,2021-04-14
+P1293,3,Other,101/88,72,38.6,14,"nausea, fever, sore throat","none, asthma",COVID-19,2022-11-05
+P1294,62,Female,111/89,88,36.7,12,"fatigue, sore throat, nausea",asthma,Hypertension,2022-11-11
+P1295,42,Male,125/78,95,38.3,17,fatigue,"diabetes, none",Cold,2020-10-01
+P1296,90,Male,90/84,62,36.7,12,cough,none,Cold,2021-10-05
+P1297,61,Other,125/67,67,37.4,19,headache,"diabetes, asthma",Hypertension,2022-10-19
+P1298,68,Female,126/88,95,36.2,16,"sore throat, fever","none, hypertension",Hypertension,2021-10-05
+P1299,46,Female,100/75,95,37.4,16,"cough, fatigue",diabetes,Hypertension,2020-09-05
+P1300,10,Male,92/73,71,37.0,13,headache,"diabetes, asthma",Flu,2023-12-06
+P1301,33,Female,139/77,67,37.1,15,"sore throat, nausea",hypertension,Cold,2023-09-13
+P1302,37,Female,111/72,88,37.3,15,"fatigue, cough, sore throat","none, asthma",Hypertension,2020-06-03
+P1303,92,Other,117/69,70,38.5,17,headache,diabetes,Cold,2024-04-06
+P1304,91,Female,135/71,88,36.5,15,"fever, nausea, fatigue","none, hypertension",Hypertension,2021-03-31
+P1305,88,Other,128/64,90,38.2,16,sore throat,"diabetes, none",Diabetes,2020-10-09
+P1306,31,Male,107/89,82,37.7,15,"fever, sore throat, headache",none,Diabetes,2020-08-27
+P1307,34,Other,92/62,99,36.4,13,sore throat,"diabetes, hypertension",Hypertension,2024-05-29
+P1308,20,Other,95/73,93,36.9,17,"headache, sore throat","none, hypertension",Cold,2021-05-08
+P1309,2,Male,107/64,90,38.4,12,"cough, headache","asthma, none",Diabetes,2024-04-01
+P1310,14,Other,108/88,68,36.1,13,"fatigue, nausea",asthma,Hypertension,2022-05-12
+P1311,35,Male,116/81,60,37.5,16,"nausea, sore throat, cough","hypertension, diabetes",Flu,2020-06-20
+P1312,73,Male,111/86,97,37.6,14,"headache, fatigue","diabetes, none",Hypertension,2022-07-29
+P1313,53,Female,127/66,62,37.0,17,headache,"none, asthma",COVID-19,2024-04-15
+P1314,29,Male,127/89,87,37.8,16,"fever, headache, nausea",hypertension,Flu,2023-01-24
+P1315,22,Male,93/64,92,37.3,20,sore throat,"diabetes, none",COVID-19,2020-09-21
+P1316,90,Female,96/67,75,37.2,19,"headache, cough, nausea","asthma, hypertension",Flu,2022-05-16
+P1317,27,Male,114/77,66,37.0,18,fatigue,hypertension,Cold,2024-05-17
+P1318,55,Other,114/78,84,38.7,20,"fever, headache, cough",none,Hypertension,2023-12-08
+P1319,50,Other,106/61,60,37.3,14,"cough, fever","diabetes, asthma",Hypertension,2022-12-20
+P1320,79,Other,137/76,84,38.2,15,"sore throat, cough, fatigue",asthma,Flu,2020-06-11
+P1321,62,Other,106/83,90,36.7,12,fatigue,none,Flu,2020-01-26
+P1322,44,Male,100/76,99,37.3,16,"sore throat, fatigue, headache","hypertension, asthma",Diabetes,2024-05-23
+P1323,70,Other,119/66,79,37.9,12,"headache, sore throat, nausea","diabetes, hypertension",COVID-19,2021-10-27
+P1324,24,Male,131/64,74,36.9,12,fatigue,asthma,Hypertension,2024-01-04
+P1325,41,Other,110/71,64,37.1,20,"sore throat, fatigue",none,Hypertension,2024-01-03
+P1326,75,Other,126/61,90,37.2,17,"fever, cough, headache","diabetes, hypertension",COVID-19,2023-05-17
+P1327,64,Other,110/89,70,36.1,13,"sore throat, nausea",diabetes,Cold,2023-07-28
+P1328,4,Male,139/65,66,36.5,15,"cough, fever, sore throat","asthma, hypertension",Flu,2023-04-05
+P1329,79,Male,111/78,92,38.7,16,"nausea, headache","asthma, hypertension",Diabetes,2022-12-24
+P1330,35,Other,133/88,92,36.4,14,nausea,"none, hypertension",COVID-19,2020-06-10
+P1331,59,Male,128/83,65,36.3,19,"sore throat, fatigue, headache",asthma,COVID-19,2022-01-11
+P1332,21,Female,91/81,96,38.8,12,"fever, sore throat","hypertension, asthma",COVID-19,2020-11-11
+P1333,23,Male,111/88,89,36.5,17,headache,hypertension,Flu,2022-12-31
+P1334,66,Female,100/86,62,38.2,14,sore throat,diabetes,Cold,2021-06-04
+P1335,59,Male,126/62,81,38.6,18,"fever, headache",none,Diabetes,2020-07-29
+P1336,16,Female,140/81,64,38.9,17,"nausea, sore throat","asthma, diabetes",COVID-19,2023-07-02
+P1337,60,Other,139/64,88,38.5,12,headache,diabetes,Hypertension,2021-08-05
+P1338,49,Other,118/90,93,36.8,20,sore throat,diabetes,Flu,2024-06-20
+P1339,54,Other,117/74,93,38.4,13,fever,asthma,Hypertension,2023-11-28
+P1340,77,Male,139/72,62,36.3,20,"sore throat, nausea, fever",none,Flu,2023-09-18
+P1341,94,Female,109/67,69,36.6,16,headache,"asthma, none",Diabetes,2022-08-21
+P1342,55,Female,130/75,73,37.3,20,sore throat,"diabetes, asthma",Diabetes,2022-06-26
+P1343,34,Male,139/82,94,36.8,18,headache,"asthma, hypertension",Cold,2021-11-18
+P1344,39,Other,118/80,60,38.9,18,"sore throat, fatigue",diabetes,Diabetes,2020-03-26
+P1345,77,Female,133/76,79,37.9,15,cough,none,Diabetes,2023-05-26
+P1346,88,Male,134/88,92,37.6,18,"fever, nausea, cough","hypertension, none",Cold,2023-08-11
+P1347,65,Female,98/67,76,36.3,12,fatigue,asthma,Flu,2024-05-23
+P1348,35,Other,109/68,100,36.0,18,"sore throat, nausea","diabetes, none",Flu,2024-08-30
+P1349,68,Male,133/78,70,38.3,12,cough,"asthma, none",Cold,2020-07-01
+P1350,39,Female,122/90,67,37.8,13,"nausea, headache, cough","diabetes, hypertension",Flu,2023-10-01
+P1351,24,Male,93/60,85,38.2,19,"fever, headache, sore throat",diabetes,Diabetes,2021-09-02
+P1352,88,Female,110/74,66,36.4,20,nausea,diabetes,Diabetes,2020-09-29
+P1353,49,Female,118/86,76,36.9,20,sore throat,"hypertension, none",Hypertension,2023-08-11
+P1354,49,Other,118/90,65,36.9,13,"fever, sore throat, nausea","hypertension, asthma",Flu,2022-07-08
+P1355,63,Other,118/82,62,36.1,15,sore throat,none,Flu,2021-04-09
+P1356,28,Female,93/90,60,36.3,16,fever,none,COVID-19,2024-03-21
+P1357,47,Male,94/73,83,37.6,14,"fever, sore throat",none,COVID-19,2024-06-19
+P1358,55,Male,138/78,100,36.8,13,"headache, cough",diabetes,Diabetes,2022-03-16
+P1359,19,Female,126/68,68,37.8,16,fever,asthma,COVID-19,2022-05-12
+P1360,87,Female,113/67,60,37.6,13,"headache, cough","none, diabetes",COVID-19,2022-01-07
+P1361,28,Female,121/76,69,36.9,20,"nausea, sore throat, cough","asthma, diabetes",Hypertension,2020-03-25
+P1362,49,Other,128/68,81,36.0,12,"sore throat, cough, fatigue","asthma, none",Flu,2022-11-24
+P1363,81,Female,107/83,85,36.7,18,cough,diabetes,COVID-19,2021-09-26
+P1364,93,Male,125/75,83,36.2,15,"sore throat, nausea, fatigue","asthma, hypertension",COVID-19,2024-04-25
+P1365,52,Male,96/80,78,38.0,19,"fatigue, cough, sore throat","hypertension, none",Hypertension,2021-02-22
+P1366,36,Male,100/69,73,38.0,13,fever,"none, diabetes",Cold,2020-09-10
+P1367,86,Male,96/89,72,36.4,13,"headache, fatigue",asthma,Cold,2021-01-16
+P1368,39,Male,105/66,62,36.4,15,"fever, nausea, cough",asthma,Cold,2022-03-25
+P1369,10,Other,117/82,80,36.3,19,"headache, fever, cough","asthma, diabetes",COVID-19,2020-03-13
+P1370,38,Female,125/67,97,37.9,12,"fatigue, headache","asthma, hypertension",Diabetes,2020-02-27
+P1371,37,Other,135/82,72,38.6,16,headache,"diabetes, asthma",COVID-19,2021-04-15
+P1372,34,Other,133/85,61,36.5,13,"sore throat, headache, cough","none, diabetes",COVID-19,2020-11-17
+P1373,14,Other,137/71,98,37.9,12,"fever, sore throat, headache","none, asthma",Cold,2022-07-10
+P1374,20,Female,126/75,99,37.4,20,"cough, nausea, sore throat","asthma, none",Cold,2023-12-14
+P1375,32,Female,129/70,75,37.8,20,cough,"hypertension, diabetes",Diabetes,2022-07-19
+P1376,11,Other,115/75,70,36.6,20,"fatigue, cough",diabetes,Flu,2020-01-18
+P1377,14,Male,129/83,86,36.8,13,"fever, fatigue, sore throat",diabetes,COVID-19,2020-07-16
+P1378,46,Other,93/68,96,36.3,12,"fatigue, cough, headache",diabetes,Cold,2023-05-29
+P1379,70,Female,120/85,81,38.9,12,sore throat,asthma,Flu,2020-08-16
+P1380,85,Female,104/90,90,36.9,15,"fatigue, cough","diabetes, none",Hypertension,2024-05-06
+P1381,76,Other,107/60,77,37.2,17,sore throat,"hypertension, asthma",COVID-19,2022-02-03
+P1382,63,Male,101/87,87,37.6,14,"fever, cough, headache",diabetes,Flu,2020-11-30
+P1383,28,Male,109/90,70,37.9,18,sore throat,none,Hypertension,2021-02-18
+P1384,2,Male,103/84,64,36.7,17,fatigue,"hypertension, none",COVID-19,2022-11-10
+P1385,68,Other,132/70,64,36.6,20,"fever, sore throat, cough","none, diabetes",Diabetes,2023-09-16
+P1386,93,Male,123/76,80,36.4,20,"fatigue, fever, sore throat",hypertension,Flu,2023-11-05
+P1387,21,Other,112/73,61,38.7,18,"nausea, fatigue, fever",diabetes,Flu,2022-09-23
+P1388,94,Female,134/80,91,37.0,17,"cough, sore throat, fever","hypertension, diabetes",Hypertension,2021-08-09
+P1389,92,Female,134/88,95,38.2,15,"cough, fever",none,Flu,2024-04-15
+P1390,38,Female,111/89,65,38.3,20,"headache, fatigue","asthma, hypertension",COVID-19,2021-11-08
+P1391,62,Male,140/65,64,36.9,15,"fever, nausea","none, diabetes",Cold,2020-12-15
+P1392,72,Other,123/82,75,36.5,16,headache,"none, asthma",Diabetes,2020-10-23
+P1393,81,Other,115/82,86,38.2,20,"headache, fever","diabetes, none",Cold,2023-07-06
+P1394,77,Male,111/78,97,36.6,15,"headache, sore throat, fatigue","none, hypertension",COVID-19,2023-09-24
+P1395,87,Female,105/88,64,37.9,20,"fever, fatigue, headache",none,Cold,2023-03-18
+P1396,69,Other,117/81,66,38.0,14,"headache, nausea","none, asthma",Diabetes,2024-05-10
+P1397,70,Female,114/76,92,37.9,18,"headache, fatigue","asthma, none",COVID-19,2023-08-17
+P1398,96,Male,97/83,81,37.4,17,"cough, nausea","hypertension, asthma",Hypertension,2023-04-26
+P1399,57,Female,130/77,87,37.0,20,cough,"asthma, none",Diabetes,2024-02-17
+P1400,68,Female,101/63,96,38.3,16,headache,"diabetes, hypertension",Flu,2023-11-27
+P1401,39,Male,99/79,94,36.2,19,"fatigue, cough, nausea","asthma, hypertension",COVID-19,2024-05-14
+P1402,32,Other,129/69,77,36.2,17,nausea,"asthma, hypertension",Diabetes,2023-08-20
+P1403,4,Other,108/84,77,36.0,19,"fatigue, headache, cough","none, hypertension",COVID-19,2023-05-19
+P1404,45,Male,137/64,97,38.6,19,"nausea, headache, fever",asthma,Hypertension,2023-08-29
+P1405,2,Male,113/61,81,36.2,12,fatigue,"diabetes, hypertension",Flu,2022-12-24
+P1406,14,Female,101/80,77,37.4,20,headache,none,Flu,2024-07-01
+P1407,40,Male,97/78,74,36.6,18,"headache, fatigue, nausea","asthma, hypertension",Hypertension,2022-04-18
+P1408,1,Male,108/89,74,36.1,13,"cough, headache, fever",diabetes,COVID-19,2022-04-21
+P1409,34,Female,131/84,70,38.0,18,"sore throat, cough","hypertension, asthma",Hypertension,2023-09-06
+P1410,15,Male,100/73,90,37.9,20,"cough, sore throat","asthma, hypertension",Flu,2023-11-06
+P1411,24,Male,99/78,68,38.7,12,"sore throat, headache, nausea",asthma,Flu,2022-01-26
+P1412,55,Other,91/66,92,36.9,13,"headache, fatigue, nausea",asthma,Hypertension,2023-04-29
+P1413,63,Female,123/61,82,38.7,13,fever,"hypertension, asthma",Hypertension,2020-11-12
+P1414,38,Other,112/71,98,37.9,18,sore throat,"diabetes, asthma",Hypertension,2020-02-14
+P1415,49,Female,91/69,98,36.2,19,"cough, headache, fatigue",hypertension,COVID-19,2023-05-15
+P1416,78,Female,93/64,64,37.6,13,"fever, headache, sore throat","asthma, diabetes",COVID-19,2024-06-11
+P1417,41,Female,106/83,93,36.9,14,headache,"asthma, hypertension",Diabetes,2020-09-13
+P1418,33,Other,107/75,86,37.9,14,"cough, fever, nausea","asthma, hypertension",Diabetes,2020-09-16
+P1419,24,Male,99/84,100,36.0,15,"sore throat, nausea, headache",hypertension,Cold,2024-03-17
+P1420,7,Other,101/70,96,36.8,17,cough,"hypertension, diabetes",COVID-19,2020-04-08
+P1421,66,Male,124/72,64,38.2,17,"cough, nausea, headache","diabetes, asthma",Flu,2021-03-24
+P1422,21,Female,134/83,78,37.9,12,"sore throat, fever, nausea","diabetes, hypertension",Flu,2020-05-25
+P1423,17,Female,113/63,91,37.5,20,"sore throat, fever, fatigue",hypertension,COVID-19,2021-08-30
+P1424,98,Female,125/80,63,36.3,19,"nausea, sore throat",hypertension,Diabetes,2021-10-03
+P1425,48,Female,103/69,98,36.8,16,"fatigue, fever","hypertension, diabetes",Hypertension,2021-09-13
+P1426,83,Other,97/85,81,36.0,12,"fever, nausea, fatigue","diabetes, asthma",Flu,2024-01-03
+P1427,80,Female,90/72,97,38.3,12,"headache, cough, sore throat",asthma,Diabetes,2023-03-04
+P1428,49,Other,102/73,68,37.8,12,headache,"hypertension, none",Flu,2022-09-30
+P1429,4,Male,113/75,70,38.6,15,nausea,"hypertension, diabetes",Diabetes,2023-07-03
+P1430,76,Other,94/71,76,38.3,17,"headache, cough",diabetes,Flu,2022-11-01
+P1431,10,Female,103/65,87,38.8,13,"nausea, fever","diabetes, asthma",Diabetes,2020-09-07
+P1432,18,Male,116/80,85,37.0,12,"nausea, sore throat","diabetes, hypertension",COVID-19,2022-01-07
+P1433,74,Female,101/86,85,37.8,12,"fever, sore throat, headache",hypertension,COVID-19,2024-07-25
+P1434,74,Male,105/74,63,37.1,14,"headache, fatigue","hypertension, none",Flu,2022-06-04
+P1435,37,Other,127/71,70,37.7,19,fatigue,none,Hypertension,2021-12-28
+P1436,30,Female,100/71,64,38.6,17,cough,hypertension,Flu,2024-08-19
+P1437,65,Male,120/65,89,38.9,18,"sore throat, cough, nausea","hypertension, diabetes",COVID-19,2024-07-26
+P1438,46,Other,100/83,65,37.7,12,fatigue,hypertension,COVID-19,2021-10-05
+P1439,14,Male,114/70,97,36.3,20,"fatigue, sore throat","none, asthma",Diabetes,2021-06-09
+P1440,59,Male,124/61,77,36.8,12,"sore throat, cough","diabetes, none",Flu,2023-12-10
+P1441,37,Other,98/65,74,37.4,13,"fever, cough",diabetes,Diabetes,2023-02-10
+P1442,26,Female,129/64,76,38.2,20,nausea,"hypertension, diabetes",Flu,2021-04-04
+P1443,12,Male,99/82,98,38.7,16,sore throat,none,Diabetes,2023-04-02
+P1444,82,Female,97/77,66,38.1,19,nausea,hypertension,COVID-19,2021-04-10
+P1445,54,Other,114/78,90,38.8,13,headache,"hypertension, diabetes",Diabetes,2022-02-24
+P1446,14,Female,113/85,62,36.0,14,"headache, cough","asthma, none",Cold,2020-07-17
+P1447,92,Other,135/69,95,37.2,16,cough,"none, hypertension",Cold,2024-03-17
+P1448,40,Other,107/62,96,36.3,14,"nausea, cough",none,Hypertension,2023-02-18
+P1449,21,Female,136/82,94,37.2,12,"sore throat, nausea, fever","asthma, diabetes",Cold,2023-06-06
+P1450,54,Female,129/62,82,38.5,16,"fatigue, fever",none,Cold,2021-02-06
+P1451,97,Male,106/69,73,37.7,19,"fever, fatigue, headache",none,Diabetes,2023-06-25
+P1452,13,Male,93/73,93,36.2,16,sore throat,asthma,Diabetes,2021-05-04
+P1453,28,Female,119/62,91,38.7,19,"headache, fatigue, nausea",hypertension,COVID-19,2020-01-22
+P1454,22,Other,97/90,86,37.1,12,"sore throat, cough, nausea",diabetes,COVID-19,2020-04-11
+P1455,48,Male,106/85,77,37.2,12,"fever, sore throat",hypertension,Flu,2020-11-14
+P1456,79,Female,133/66,98,36.7,17,"fatigue, cough, nausea","diabetes, hypertension",Cold,2020-12-16
+P1457,10,Male,137/70,89,38.6,20,"fatigue, sore throat","none, hypertension",Cold,2020-05-31
+P1458,12,Other,121/89,84,38.4,12,"headache, fatigue","none, diabetes",Cold,2022-05-06
+P1459,24,Other,139/85,66,36.9,14,"sore throat, headache, cough","asthma, hypertension",Flu,2022-08-24
+P1460,92,Male,140/90,92,36.3,17,cough,asthma,COVID-19,2023-06-17
+P1461,32,Male,129/73,79,37.9,19,"nausea, fever","none, hypertension",COVID-19,2022-09-08
+P1462,88,Female,120/85,77,39.0,20,"fatigue, fever",asthma,COVID-19,2021-04-29
+P1463,43,Female,129/74,69,38.8,20,"headache, cough","hypertension, asthma",Hypertension,2022-08-13
+P1464,7,Female,130/65,94,37.0,19,"fatigue, sore throat",none,Cold,2020-01-17
+P1465,82,Female,111/61,86,38.0,12,sore throat,"hypertension, none",COVID-19,2022-10-20
+P1466,93,Female,139/80,60,36.8,12,cough,"none, asthma",COVID-19,2023-08-18
+P1467,40,Female,131/87,84,37.8,14,"cough, nausea, sore throat",diabetes,Diabetes,2021-06-02
+P1468,65,Female,100/76,64,38.2,15,cough,"hypertension, diabetes",Hypertension,2020-07-15
+P1469,26,Other,133/68,66,38.6,14,"fatigue, headache",none,Hypertension,2023-07-24
+P1470,52,Male,104/69,68,38.4,19,headache,"none, asthma",COVID-19,2022-08-01
+P1471,84,Other,99/77,98,36.5,12,"fatigue, nausea","none, hypertension",Flu,2020-11-28
+P1472,14,Other,111/74,73,37.8,20,nausea,diabetes,COVID-19,2023-07-05
+P1473,66,Other,117/62,94,37.8,14,sore throat,"hypertension, none",Flu,2021-11-25
+P1474,58,Female,117/87,67,36.9,18,"fever, sore throat","none, hypertension",Diabetes,2023-10-15
+P1475,63,Female,134/68,98,37.8,15,"headache, cough, sore throat","hypertension, diabetes",Cold,2022-09-16
+P1476,73,Female,127/67,73,37.7,14,"sore throat, headache",none,Flu,2022-04-23
+P1477,59,Other,93/88,87,36.6,20,"cough, headache, sore throat",asthma,Diabetes,2022-10-20
+P1478,58,Male,128/82,97,37.7,13,"fatigue, cough",hypertension,COVID-19,2020-01-15
+P1479,75,Male,116/79,74,38.8,18,"headache, fatigue",none,Hypertension,2023-05-30
+P1480,29,Male,99/70,74,36.5,19,"fatigue, sore throat","asthma, diabetes",COVID-19,2023-02-11
+P1481,18,Male,90/88,84,36.7,17,cough,none,Flu,2021-10-08
+P1482,12,Female,121/76,66,37.6,20,"fatigue, sore throat, cough","none, asthma",Cold,2022-02-04
+P1483,19,Other,90/60,76,36.7,13,"fatigue, cough, fever",diabetes,COVID-19,2022-11-10
+P1484,33,Male,122/76,96,36.3,17,"fever, headache","asthma, diabetes",COVID-19,2023-10-27
+P1485,29,Other,132/69,80,37.3,16,"cough, fever",hypertension,Cold,2023-05-08
+P1486,87,Female,135/67,78,38.6,15,fatigue,"hypertension, none",COVID-19,2021-11-13
+P1487,81,Other,138/72,75,37.0,15,sore throat,diabetes,Cold,2023-05-11
+P1488,14,Male,106/88,87,37.7,16,"cough, nausea",asthma,Flu,2022-06-04
+P1489,6,Male,140/71,87,38.3,20,"fatigue, sore throat",diabetes,Diabetes,2023-06-14
+P1490,69,Female,132/68,90,36.6,17,cough,none,Diabetes,2020-07-26
+P1491,56,Male,115/82,83,38.7,17,"sore throat, headache",diabetes,Hypertension,2024-08-26
+P1492,54,Other,108/63,64,37.5,15,"fatigue, sore throat","hypertension, none",Flu,2024-05-06
+P1493,6,Female,132/70,70,36.3,17,"nausea, fatigue, headache","diabetes, none",Flu,2023-02-16
+P1494,51,Other,91/69,80,37.5,15,"nausea, cough, headache",none,Flu,2023-10-23
+P1495,20,Female,90/65,93,36.3,13,"fever, headache, sore throat","none, asthma",Hypertension,2022-10-03
+P1496,47,Other,106/90,72,36.1,19,"fatigue, headache, cough",asthma,Diabetes,2021-07-29
+P1497,95,Female,134/64,81,36.2,12,fever,diabetes,COVID-19,2023-06-19
+P1498,58,Male,92/90,95,37.5,13,"headache, cough, fever",asthma,Hypertension,2020-05-11
+P1499,86,Female,118/66,61,37.1,13,fever,diabetes,Cold,2021-02-14
+P1500,35,Male,102/88,76,38.2,19,cough,"asthma, none",COVID-19,2020-08-19
+P1501,15,Female,140/86,87,36.3,17,"nausea, headache, fever","none, diabetes",Cold,2023-11-10
+P1502,94,Male,121/85,96,38.0,19,"cough, fever","asthma, diabetes",Flu,2020-04-26
+P1503,60,Female,110/65,86,37.5,19,"sore throat, fatigue","none, asthma",Diabetes,2023-05-15
+P1504,95,Other,111/68,75,38.2,18,"sore throat, headache",none,Diabetes,2022-04-01
+P1505,60,Other,126/88,76,36.8,16,"headache, nausea","asthma, diabetes",Cold,2023-07-05
+P1506,76,Female,121/90,75,38.4,18,nausea,none,COVID-19,2024-05-15
+P1507,30,Female,109/87,72,37.8,16,fatigue,diabetes,Diabetes,2024-02-01
+P1508,78,Male,102/73,94,36.1,13,nausea,hypertension,Hypertension,2022-11-14
+P1509,17,Female,138/79,74,37.5,15,headache,"asthma, diabetes",Hypertension,2024-06-13
+P1510,75,Other,97/86,95,38.5,13,"fever, fatigue, nausea",hypertension,Diabetes,2021-06-25
+P1511,57,Other,132/72,94,37.4,16,"sore throat, headache, fatigue",diabetes,Diabetes,2021-11-21
+P1512,6,Other,114/81,91,36.4,16,"cough, sore throat, nausea","asthma, hypertension",Flu,2023-02-12
+P1513,73,Male,110/80,81,36.2,17,headache,hypertension,Hypertension,2024-02-18
+P1514,54,Female,125/80,76,36.3,12,sore throat,"diabetes, hypertension",Hypertension,2020-04-01
+P1515,32,Other,112/66,69,37.6,15,fatigue,"diabetes, asthma",Hypertension,2021-11-11
+P1516,53,Other,128/74,81,38.8,19,"fatigue, fever","diabetes, asthma",Cold,2024-07-31
+P1517,68,Other,119/60,83,38.5,16,"sore throat, fatigue, fever","none, asthma",COVID-19,2020-09-06
+P1518,57,Male,125/79,94,38.8,18,"nausea, sore throat, fever","asthma, hypertension",Hypertension,2021-02-09
+P1519,38,Female,111/87,90,36.4,20,fever,hypertension,Cold,2020-03-02
+P1520,12,Other,112/89,78,38.2,19,"fever, fatigue","hypertension, none",Cold,2023-05-06
+P1521,14,Female,124/61,86,38.4,13,fatigue,"none, hypertension",Hypertension,2021-05-17
+P1522,52,Other,110/67,72,38.7,20,"nausea, sore throat, cough",none,Hypertension,2020-11-19
+P1523,77,Other,132/74,67,37.4,13,fever,diabetes,Hypertension,2023-12-06
+P1524,88,Male,125/77,79,36.6,12,"fatigue, sore throat",none,Cold,2020-07-18
+P1525,33,Male,90/80,75,37.0,17,cough,"hypertension, diabetes",Diabetes,2020-08-30
+P1526,57,Female,94/75,78,36.5,13,"fever, headache, cough","none, hypertension",Diabetes,2021-10-05
+P1527,76,Other,106/83,63,38.0,17,"fatigue, fever","hypertension, none",Flu,2020-09-30
+P1528,84,Male,90/86,79,36.0,17,"fever, headache, nausea","hypertension, none",Cold,2022-03-16
+P1529,56,Other,105/80,96,37.9,15,"sore throat, nausea","diabetes, hypertension",Hypertension,2020-02-13
+P1530,55,Female,121/61,97,37.4,18,"cough, fever","asthma, hypertension",Cold,2020-11-21
+P1531,7,Other,116/65,83,36.4,17,sore throat,"none, asthma",Flu,2023-09-09
+P1532,29,Male,128/70,97,37.5,15,fatigue,"asthma, hypertension",Flu,2020-02-07
+P1533,78,Male,124/90,74,37.4,19,"fatigue, cough, nausea","none, diabetes",Hypertension,2020-08-28
+P1534,27,Male,95/71,91,37.6,14,"nausea, fatigue",hypertension,Flu,2020-01-31
+P1535,21,Female,93/78,71,38.0,18,sore throat,"hypertension, none",Flu,2020-05-27
+P1536,51,Other,123/84,70,37.8,12,headache,none,Flu,2024-01-21
+P1537,46,Other,106/79,100,37.7,20,"nausea, fever",none,COVID-19,2021-07-11
+P1538,11,Female,115/71,88,38.7,16,"headache, sore throat","asthma, none",Hypertension,2021-01-15
+P1539,43,Other,92/66,76,38.8,13,cough,diabetes,COVID-19,2021-06-24
+P1540,58,Male,109/81,81,38.2,20,"headache, cough",hypertension,Hypertension,2020-10-19
+P1541,1,Other,136/83,69,38.0,19,"sore throat, fever",none,Cold,2021-09-02
+P1542,29,Female,139/65,93,36.3,20,"cough, fatigue","diabetes, none",Hypertension,2024-08-16
+P1543,88,Male,109/64,64,37.8,19,"sore throat, nausea","diabetes, hypertension",COVID-19,2022-10-12
+P1544,59,Other,98/77,62,38.9,19,nausea,"none, asthma",Flu,2020-06-23
+P1545,46,Male,119/60,97,36.4,16,fever,hypertension,Flu,2024-08-14
+P1546,46,Female,139/61,77,37.9,14,headache,diabetes,Hypertension,2024-07-18
+P1547,43,Other,99/80,64,36.5,14,"nausea, sore throat",hypertension,Cold,2022-07-22
+P1548,7,Female,138/62,75,38.8,17,"cough, fever",asthma,Cold,2020-06-16
+P1549,54,Other,97/88,83,37.8,20,cough,none,Cold,2020-04-24
+P1550,72,Other,122/82,92,36.7,18,nausea,"diabetes, hypertension",COVID-19,2024-06-26
+P1551,2,Female,119/63,62,38.5,17,"cough, fatigue, sore throat",diabetes,Cold,2021-12-21
+P1552,100,Other,113/88,88,37.2,15,"fatigue, nausea",hypertension,Flu,2024-06-11
+P1553,95,Male,110/69,98,38.7,15,cough,none,Hypertension,2023-03-31
+P1554,50,Male,91/76,71,38.5,13,"fever, headache",asthma,Diabetes,2021-10-13
+P1555,24,Male,129/86,87,38.8,16,sore throat,none,COVID-19,2020-07-21
+P1556,92,Male,110/68,82,36.5,14,"cough, headache, sore throat","hypertension, none",Diabetes,2023-10-16
+P1557,18,Male,91/86,90,37.4,14,"nausea, fatigue","hypertension, asthma",Flu,2020-02-19
+P1558,73,Male,134/89,70,37.0,14,"fever, headache",asthma,Diabetes,2021-04-04
+P1559,5,Male,123/87,70,38.2,20,"cough, fatigue, nausea","asthma, hypertension",Cold,2022-04-29
+P1560,34,Female,102/76,93,38.1,17,fatigue,hypertension,COVID-19,2023-02-04
+P1561,92,Female,90/81,77,36.2,16,"fever, headache",diabetes,Hypertension,2020-07-09
+P1562,19,Other,100/80,64,38.4,14,"headache, nausea",asthma,Diabetes,2020-02-12
+P1563,81,Male,101/78,87,38.0,16,headache,"hypertension, diabetes",Cold,2020-02-08
+P1564,8,Other,135/70,84,37.1,15,cough,"none, hypertension",Hypertension,2022-09-20
+P1565,14,Female,108/83,73,38.1,18,cough,diabetes,COVID-19,2022-12-27
+P1566,78,Other,105/80,100,38.7,14,"nausea, fatigue","diabetes, none",Cold,2022-06-23
+P1567,100,Male,136/66,77,36.6,14,fever,"hypertension, diabetes",Flu,2020-09-30
+P1568,60,Male,105/86,61,37.0,12,"nausea, fatigue, sore throat","hypertension, diabetes",Hypertension,2022-09-08
+P1569,12,Female,98/83,63,38.9,15,headache,"hypertension, none",Diabetes,2020-11-14
+P1570,35,Other,94/88,61,38.9,15,nausea,none,Hypertension,2021-03-22
+P1571,57,Female,109/79,66,36.9,16,"fever, cough",hypertension,Hypertension,2020-07-24
+P1572,39,Female,135/65,76,38.1,17,"fatigue, nausea, sore throat",diabetes,Cold,2023-06-19
+P1573,81,Other,116/86,63,36.1,16,fever,diabetes,Diabetes,2022-02-03
+P1574,62,Male,107/68,97,38.3,18,fatigue,"asthma, diabetes",Diabetes,2021-09-17
+P1575,56,Female,106/63,95,38.2,14,nausea,asthma,Diabetes,2020-08-25
+P1576,43,Female,104/76,72,37.0,15,fatigue,hypertension,Flu,2023-09-30
+P1577,45,Other,103/69,67,38.5,19,"sore throat, cough","none, asthma",Flu,2023-02-24
+P1578,86,Other,100/81,74,38.3,16,"fever, sore throat, nausea","none, asthma",Hypertension,2020-08-13
+P1579,13,Male,117/62,95,38.5,19,fever,"none, asthma",Flu,2021-02-26
+P1580,68,Female,98/75,66,38.5,19,"fever, cough, sore throat",hypertension,COVID-19,2020-10-29
+P1581,3,Female,112/90,95,38.8,12,"sore throat, headache",hypertension,Diabetes,2021-04-20
+P1582,55,Female,140/77,81,39.0,17,"headache, sore throat, fever","asthma, none",Flu,2023-03-14
+P1583,57,Male,121/70,85,36.9,17,"sore throat, fever","none, hypertension",Flu,2020-09-30
+P1584,45,Female,123/77,76,37.8,13,"sore throat, nausea",hypertension,Hypertension,2020-06-19
+P1585,18,Other,132/88,83,37.0,13,"headache, nausea",asthma,Flu,2021-05-20
+P1586,61,Female,139/72,73,38.1,16,"cough, headache, sore throat",none,Flu,2021-11-06
+P1587,47,Female,94/82,94,38.3,13,"fever, headache","hypertension, diabetes",COVID-19,2022-09-08
+P1588,61,Female,107/79,100,38.0,12,sore throat,"diabetes, asthma",COVID-19,2022-06-28
+P1589,13,Female,122/64,79,36.8,15,"sore throat, fatigue, headache",none,COVID-19,2023-09-13
+P1590,68,Female,122/80,65,38.8,19,fatigue,none,COVID-19,2020-10-06
+P1591,22,Other,138/84,94,38.5,13,"fever, headache, fatigue",none,Flu,2023-04-25
+P1592,27,Male,127/73,60,38.2,20,"fever, headache",diabetes,Hypertension,2020-11-28
+P1593,29,Male,117/71,85,37.9,14,"nausea, fever, sore throat",asthma,COVID-19,2020-05-17
+P1594,66,Male,105/66,91,37.6,15,"cough, fatigue, nausea","asthma, diabetes",COVID-19,2023-10-14
+P1595,68,Male,116/61,75,38.5,13,"fever, headache, nausea",hypertension,Cold,2020-01-28
+P1596,18,Male,100/62,67,36.2,15,cough,"diabetes, none",Cold,2021-05-05
+P1597,64,Male,129/71,76,36.0,16,"fever, fatigue, nausea","asthma, hypertension",Flu,2022-07-22
+P1598,70,Other,109/89,98,38.3,16,"cough, sore throat","none, diabetes",Diabetes,2021-06-29
+P1599,4,Female,93/72,76,37.4,17,"sore throat, fever, headache","asthma, hypertension",COVID-19,2020-06-17
+P1600,95,Other,128/74,65,38.3,15,"sore throat, headache","none, diabetes",COVID-19,2024-05-16
+P1601,96,Female,120/82,74,38.4,20,"sore throat, fatigue, nausea","asthma, none",Hypertension,2022-07-04
+P1602,70,Female,91/67,86,38.4,16,"sore throat, fever",none,Diabetes,2020-01-18
+P1603,95,Female,121/90,85,36.2,20,fever,"asthma, hypertension",COVID-19,2022-05-01
+P1604,73,Female,106/74,72,36.3,20,"nausea, headache","none, hypertension",Diabetes,2022-12-30
+P1605,69,Other,114/81,97,36.9,18,fatigue,"asthma, hypertension",COVID-19,2020-09-18
+P1606,50,Other,104/71,65,38.4,16,"sore throat, cough, fever",none,Cold,2023-01-24
+P1607,60,Male,110/67,60,38.0,16,cough,"diabetes, hypertension",Diabetes,2021-01-03
+P1608,31,Female,122/65,63,37.6,17,"fever, cough",none,Cold,2021-04-09
+P1609,80,Other,95/83,86,37.1,15,"headache, sore throat, fever","diabetes, hypertension",Hypertension,2020-06-20
+P1610,45,Female,139/90,97,38.8,18,cough,none,Hypertension,2023-12-07
+P1611,65,Other,121/67,65,36.9,12,"fatigue, fever",diabetes,Flu,2021-10-15
+P1612,79,Other,113/71,90,36.9,13,"headache, sore throat",diabetes,Hypertension,2021-03-06
+P1613,6,Female,103/67,61,36.8,13,"fatigue, fever, cough",none,Flu,2023-12-26
+P1614,69,Male,127/71,78,38.1,15,headache,"diabetes, hypertension",COVID-19,2024-02-21
+P1615,86,Other,106/81,89,36.4,17,"cough, fever, nausea","asthma, diabetes",Diabetes,2020-01-07
+P1616,19,Male,102/90,72,37.1,12,"sore throat, fever, headache","asthma, hypertension",Cold,2023-11-09
+P1617,89,Other,139/65,70,38.4,16,sore throat,hypertension,Flu,2023-03-17
+P1618,23,Male,136/79,79,38.4,19,"nausea, sore throat","asthma, none",COVID-19,2020-09-10
+P1619,87,Male,99/75,93,38.1,18,"fever, nausea, headache",none,Flu,2023-09-18
+P1620,47,Other,117/87,94,36.9,19,nausea,hypertension,Flu,2021-06-17
+P1621,10,Male,91/89,63,37.1,18,fever,hypertension,Hypertension,2023-04-16
+P1622,93,Female,93/90,89,38.8,16,"fever, sore throat, nausea",diabetes,Diabetes,2021-05-07
+P1623,6,Male,115/70,63,37.2,19,"nausea, sore throat, headache",hypertension,COVID-19,2021-09-16
+P1624,15,Male,109/79,96,38.4,14,"headache, fever",diabetes,COVID-19,2021-03-31
+P1625,4,Other,110/69,92,38.2,13,"fever, fatigue","hypertension, asthma",Cold,2024-05-31
+P1626,91,Male,140/87,77,36.0,15,"headache, sore throat","none, diabetes",Diabetes,2023-10-19
+P1627,13,Female,122/85,65,38.4,19,"fever, cough, fatigue",diabetes,COVID-19,2022-05-19
+P1628,16,Other,127/76,85,37.4,20,"fatigue, fever",none,COVID-19,2022-07-28
+P1629,64,Male,137/84,83,37.0,15,"sore throat, cough",hypertension,Hypertension,2024-05-02
+P1630,77,Other,92/78,85,37.3,13,nausea,"none, asthma",Diabetes,2023-09-04
+P1631,82,Female,122/89,68,38.6,17,nausea,"none, asthma",Flu,2020-10-02
+P1632,25,Male,116/69,80,37.3,19,"sore throat, headache, fever",diabetes,Hypertension,2021-02-18
+P1633,31,Other,127/79,74,36.3,14,"cough, fever, sore throat","none, asthma",Hypertension,2024-08-26
+P1634,21,Male,104/69,82,37.1,14,"sore throat, fever",hypertension,Cold,2023-04-01
+P1635,91,Female,123/66,60,38.3,16,sore throat,"asthma, diabetes",Cold,2022-09-25
+P1636,100,Other,97/90,64,37.8,19,"nausea, sore throat",asthma,COVID-19,2024-01-01
+P1637,38,Female,137/61,73,37.0,13,"nausea, headache, sore throat","asthma, diabetes",Flu,2020-09-02
+P1638,28,Other,121/65,66,36.3,15,"fatigue, headache",diabetes,COVID-19,2020-07-10
+P1639,20,Male,100/79,62,36.7,20,cough,"diabetes, hypertension",Hypertension,2024-01-25
+P1640,75,Female,104/63,100,38.6,12,"nausea, cough",diabetes,Diabetes,2022-07-20
+P1641,66,Other,100/63,64,36.2,19,"fever, sore throat, headache",asthma,Diabetes,2024-01-23
+P1642,36,Other,116/62,84,36.1,19,headache,none,COVID-19,2020-10-14
+P1643,38,Other,92/74,74,37.8,13,fatigue,none,Cold,2020-06-30
+P1644,54,Female,137/82,70,38.9,16,fatigue,"diabetes, hypertension",COVID-19,2021-08-21
+P1645,76,Male,127/77,68,36.0,13,fatigue,diabetes,Diabetes,2023-05-17
+P1646,25,Female,102/84,63,36.2,16,fatigue,"asthma, diabetes",Flu,2023-06-16
+P1647,72,Other,116/83,77,36.4,14,headache,diabetes,Cold,2022-05-06
+P1648,91,Other,91/65,93,37.2,13,"cough, sore throat","none, diabetes",Flu,2022-03-20
+P1649,47,Female,126/60,96,38.8,15,"nausea, fever","diabetes, hypertension",COVID-19,2023-02-11
+P1650,62,Male,102/77,93,38.5,18,"nausea, headache, cough","none, diabetes",Cold,2023-10-02
+P1651,9,Female,98/87,100,37.3,18,nausea,asthma,Hypertension,2022-06-07
+P1652,19,Other,91/61,79,37.4,13,"fever, nausea, sore throat",none,Flu,2023-06-06
+P1653,44,Other,119/89,99,38.6,16,"sore throat, cough",none,Hypertension,2022-01-15
+P1654,60,Male,113/83,76,38.4,13,"sore throat, fever",diabetes,Hypertension,2023-10-17
+P1655,22,Female,112/85,93,37.7,18,"headache, nausea","none, hypertension",Hypertension,2021-08-11
+P1656,38,Female,110/77,68,37.4,13,cough,"diabetes, none",Hypertension,2023-07-21
+P1657,98,Other,132/87,80,37.6,20,"fatigue, headache, sore throat","asthma, diabetes",Hypertension,2021-03-10
+P1658,39,Other,128/88,82,36.9,14,nausea,"diabetes, asthma",Hypertension,2023-11-16
+P1659,52,Male,94/81,63,38.8,18,headache,"hypertension, diabetes",Hypertension,2021-08-14
+P1660,13,Other,139/88,64,37.5,17,fever,hypertension,Diabetes,2023-10-09
+P1661,61,Female,109/69,70,38.3,15,fever,"none, asthma",Flu,2020-10-08
+P1662,63,Other,138/76,88,37.1,19,"headache, sore throat, cough",hypertension,Flu,2024-08-04
+P1663,82,Male,90/85,71,36.2,19,"nausea, fatigue",diabetes,Flu,2023-03-28
+P1664,38,Male,123/77,83,37.4,17,"fatigue, fever, nausea","none, hypertension",Diabetes,2022-08-19
+P1665,35,Other,120/69,71,38.1,14,"sore throat, cough, fever",hypertension,Flu,2024-02-28
+P1666,38,Other,111/78,88,39.0,13,nausea,"asthma, none",Diabetes,2023-02-10
+P1667,34,Other,114/68,74,38.5,13,"fatigue, sore throat",none,Diabetes,2021-10-25
+P1668,78,Male,118/77,88,36.5,19,"fever, cough",hypertension,Diabetes,2021-10-07
+P1669,56,Other,109/90,91,36.9,15,"cough, sore throat","diabetes, hypertension",Flu,2020-12-26
+P1670,80,Female,110/60,62,38.5,18,"fatigue, fever, cough",diabetes,COVID-19,2021-03-02
+P1671,71,Other,105/67,81,38.6,18,"fever, sore throat",diabetes,Diabetes,2022-05-14
+P1672,94,Other,117/89,90,37.7,12,sore throat,none,Diabetes,2020-12-11
+P1673,27,Female,128/89,77,38.8,15,headache,hypertension,Diabetes,2023-01-06
+P1674,19,Male,114/78,78,36.6,20,"fatigue, cough","hypertension, none",Flu,2020-01-28
+P1675,23,Female,128/82,61,36.1,12,"fatigue, fever, headache",none,Diabetes,2020-01-17
+P1676,76,Male,115/72,100,36.8,19,"fever, cough","hypertension, diabetes",Cold,2023-10-27
+P1677,11,Female,112/60,87,37.9,16,"fatigue, nausea","diabetes, asthma",COVID-19,2024-07-14
+P1678,90,Male,114/83,60,38.1,16,"nausea, fatigue, cough","hypertension, diabetes",COVID-19,2021-06-09
+P1679,56,Female,94/60,84,38.2,13,"headache, fever",hypertension,Diabetes,2023-08-01
+P1680,41,Female,98/65,71,38.2,14,"cough, nausea, fever",none,Flu,2022-01-11
+P1681,67,Male,138/84,74,36.7,13,fever,"asthma, hypertension",Hypertension,2024-08-22
+P1682,96,Male,129/77,79,38.5,13,headache,hypertension,Cold,2020-09-24
+P1683,55,Other,91/83,84,36.2,18,fever,"hypertension, asthma",Hypertension,2020-04-16
+P1684,16,Female,94/77,76,37.4,18,"fatigue, nausea","none, hypertension",Cold,2024-01-06
+P1685,46,Female,135/64,65,38.6,15,"fever, cough",none,Hypertension,2023-09-27
+P1686,98,Female,118/60,73,38.0,12,"nausea, cough",none,Hypertension,2022-03-02
+P1687,85,Female,98/81,67,37.5,16,"fatigue, nausea, headache","asthma, diabetes",Cold,2021-02-13
+P1688,17,Female,103/82,80,37.6,17,"sore throat, headache",hypertension,Hypertension,2022-06-27
+P1689,68,Male,94/69,93,37.3,16,"nausea, headache",asthma,Hypertension,2022-08-16
+P1690,95,Female,108/86,99,36.7,14,"headache, fatigue, nausea","diabetes, none",COVID-19,2023-11-07
+P1691,8,Other,126/81,71,38.4,15,"fever, headache, sore throat",diabetes,Cold,2024-05-19
+P1692,6,Female,140/67,65,36.5,13,headache,hypertension,Hypertension,2021-11-05
+P1693,35,Other,117/81,90,36.2,16,"headache, cough",hypertension,Diabetes,2021-04-14
+P1694,75,Female,129/74,67,36.7,13,"nausea, sore throat",diabetes,Hypertension,2020-12-08
+P1695,10,Male,128/85,67,36.8,13,"fatigue, sore throat",hypertension,Diabetes,2023-03-16
+P1696,87,Female,124/73,86,37.4,17,"headache, fever, fatigue",diabetes,Flu,2024-01-25
+P1697,66,Female,124/89,76,36.8,17,"fatigue, fever, nausea","hypertension, asthma",Diabetes,2024-05-27
+P1698,62,Female,127/72,83,38.0,15,"nausea, fatigue, cough","none, diabetes",COVID-19,2020-03-10
+P1699,27,Female,124/75,61,38.1,15,"nausea, headache","hypertension, none",Flu,2024-03-18
+P1700,37,Other,136/79,86,36.1,16,"headache, sore throat, fatigue","hypertension, asthma",Flu,2022-04-28
+P1701,30,Female,102/71,66,36.4,14,"cough, headache, fever",none,Hypertension,2022-07-25
+P1702,56,Female,128/66,87,36.4,14,"nausea, fatigue, sore throat","diabetes, hypertension",Hypertension,2023-03-27
+P1703,76,Other,106/68,99,38.6,17,"cough, fever, fatigue",none,Flu,2022-06-28
+P1704,26,Female,115/89,77,38.0,19,"headache, cough, sore throat",hypertension,Cold,2021-05-16
+P1705,82,Female,123/61,87,36.5,17,"cough, sore throat","diabetes, none",COVID-19,2022-07-05
+P1706,73,Other,91/80,66,38.6,18,"headache, sore throat, fatigue",none,COVID-19,2022-02-24
+P1707,71,Other,98/82,64,37.1,20,fatigue,none,Flu,2022-12-30
+P1708,94,Female,119/62,92,38.7,13,"nausea, sore throat, headache","none, asthma",Flu,2020-05-30
+P1709,30,Other,99/73,85,38.3,17,"sore throat, nausea",none,Hypertension,2021-04-10
+P1710,40,Female,135/62,66,38.2,13,"fever, cough, fatigue",asthma,Diabetes,2024-07-03
+P1711,26,Male,128/85,68,36.5,20,"fatigue, nausea","hypertension, none",COVID-19,2023-03-05
+P1712,25,Female,136/64,66,36.6,18,"fatigue, headache",diabetes,COVID-19,2024-07-06
+P1713,48,Male,117/68,66,37.8,20,fever,none,Flu,2023-01-21
+P1714,4,Female,98/88,97,37.4,13,headache,asthma,COVID-19,2023-05-24
+P1715,25,Other,90/73,98,38.8,20,sore throat,"none, asthma",Cold,2021-03-22
+P1716,84,Female,139/62,86,37.5,18,"fever, sore throat, fatigue","none, asthma",Hypertension,2020-08-03
+P1717,27,Male,102/89,87,38.2,12,cough,"diabetes, none",Flu,2021-02-14
+P1718,78,Other,115/86,92,36.5,18,"fatigue, sore throat","none, asthma",Diabetes,2021-02-21
+P1719,7,Male,130/77,64,37.0,16,"headache, nausea, fever","diabetes, asthma",Diabetes,2022-04-09
+P1720,3,Male,104/66,78,36.5,16,fever,none,Flu,2024-06-23
+P1721,10,Female,140/72,64,38.6,18,headache,none,Hypertension,2020-08-04
+P1722,57,Other,96/73,96,37.1,14,sore throat,none,Hypertension,2022-11-23
+P1723,49,Male,103/73,88,37.4,17,"sore throat, headache","asthma, none",Flu,2022-02-23
+P1724,75,Male,103/60,90,38.5,18,"fatigue, nausea, headache",hypertension,Diabetes,2022-10-25
+P1725,33,Female,137/73,92,37.7,17,"nausea, cough, fatigue","diabetes, hypertension",COVID-19,2022-10-26
+P1726,38,Male,101/88,62,38.3,14,"fatigue, headache",hypertension,Diabetes,2021-08-07
+P1727,85,Other,126/60,93,36.6,16,"fever, nausea, fatigue","hypertension, asthma",Hypertension,2022-03-26
+P1728,91,Female,127/70,77,38.7,15,"cough, fatigue",none,Diabetes,2021-02-03
+P1729,99,Male,102/76,61,38.6,12,"headache, sore throat, fever","diabetes, asthma",Hypertension,2023-11-26
+P1730,37,Other,118/65,88,37.3,16,"sore throat, fatigue, headache","hypertension, diabetes",Flu,2021-08-27
+P1731,64,Female,129/74,90,38.1,12,fatigue,none,Flu,2020-03-25
+P1732,84,Male,131/86,75,38.2,17,"fatigue, sore throat","diabetes, hypertension",Diabetes,2022-08-16
+P1733,2,Female,102/90,89,36.7,17,"headache, fatigue",hypertension,Hypertension,2020-05-21
+P1734,36,Other,135/76,86,38.9,12,"fever, cough, nausea",asthma,Hypertension,2022-11-27
+P1735,36,Other,99/84,67,37.5,13,"sore throat, cough",hypertension,Cold,2021-05-20
+P1736,19,Male,126/64,99,37.6,13,"fatigue, nausea, fever","none, hypertension",COVID-19,2022-02-09
+P1737,7,Male,136/62,91,37.7,12,"cough, sore throat",hypertension,Diabetes,2021-03-24
+P1738,97,Other,104/86,77,37.1,13,cough,"hypertension, none",Flu,2021-02-27
+P1739,70,Male,119/88,94,38.2,13,nausea,"none, asthma",Flu,2021-08-01
+P1740,72,Male,139/68,89,37.0,13,"nausea, fever, headache","asthma, diabetes",COVID-19,2022-12-30
+P1741,63,Male,97/74,77,36.1,15,"fatigue, headache, nausea","asthma, none",Diabetes,2022-10-21
+P1742,41,Female,115/83,70,37.1,20,"headache, cough","asthma, diabetes",Flu,2022-07-28
+P1743,22,Other,100/90,70,36.0,18,"cough, fatigue",diabetes,Hypertension,2021-08-19
+P1744,83,Other,111/67,65,39.0,13,"headache, fatigue",hypertension,Flu,2024-01-27
+P1745,4,Other,114/70,99,37.0,19,cough,diabetes,Diabetes,2024-05-17
+P1746,47,Male,126/71,84,37.0,17,fatigue,diabetes,Hypertension,2021-12-22
+P1747,4,Female,131/89,80,37.1,20,"sore throat, fatigue","hypertension, asthma",Cold,2023-04-05
+P1748,79,Other,118/63,76,36.4,15,"cough, sore throat",asthma,Hypertension,2022-03-01
+P1749,11,Female,115/82,80,36.4,16,headache,"hypertension, none",Flu,2021-08-16
+P1750,78,Other,126/68,64,37.1,14,fever,"diabetes, hypertension",Cold,2020-06-21
+P1751,65,Male,97/73,82,36.7,15,"fatigue, fever",asthma,Hypertension,2021-12-07
+P1752,34,Male,104/90,98,37.5,15,"sore throat, headache, cough",hypertension,Hypertension,2024-05-24
+P1753,96,Male,107/67,93,38.6,20,"cough, headache, fatigue",asthma,Flu,2020-10-16
+P1754,23,Female,109/69,69,36.7,13,"fever, fatigue",diabetes,Hypertension,2020-08-02
+P1755,35,Male,98/78,99,36.2,19,"headache, nausea, cough","asthma, hypertension",Cold,2021-05-09
+P1756,66,Male,136/61,62,38.8,17,"fever, sore throat, nausea",diabetes,Cold,2021-12-23
+P1757,10,Other,91/83,71,36.7,17,headache,none,Diabetes,2022-04-05
+P1758,31,Other,116/77,61,37.9,14,headache,asthma,Flu,2024-01-07
+P1759,82,Other,97/88,76,37.5,20,"cough, sore throat","hypertension, asthma",Diabetes,2020-09-09
+P1760,67,Female,130/64,88,36.9,13,"headache, cough",asthma,Hypertension,2024-08-02
+P1761,95,Male,138/76,74,36.0,14,"headache, fatigue","hypertension, none",Hypertension,2024-01-20
+P1762,63,Male,101/87,95,36.5,19,"nausea, cough",diabetes,Diabetes,2024-04-27
+P1763,19,Male,131/71,98,36.7,16,"cough, fatigue, nausea",hypertension,Cold,2023-09-07
+P1764,89,Male,103/75,79,36.5,18,fatigue,asthma,Diabetes,2023-10-23
+P1765,13,Female,103/65,90,38.5,16,"cough, fever, fatigue","asthma, none",Diabetes,2020-02-24
+P1766,9,Other,92/88,73,36.1,17,headache,none,Cold,2021-04-18
+P1767,57,Male,103/80,70,37.8,17,headache,"asthma, none",Diabetes,2023-05-19
+P1768,37,Female,113/60,60,37.1,19,"cough, headache","none, hypertension",Hypertension,2023-05-23
+P1769,66,Female,128/85,60,37.6,19,headache,none,Cold,2023-08-16
+P1770,5,Female,102/77,88,36.2,19,"sore throat, headache","hypertension, asthma",Cold,2020-05-26
+P1771,15,Other,129/63,60,38.1,19,headache,"diabetes, hypertension",Hypertension,2022-03-16
+P1772,14,Male,108/72,89,38.8,20,"fever, headache, cough",diabetes,Flu,2020-09-15
+P1773,5,Female,124/73,93,37.6,17,"cough, headache, nausea","asthma, none",Cold,2021-01-21
+P1774,62,Male,104/82,89,37.6,12,"fatigue, fever",asthma,Cold,2020-10-20
+P1775,10,Male,128/90,89,37.8,20,sore throat,"hypertension, asthma",Hypertension,2021-02-20
+P1776,33,Male,100/70,99,36.6,20,"fatigue, fever","diabetes, asthma",COVID-19,2023-02-24
+P1777,33,Female,94/66,99,37.4,13,sore throat,"none, diabetes",Hypertension,2021-03-03
+P1778,35,Other,131/67,82,38.4,16,headache,"diabetes, hypertension",Hypertension,2023-12-17
+P1779,89,Female,91/71,77,37.0,14,"nausea, sore throat, fatigue","hypertension, diabetes",COVID-19,2020-04-12
+P1780,5,Male,121/67,64,36.5,18,"headache, fatigue, sore throat","none, hypertension",Diabetes,2024-06-30
+P1781,46,Other,98/75,78,37.3,18,nausea,"diabetes, none",COVID-19,2023-12-03
+P1782,29,Male,103/88,82,37.8,15,"fatigue, fever","asthma, diabetes",Flu,2024-01-05
+P1783,82,Female,96/90,63,37.2,17,sore throat,hypertension,Flu,2024-06-10
+P1784,73,Female,125/68,76,36.9,20,sore throat,"hypertension, diabetes",Cold,2023-09-02
+P1785,67,Female,132/88,84,38.3,16,"fever, fatigue, nausea",none,Cold,2021-03-23
+P1786,60,Female,126/65,98,36.8,19,"sore throat, fatigue",asthma,Diabetes,2021-02-27
+P1787,49,Female,97/82,80,38.4,20,"nausea, cough","diabetes, none",Flu,2020-09-05
+P1788,53,Other,127/64,66,36.7,20,"fatigue, cough, headache",diabetes,Hypertension,2024-05-15
+P1789,50,Other,139/68,88,38.7,17,"headache, fatigue","hypertension, diabetes",Flu,2024-02-24
+P1790,63,Female,110/73,75,36.4,17,"sore throat, nausea","none, diabetes",Flu,2021-10-20
+P1791,15,Other,90/79,91,38.5,20,sore throat,none,Diabetes,2020-07-17
+P1792,19,Female,108/65,97,37.0,18,"fatigue, headache","asthma, none",Flu,2021-09-14
+P1793,88,Other,124/82,89,38.0,20,"headache, fatigue","none, hypertension",Diabetes,2020-03-08
+P1794,47,Other,101/84,78,36.4,18,nausea,none,Cold,2022-02-06
+P1795,16,Male,115/68,78,36.9,20,"nausea, fever",diabetes,Hypertension,2023-08-14
+P1796,60,Male,127/76,93,37.5,20,"headache, fever",diabetes,Cold,2021-11-11
+P1797,38,Male,102/79,81,38.9,13,"fever, cough, sore throat",asthma,Cold,2023-01-28
+P1798,59,Other,120/61,76,37.2,16,sore throat,"asthma, none",Diabetes,2022-11-04
+P1799,60,Female,92/73,91,36.5,12,nausea,"hypertension, asthma",Diabetes,2021-12-19
+P1800,75,Other,137/81,88,36.5,19,fever,"asthma, diabetes",Cold,2020-12-09
+P1801,13,Other,140/68,60,37.8,15,headache,none,Flu,2021-11-06
+P1802,66,Male,103/84,81,38.3,17,"nausea, cough, headache","none, diabetes",Cold,2021-01-09
+P1803,44,Female,99/64,90,38.2,13,"fever, sore throat, cough",hypertension,Hypertension,2022-09-19
+P1804,52,Male,97/61,71,37.8,18,fatigue,"diabetes, hypertension",COVID-19,2022-01-04
+P1805,86,Female,136/84,93,39.0,16,"cough, headache, sore throat",asthma,Flu,2023-01-10
+P1806,6,Other,106/86,75,38.7,13,"headache, sore throat","none, hypertension",COVID-19,2021-01-22
+P1807,79,Female,119/82,73,36.4,19,fatigue,none,Diabetes,2023-04-14
+P1808,79,Male,104/70,60,36.5,20,"nausea, fatigue, headache",hypertension,Cold,2022-12-23
+P1809,85,Female,114/69,61,36.4,12,nausea,diabetes,COVID-19,2023-09-28
+P1810,90,Other,100/89,100,36.4,20,"fever, cough",asthma,COVID-19,2021-02-08
+P1811,61,Male,116/89,65,36.5,13,"headache, cough, nausea",diabetes,Flu,2023-10-27
+P1812,12,Other,138/90,72,37.7,13,"fever, headache","diabetes, asthma",Diabetes,2021-04-18
+P1813,78,Other,103/80,69,36.4,12,"cough, nausea","none, hypertension",Cold,2023-09-01
+P1814,61,Other,121/83,69,38.0,14,"fatigue, cough",asthma,Hypertension,2020-02-02
+P1815,94,Male,93/65,64,37.6,16,fatigue,"none, hypertension",Cold,2021-01-07
+P1816,73,Other,128/72,97,37.9,15,sore throat,"diabetes, none",Hypertension,2022-04-06
+P1817,41,Female,109/62,99,36.8,19,"fatigue, headache","asthma, diabetes",COVID-19,2021-02-13
+P1818,9,Female,98/88,63,38.4,15,fatigue,hypertension,Diabetes,2020-02-07
+P1819,30,Other,102/64,74,38.6,17,fatigue,"hypertension, asthma",Diabetes,2022-12-13
+P1820,8,Male,117/78,85,37.3,17,"fever, headache",asthma,Hypertension,2023-09-24
+P1821,88,Other,131/83,67,39.0,13,"sore throat, headache","diabetes, hypertension",Cold,2023-12-31
+P1822,83,Female,96/73,96,36.8,17,"headache, sore throat, nausea","hypertension, asthma",Hypertension,2020-03-20
+P1823,23,Other,131/81,76,38.9,15,"fatigue, sore throat",asthma,Flu,2023-07-21
+P1824,50,Female,109/71,96,38.8,19,nausea,diabetes,Flu,2023-11-08
+P1825,23,Female,132/90,90,37.7,20,"nausea, fever, sore throat",none,COVID-19,2020-02-09
+P1826,19,Other,135/68,76,38.7,12,"fever, nausea",hypertension,Hypertension,2023-07-06
+P1827,77,Female,116/65,85,36.6,17,"fever, nausea, cough","diabetes, none",Flu,2021-10-29
+P1828,36,Female,108/64,66,37.1,13,headache,"asthma, diabetes",Hypertension,2021-02-02
+P1829,16,Female,107/65,68,38.8,13,nausea,"none, asthma",Hypertension,2024-07-06
+P1830,72,Female,118/61,84,37.7,20,"fatigue, cough, headache","none, hypertension",Cold,2020-02-28
+P1831,98,Female,110/69,77,37.8,18,"fatigue, cough",asthma,Cold,2022-12-08
+P1832,36,Male,106/63,88,36.7,17,"cough, fever, headache",diabetes,Diabetes,2021-04-14
+P1833,19,Female,93/79,74,36.0,15,headache,none,Cold,2020-02-23
+P1834,79,Male,112/63,95,38.9,12,"sore throat, cough",hypertension,Hypertension,2021-12-05
+P1835,13,Other,132/89,70,36.5,12,"headache, nausea",asthma,Hypertension,2024-01-18
+P1836,14,Other,98/78,74,37.4,19,cough,"asthma, hypertension",Hypertension,2021-08-19
+P1837,68,Female,110/80,65,38.2,17,nausea,diabetes,Hypertension,2024-01-17
+P1838,40,Other,110/74,100,36.1,19,"cough, fever",asthma,Diabetes,2020-08-17
+P1839,97,Other,131/61,81,36.4,16,"fever, sore throat",asthma,Flu,2024-05-27
+P1840,23,Male,102/76,69,37.2,18,"headache, fever","asthma, diabetes",Hypertension,2024-07-08
+P1841,16,Other,121/73,96,36.3,18,"headache, nausea, cough","diabetes, asthma",COVID-19,2020-07-06
+P1842,33,Other,100/89,61,38.4,19,sore throat,none,Cold,2020-01-05
+P1843,72,Male,90/67,97,38.2,15,fatigue,asthma,Hypertension,2020-12-16
+P1844,48,Female,122/68,83,37.5,12,"headache, nausea","diabetes, none",COVID-19,2020-08-17
+P1845,77,Male,125/86,95,38.9,17,"sore throat, cough, fatigue",asthma,Cold,2021-09-16
+P1846,93,Male,133/75,68,37.4,15,"fever, sore throat, headache","asthma, diabetes",Cold,2021-02-16
+P1847,73,Male,93/74,82,38.8,13,"headache, fever, fatigue","asthma, diabetes",Flu,2020-11-30
+P1848,15,Female,104/70,72,37.7,16,fatigue,"hypertension, diabetes",Hypertension,2023-01-07
+P1849,2,Other,125/61,62,38.1,18,nausea,"asthma, diabetes",Cold,2023-01-12
+P1850,12,Other,113/84,73,36.8,13,"sore throat, fatigue, fever","hypertension, diabetes",Flu,2024-01-02
+P1851,10,Female,138/64,65,38.2,13,"fever, sore throat","diabetes, hypertension",Hypertension,2024-02-25
+P1852,60,Male,131/74,87,37.3,16,cough,"diabetes, asthma",Cold,2020-07-15
+P1853,87,Male,113/71,62,37.7,18,"headache, cough","asthma, hypertension",Cold,2020-12-12
+P1854,53,Male,115/73,73,37.2,18,"sore throat, nausea","asthma, diabetes",Hypertension,2020-05-21
+P1855,30,Male,121/77,72,36.1,20,"nausea, headache, sore throat",none,Flu,2021-01-27
+P1856,50,Female,124/78,88,38.6,14,headache,hypertension,Diabetes,2021-07-22
+P1857,34,Female,113/78,85,36.6,20,"fatigue, sore throat",hypertension,Diabetes,2021-09-12
+P1858,67,Female,102/74,81,36.9,19,headache,"diabetes, asthma",Hypertension,2022-12-31
+P1859,3,Other,127/84,70,36.9,13,"cough, fever, sore throat","diabetes, none",Flu,2020-04-22
+P1860,93,Male,119/64,62,38.0,20,"nausea, fatigue, sore throat","diabetes, asthma",Cold,2021-12-12
+P1861,47,Male,135/69,98,36.3,18,fatigue,"diabetes, none",Hypertension,2021-07-08
+P1862,24,Other,113/60,86,37.6,19,nausea,asthma,Flu,2021-01-17
+P1863,6,Other,107/61,83,38.7,19,nausea,"asthma, diabetes",Flu,2022-10-02
+P1864,52,Other,131/73,83,38.8,15,"nausea, fever",hypertension,Cold,2024-02-14
+P1865,44,Other,97/73,79,36.3,13,"fever, fatigue, nausea",asthma,Flu,2021-09-18
+P1866,54,Male,124/64,98,37.5,17,"headache, fatigue","none, diabetes",Hypertension,2022-07-02
+P1867,45,Male,136/90,64,38.3,14,"fever, fatigue, sore throat",hypertension,COVID-19,2023-12-14
+P1868,67,Male,116/68,71,38.3,17,sore throat,"diabetes, none",Cold,2024-07-01
+P1869,44,Other,109/87,79,39.0,18,"fever, sore throat",hypertension,Hypertension,2022-11-22
+P1870,95,Female,94/85,97,36.5,20,fatigue,"none, hypertension",Cold,2024-04-24
+P1871,66,Other,95/75,86,36.3,16,"cough, nausea",hypertension,Hypertension,2021-05-21
+P1872,22,Male,130/64,76,36.9,19,fatigue,"hypertension, asthma",COVID-19,2021-07-31
+P1873,92,Other,118/64,99,36.2,17,"nausea, headache","diabetes, none",Cold,2022-02-08
+P1874,37,Female,103/64,73,38.2,20,"sore throat, cough","diabetes, asthma",Hypertension,2022-05-24
+P1875,82,Female,105/65,72,36.7,18,"headache, nausea","none, diabetes",COVID-19,2022-10-08
+P1876,67,Other,104/74,95,37.3,14,"fever, fatigue","none, asthma",COVID-19,2024-04-01
+P1877,71,Male,138/65,76,37.5,19,"fever, cough, sore throat",asthma,Hypertension,2021-09-23
+P1878,36,Other,92/83,64,38.3,19,headache,diabetes,Diabetes,2020-01-11
+P1879,3,Female,139/61,62,36.7,14,"headache, fatigue, sore throat","asthma, none",COVID-19,2024-06-27
+P1880,52,Male,126/68,68,38.0,16,"headache, fever",diabetes,Diabetes,2020-12-08
+P1881,74,Male,102/90,66,37.5,14,sore throat,diabetes,Diabetes,2023-03-19
+P1882,82,Other,126/66,76,36.4,15,"nausea, fatigue, headache",diabetes,Hypertension,2024-05-06
+P1883,71,Female,130/67,66,38.5,20,"sore throat, fever",none,Diabetes,2020-11-22
+P1884,19,Other,135/61,82,38.9,19,fatigue,diabetes,COVID-19,2020-09-10
+P1885,81,Female,133/86,83,37.9,15,"sore throat, nausea",asthma,COVID-19,2021-07-01
+P1886,37,Female,123/65,76,36.2,12,headache,asthma,COVID-19,2021-09-11
+P1887,91,Male,111/84,94,37.3,20,"sore throat, fatigue, headache","diabetes, asthma",Cold,2023-10-19
+P1888,77,Female,137/68,64,37.9,12,"cough, fever",hypertension,Flu,2022-10-14
+P1889,84,Male,115/86,73,36.8,15,headache,"none, hypertension",Cold,2020-11-30
+P1890,63,Male,130/78,97,37.1,13,fever,"hypertension, diabetes",Hypertension,2024-08-20
+P1891,83,Male,140/75,66,38.6,16,"cough, fatigue",asthma,Cold,2024-02-25
+P1892,73,Female,124/79,70,37.4,18,cough,"diabetes, hypertension",Flu,2023-05-11
+P1893,50,Male,108/63,94,38.4,13,"fever, headache",none,Diabetes,2020-06-02
+P1894,3,Other,91/89,73,37.7,17,"cough, sore throat, fatigue","none, asthma",Diabetes,2021-04-14
+P1895,25,Other,125/75,67,38.0,16,cough,none,COVID-19,2022-01-17
+P1896,44,Female,113/89,84,38.1,20,"fatigue, sore throat, fever",none,Hypertension,2024-08-14
+P1897,72,Other,116/81,96,37.3,15,fever,asthma,Hypertension,2023-01-29
+P1898,2,Male,133/77,82,36.6,15,"cough, fatigue","asthma, none",Diabetes,2023-08-22
+P1899,79,Male,109/89,73,38.4,17,"fatigue, headache, fever",none,COVID-19,2020-01-19
+P1900,79,Other,123/63,98,38.0,15,"sore throat, cough, headache",none,Cold,2023-04-06
+P1901,37,Male,112/76,98,38.7,12,"fever, nausea, cough","diabetes, asthma",Flu,2022-07-07
+P1902,22,Other,120/82,68,36.8,20,"cough, nausea",asthma,COVID-19,2021-11-24
+P1903,43,Female,113/76,80,38.3,18,"fever, sore throat, nausea",diabetes,Diabetes,2023-05-13
+P1904,14,Male,132/76,96,37.5,14,nausea,none,Hypertension,2023-04-09
+P1905,87,Male,112/69,72,37.5,12,"cough, fatigue, headache",diabetes,Hypertension,2020-08-11
+P1906,15,Female,115/75,89,37.0,17,"fatigue, cough, sore throat","hypertension, diabetes",Diabetes,2023-05-22
+P1907,33,Female,92/70,80,37.7,16,nausea,"diabetes, hypertension",Cold,2020-05-04
+P1908,10,Other,115/64,71,38.1,17,"cough, fatigue",none,Diabetes,2020-11-11
+P1909,27,Female,121/76,77,37.3,16,"cough, fever, nausea",hypertension,COVID-19,2022-01-20
+P1910,32,Female,93/80,61,36.9,14,headache,"hypertension, none",COVID-19,2024-07-21
+P1911,88,Female,107/65,82,37.9,16,nausea,hypertension,Hypertension,2020-04-20
+P1912,98,Male,113/85,68,37.0,14,cough,"asthma, hypertension",Flu,2024-06-08
+P1913,65,Male,138/74,71,37.2,19,"sore throat, fever",diabetes,Cold,2022-01-19
+P1914,37,Other,133/65,71,37.8,20,"fever, nausea","diabetes, hypertension",Diabetes,2021-02-03
+P1915,31,Male,93/85,71,36.6,20,"fever, headache, cough",diabetes,Hypertension,2020-11-26
+P1916,45,Other,102/77,68,36.4,17,cough,diabetes,Hypertension,2021-11-29
+P1917,55,Female,111/62,86,38.1,19,headache,none,Flu,2021-04-22
+P1918,68,Other,94/80,60,38.2,14,headache,"asthma, hypertension",Cold,2020-02-18
+P1919,96,Female,135/70,82,38.8,17,"headache, fever","hypertension, none",Hypertension,2023-03-07
+P1920,8,Male,94/74,83,37.8,18,"cough, fever",diabetes,COVID-19,2023-12-25
+P1921,28,Other,125/64,74,36.4,14,headache,diabetes,Diabetes,2022-04-25
+P1922,80,Female,112/79,78,37.1,16,nausea,diabetes,Flu,2024-04-08
+P1923,11,Female,126/66,63,36.4,15,"headache, nausea",asthma,Diabetes,2022-11-10
+P1924,55,Male,114/78,72,38.2,19,cough,none,Diabetes,2024-07-18
+P1925,65,Other,95/67,86,38.5,20,"cough, fatigue, sore throat","hypertension, asthma",Flu,2021-08-26
+P1926,77,Female,128/71,72,38.8,15,"fever, headache",hypertension,Diabetes,2022-09-04
+P1927,13,Other,122/74,74,36.8,19,"nausea, cough, fatigue","asthma, hypertension",Hypertension,2024-08-07
+P1928,75,Male,140/83,81,37.0,16,"headache, cough","asthma, none",Hypertension,2023-03-30
+P1929,26,Male,106/62,80,38.1,20,sore throat,"asthma, diabetes",Diabetes,2021-08-01
+P1930,2,Male,140/85,78,37.6,16,"cough, fever, nausea","asthma, none",Hypertension,2020-07-20
+P1931,15,Male,119/87,62,38.6,20,cough,"hypertension, asthma",Cold,2022-05-16
+P1932,33,Other,117/81,76,37.7,17,"fever, cough","hypertension, asthma",COVID-19,2024-04-05
+P1933,13,Female,111/62,60,37.2,19,"nausea, cough","diabetes, none",Hypertension,2020-06-10
+P1934,94,Male,101/88,85,38.0,15,headache,"hypertension, none",Flu,2021-08-08
+P1935,69,Other,109/87,68,38.8,18,"nausea, fatigue, headache",asthma,Hypertension,2024-02-19
+P1936,82,Female,129/62,70,38.8,15,"headache, cough, fever","diabetes, none",Hypertension,2022-06-21
+P1937,44,Other,103/78,90,37.4,19,"fatigue, sore throat",diabetes,COVID-19,2021-05-16
+P1938,97,Male,98/84,65,37.2,16,headache,"diabetes, asthma",Diabetes,2020-07-17
+P1939,26,Male,90/77,100,37.3,14,"nausea, headache","hypertension, asthma",Diabetes,2020-07-09
+P1940,61,Other,98/75,84,37.0,12,fever,diabetes,COVID-19,2020-05-16
+P1941,74,Female,113/83,87,38.4,13,"sore throat, nausea","diabetes, none",Cold,2024-05-28
+P1942,46,Female,92/85,74,37.6,18,fever,diabetes,Hypertension,2020-05-08
+P1943,58,Female,100/61,65,38.2,16,"cough, headache, fatigue",diabetes,Hypertension,2023-10-30
+P1944,85,Male,127/82,74,36.4,13,cough,"hypertension, asthma",Diabetes,2023-05-09
+P1945,60,Other,114/69,61,38.2,19,"fatigue, headache",hypertension,Hypertension,2024-05-04
+P1946,61,Other,124/61,67,36.5,12,"fatigue, cough","diabetes, asthma",Cold,2023-06-24
+P1947,45,Female,134/84,85,37.8,19,"cough, headache, nausea","none, hypertension",Cold,2021-08-23
+P1948,14,Male,123/63,61,36.8,17,fatigue,"asthma, hypertension",Hypertension,2022-09-07
+P1949,14,Other,118/86,93,37.8,16,"nausea, fatigue, sore throat",none,Hypertension,2021-01-26
+P1950,66,Other,104/73,93,36.7,19,"nausea, fever, headache","diabetes, none",COVID-19,2022-08-03
+P1951,45,Other,93/77,94,37.8,13,"nausea, headache","hypertension, none",Flu,2022-04-14
+P1952,65,Other,129/83,96,37.5,12,"cough, fatigue, nausea","diabetes, hypertension",COVID-19,2020-07-04
+P1953,97,Male,134/85,69,37.8,14,fatigue,"diabetes, asthma",Hypertension,2022-08-22
+P1954,65,Male,125/89,77,36.5,18,headache,"diabetes, hypertension",Diabetes,2021-02-11
+P1955,93,Other,117/61,79,36.5,19,"sore throat, fatigue, nausea",asthma,COVID-19,2021-01-24
+P1956,39,Female,114/78,62,36.1,13,"sore throat, fever, fatigue","none, asthma",COVID-19,2024-01-24
+P1957,70,Female,103/83,72,38.0,15,sore throat,hypertension,COVID-19,2022-02-19
+P1958,61,Other,110/80,79,36.5,15,"headache, cough","diabetes, hypertension",COVID-19,2023-06-08
+P1959,18,Female,104/68,99,38.3,15,sore throat,hypertension,Diabetes,2023-04-17
+P1960,47,Male,117/71,75,36.1,16,"sore throat, fatigue, fever","none, diabetes",COVID-19,2021-10-20
+P1961,57,Female,98/77,92,38.8,15,"cough, nausea","asthma, hypertension",Flu,2020-04-04
+P1962,91,Other,135/63,83,38.5,19,"cough, fatigue, fever","hypertension, diabetes",Flu,2021-08-22
+P1963,46,Male,122/64,81,37.9,18,"fatigue, cough, sore throat","asthma, hypertension",Cold,2021-07-26
+P1964,45,Female,101/89,84,38.2,17,"fatigue, cough, fever",none,Flu,2024-03-30
+P1965,90,Female,116/81,76,36.9,12,"cough, sore throat",asthma,Cold,2021-10-10
+P1966,46,Other,126/86,73,38.4,13,"nausea, cough",hypertension,COVID-19,2023-06-09
+P1967,44,Female,140/80,71,36.6,20,"fever, sore throat","hypertension, none",Flu,2022-12-01
+P1968,68,Male,116/70,73,38.1,13,"fatigue, cough","diabetes, hypertension",Hypertension,2024-01-13
+P1969,96,Female,94/70,96,38.5,18,"headache, cough",none,Cold,2020-11-13
+P1970,75,Female,125/61,92,37.8,17,cough,"diabetes, hypertension",Hypertension,2021-11-20
+P1971,11,Male,110/84,98,36.1,19,"headache, sore throat, fever",none,Hypertension,2022-10-21
+P1972,55,Male,136/70,82,36.9,12,"nausea, fatigue",asthma,Hypertension,2024-03-25
+P1973,83,Female,116/75,69,36.0,13,sore throat,diabetes,COVID-19,2021-08-25
+P1974,66,Male,132/85,78,36.8,12,nausea,"none, hypertension",Diabetes,2022-08-15
+P1975,46,Other,98/84,80,38.1,12,"sore throat, headache, nausea","hypertension, none",Hypertension,2022-01-19
+P1976,29,Other,138/63,91,36.8,17,"headache, fever, nausea","asthma, none",Cold,2021-05-19
+P1977,58,Other,108/82,73,37.5,20,fever,asthma,Hypertension,2024-02-08
+P1978,29,Male,92/89,93,38.3,12,fatigue,none,Cold,2023-01-27
+P1979,5,Other,121/67,84,38.6,13,fatigue,"diabetes, hypertension",COVID-19,2023-07-16
+P1980,35,Female,124/60,95,36.8,14,"headache, cough",diabetes,Cold,2022-02-13
+P1981,49,Male,90/87,77,38.3,18,sore throat,none,Cold,2021-12-06
+P1982,92,Female,92/88,91,37.1,17,"sore throat, headache, fatigue","none, hypertension",Flu,2020-06-01
+P1983,36,Other,135/73,64,37.8,18,"cough, fatigue, fever",none,Hypertension,2022-12-25
+P1984,52,Male,121/62,99,36.7,13,sore throat,none,Flu,2024-07-29
+P1985,61,Female,117/79,95,36.5,14,fever,"none, asthma",Hypertension,2023-09-17
+P1986,25,Other,122/62,78,36.1,19,"headache, cough","hypertension, asthma",Diabetes,2022-05-17
+P1987,92,Male,122/75,80,38.8,20,"sore throat, headache",none,Diabetes,2021-07-15
+P1988,58,Female,130/76,76,37.6,18,nausea,diabetes,COVID-19,2022-11-03
+P1989,32,Other,122/65,70,36.5,17,nausea,asthma,Cold,2022-09-11
+P1990,24,Other,104/73,75,37.6,20,"sore throat, nausea","asthma, none",Flu,2023-03-21
+P1991,17,Male,90/65,76,37.5,19,fatigue,hypertension,Cold,2023-06-05
+P1992,13,Male,139/75,77,37.3,16,"headache, sore throat",none,Diabetes,2021-09-09
+P1993,5,Other,115/75,89,37.3,18,"headache, fatigue, nausea",hypertension,Cold,2024-04-05
+P1994,86,Other,96/68,76,36.4,20,"fatigue, fever, cough",none,Diabetes,2023-12-26
+P1995,72,Other,108/75,64,37.6,12,"sore throat, fever","none, diabetes",Hypertension,2023-09-30
+P1996,11,Other,109/82,60,37.0,17,"cough, nausea","diabetes, asthma",Flu,2021-07-28
+P1997,2,Other,130/71,63,37.4,15,"headache, cough, sore throat",asthma,Hypertension,2021-11-10
+P1998,77,Other,123/76,79,36.4,19,"cough, nausea","none, hypertension",Cold,2024-07-02
+P1999,49,Female,116/75,69,38.8,12,nausea,asthma,Flu,2022-04-08
+P2000,28,Other,118/67,99,36.7,18,"fever, cough","hypertension, none",COVID-19,2022-10-10
