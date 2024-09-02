@@ -173,7 +173,7 @@ if __name__ == "__main__":
         df_preprocessed = preprocess_data(df)
         
         # Define the path for saving preprocessed data
-        processed_data_path = os.path.join('..', '..', 'data', 'preprocessed_medical_data.csv')
+        processed_data_path = os.path.join('..', '..', 'data','processed', 'preprocessed_medical_data.csv')
         
         # Save the preprocessed data
         save_preprocessed_data(df_preprocessed, processed_data_path)
