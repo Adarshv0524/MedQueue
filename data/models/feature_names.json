@@ -1,0 +1,6 @@
+[
+    "Age", "Gender", "Heart Rate", "Temperature", "Respiratory Rate", 
+    "Systolic BP", "Diastolic BP", "Symptoms", "Medical History", 
+    "Diagnosis", "Admission Year", "Admission Month", "Admission Day",
+    "Age_Bin"
+]
