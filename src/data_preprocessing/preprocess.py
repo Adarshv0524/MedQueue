@@ -163,7 +163,7 @@ def save_preprocessed_data(df, file_path):
 
 if __name__ == "__main__":
     # Define the correct path to the raw data file
-    raw_data_path = os.path.join('..', '..', 'data', 'patient_data.csv')
+    raw_data_path = os.path.join('..', '..', 'data','raw' , 'patient_data.csv')
     
     try:
         # Load raw data

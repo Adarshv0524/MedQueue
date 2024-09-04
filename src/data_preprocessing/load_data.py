@@ -20,4 +20,4 @@ def load_data(file_path):
 
 if __name__ == "__main__":
     # Load raw data
-    df = load_data('MedQueue\data\patient_data.csv')
+    df = load_data('../../data/raw/patient_data.csv')
