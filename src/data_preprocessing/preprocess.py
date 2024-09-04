@@ -103,14 +103,13 @@ def preprocess_data(df):
     """
     
     # Handling missing values
-    # Fill missing values in numerical columns with the median
+    # Drop the missing values columns
+
     numerical_columns = ['Heart Rate', 'Temperature', 'Respiratory Rate']
-    df[numerical_columns] = df[numerical_columns].fillna(df[numerical_columns].median())
-    
-    # Fill missing values in categorical columns with the mode
     categorical_columns = ['Symptoms', 'Medical History', 'Diagnosis']
-    df[categorical_columns] = df[categorical_columns].fillna(df[categorical_columns].mode().iloc[0])
-    
+
+    df = df.dropna(subset = numerical_columns + categorical_columns)
+
     # Convert 'Admission Date' to datetime and extract features
     df['Admission Date'] = pd.to_datetime(df['Admission Date'])
     df['Admission Year'] = df['Admission Date'].dt.year
