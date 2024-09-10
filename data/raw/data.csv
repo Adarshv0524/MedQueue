@@ -1,0 +1,11 @@
+Patient ID,Age,Gender,Blood Pressure,Heart Rate,Temperature,Oxygen Saturation,Respiratory Rate,Symptoms,Medical History,Diagnosis,Admission Date
+1,49,Female,130/92,121.0,39.3,89,18,Shortness of Breath,Hypertension,COVID-19,2023-10-23
+2,33,Other,118/82,95.0,36.9,96,13,Headache,Diabetes,Healthy,2023-10-28
+3,7,Female,138/95,69.0,37.3,100,13,Chest Pain,Hypertension,Flu,2023-01-14
+4,30,Male,140/93,89.0,37.0,85,14,Cough,Hypertension,Asthma,2023-08-23
+5,14,Other,120/87,148.0,37.9,93,18,Fever,COVID-19,Stroke,2023-12-30
+6,88,Male,139/100,70.0,37.2,89,11,Fatigue,COVID-19,Stroke,2023-06-16
+7,73,Other,130/97,,38.2,90,19,Fever,COVID-19,Hypertension,2023-03-04
+8,76,Other,140/97,155.0,38.7,98,17,Fever,Stroke,Diabetes,2023-09-20
+9,40,Female,111/73,152.0,38.1,94,15,Fever,Asthma,Healthy,2023-07-14
+10,61,Female,130/99,191.0,40.0,90,15,Cough,Hypertension,COVID-19,2023-08-30
