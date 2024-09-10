@@ -4,7 +4,7 @@ import random
 from datetime import datetime, timedelta
 
 # Random seed for reproducibility
-random.seed(41)
+random.seed(42)
 
 # Function to generate a realistic random date within the past year
 def generate_random_date():
@@ -113,7 +113,7 @@ def add_outliers(value, feature):
 
 # Generate dataset
 data = []
-for i in range(1, 11):
+for i in range(1, 5001):
     age = random.randint(1, 90)
     gender = random.choice(['Male', 'Female', 'Other'])
     symptom = random.choice(symptoms)
